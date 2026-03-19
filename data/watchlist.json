@@ -3,18 +3,22 @@
   "buckets": [
     {
       "name": "21EMA",
-      "tickers": [
-        "MSFT",
-        "TSLA"
-      ]
+      "tickers": []
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "AR"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "APA",
+        "ACN",
+        "AXIA",
+        "ALGN"
+      ]
     },
     {
       "name": "Momentum 97",
@@ -31,9 +35,19 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "AAPL",
-        "GOOG",
-        "TSLA"
+        "APA",
+        "AM",
+        "AWK",
+        "ARM",
+        "APD",
+        "AKAM",
+        "AMX",
+        "ANET",
+        "AMT",
+        "AMAT",
+        "AXIA",
+        "ASX",
+        "ALGN"
       ]
     },
     {
