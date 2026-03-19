@@ -29,7 +29,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run screener pipeline
-        run: python scripts/build_watchlist.py
+        run: python -m scripts.build_watchlist
 
       - name: Commit results
         run: |
