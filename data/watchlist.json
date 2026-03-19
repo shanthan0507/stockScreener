@@ -1,0 +1,48 @@
+{
+  "date": "2026-03-19",
+  "buckets": [
+    {
+      "name": "21EMA",
+      "tickers": [
+        "MSFT",
+        "TSLA"
+      ]
+    },
+    {
+      "name": "4% Bullish",
+      "tickers": []
+    },
+    {
+      "name": "Vol Up",
+      "tickers": []
+    },
+    {
+      "name": "Momentum 97",
+      "tickers": []
+    },
+    {
+      "name": "97 Club",
+      "tickers": []
+    },
+    {
+      "name": "VCS",
+      "tickers": []
+    },
+    {
+      "name": "Pocket Pivot",
+      "tickers": [
+        "AAPL",
+        "GOOG",
+        "TSLA"
+      ]
+    },
+    {
+      "name": "PP Count",
+      "tickers": []
+    },
+    {
+      "name": "Weekly 20%+ Gainers",
+      "tickers": []
+    }
+  ]
+}
