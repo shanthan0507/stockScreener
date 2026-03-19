@@ -29,7 +29,7 @@ def test_compute_has_required_keys(ticker_df, spy, universe_closes):
     required = [
         "ema21", "sma50", "atr14", "adr_pct", "dcr_pct", "rel_vol",
         "daily_pct", "from_open_pct", "weekly_pct", "rs_1m_raw", "rs_3m_raw",
-        "rs_6m_raw", "vcs", "ema21_atr", "sma50_atr", "pp_count_30d",
+        "rs_6m_raw", "rs_1m_excess", "vcs", "ema21_atr", "sma50_atr", "pp_count_30d",
         "trend_base", "avg_vol_50d",
     ]
     for key in required:
