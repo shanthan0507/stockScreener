@@ -7,60 +7,15 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "CIEN",
-        "AR",
-        "LITE",
-        "COHR",
-        "RRC",
-        "FIVE",
-        "BKR"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "APA",
-        "PSX",
-        "DVN",
-        "FIVE",
-        "TRGP",
-        "JHG",
-        "EXE",
-        "FFIV",
-        "MASI",
-        "DRI",
-        "ACN",
-        "FDX",
-        "ALGN",
-        "COR",
-        "NOV",
-        "OTIS",
-        "SSB"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "APA",
-        "CIEN",
-        "SNDK",
-        "LITE",
-        "DINO",
-        "COHR",
-        "NSA",
-        "WDC",
-        "FIVE",
-        "STX",
-        "GEV",
-        "HAL",
-        "NVT",
-        "LSCC",
-        "AMKR",
-        "LRCX",
-        "BKR",
-        "MKSI"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
@@ -68,41 +23,11 @@
     },
     {
       "name": "VCS",
-      "tickers": [
-        "MASI",
-        "SLAB"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "DELL",
-        "SNDK",
-        "RRC",
-        "PSX",
-        "PANW",
-        "DVN",
-        "FIVE",
-        "EQT",
-        "NYT",
-        "DT",
-        "TRGP",
-        "MU",
-        "STX",
-        "DTM",
-        "DOC",
-        "EXE",
-        "AWK",
-        "FFIV",
-        "MASI",
-        "JBL",
-        "HR",
-        "T",
-        "IRM",
-        "WWD",
-        "FDX",
-        "FLR"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -110,11 +35,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "CIEN",
-        "LITE",
-        "NSA"
-      ]
+      "tickers": []
     }
   ]
 }
