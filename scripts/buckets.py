@@ -53,7 +53,6 @@ def filter_momentum_97(ind: dict) -> bool:
         _get(ind, "avg_vol_50d", 0) >= 1_000_000
         and _get(ind, "weekly_pct_rank", 0) >= 97
         and _get(ind, "monthly_pct_rank", 0) >= 85
-        and _get(ind, "trend_base", False) is True
     )
 
 
@@ -61,7 +60,6 @@ def filter_97_club(ind: dict) -> bool:
     return (
         _get(ind, "hybrid_rs", 0) >= 90
         and _get(ind, "rs_1m", 0) >= 97
-        and _get(ind, "trend_base", False) is True
     )
 
 
@@ -76,11 +74,7 @@ def filter_vcs(ind: dict) -> bool:
 
 
 def filter_pocket_pivot(ind: dict) -> bool:
-    return (
-        _get(ind, "close", 0) > _get(ind, "sma50", float("inf"))
-        and _get(ind, "daily_pct", -999) >= 0.0
-        and _get(ind, "pp_count_30d", 0) >= 1
-    )
+    return _get(ind, "today_is_pp", False) is True
 
 
 def filter_pp_count(ind: dict) -> bool:

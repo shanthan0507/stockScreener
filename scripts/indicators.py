@@ -83,8 +83,9 @@ def compute(df: pd.DataFrame, spy_df: pd.DataFrame, universe_closes: pd.DataFram
         ema21_atr = float((close.iloc[-1] - ema21.iloc[-1]) / atr14.iloc[-1]) if pd.notna(atr14.iloc[-1]) and atr14.iloc[-1] > 0 else None
         sma50_atr = float((close.iloc[-1] - sma50.iloc[-1]) / atr14.iloc[-1]) if pd.notna(sma50.iloc[-1]) and pd.notna(atr14.iloc[-1]) and atr14.iloc[-1] > 0 else None
 
-        # --- Pocket Pivot Count (30d) ---
+        # --- Pocket Pivot Count (30d) and today_is_pp ---
         pp_count = _pocket_pivot_count(df, days=30)
+        today_is_pp = _is_today_pocket_pivot(df, sma50.iloc[-1])
 
         # --- Trend Base ---
         trend_base = bool(
@@ -115,6 +116,7 @@ def compute(df: pd.DataFrame, spy_df: pd.DataFrame, universe_closes: pd.DataFram
             "ema21_atr": ema21_atr,
             "sma50_atr": sma50_atr,
             "pp_count_30d": pp_count,
+            "today_is_pp": today_is_pp,
             "trend_base": trend_base,
             "avg_vol_50d": avg_vol_50d,
             # These are set externally by orchestrator after percentile-ranking across universe:
@@ -123,6 +125,32 @@ def compute(df: pd.DataFrame, spy_df: pd.DataFrame, universe_closes: pd.DataFram
     except Exception as exc:
         logger.warning("compute() failed: %s", exc)
         return {}
+
+
+def _is_today_pocket_pivot(df: pd.DataFrame, sma50_val: float) -> bool:
+    """
+    Check if today specifically is a pocket pivot day:
+    green candle, close > 50SMA, volume > highest down-day volume in prior 10 sessions.
+    """
+    try:
+        today_close = df["Close"].iloc[-1]
+        today_open = df["Open"].iloc[-1]
+        today_vol = df["Volume"].iloc[-1]
+
+        if pd.isna(sma50_val) or today_close <= sma50_val:
+            return False
+        if today_close <= today_open:
+            return False
+        if len(df) < 11:
+            return False
+
+        prior_10 = df.iloc[-11:-1]
+        down_days = prior_10[prior_10["Close"] < prior_10["Open"]]
+        if down_days.empty:
+            return False
+        return bool(today_vol > down_days["Volume"].max())
+    except Exception:
+        return False
 
 
 def _pocket_pivot_count(df: pd.DataFrame, days: int = 30) -> int:

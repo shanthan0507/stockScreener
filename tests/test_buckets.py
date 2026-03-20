@@ -152,16 +152,13 @@ class TestFilterVCS:
 
 class TestFilterPocketPivot:
     def test_pass(self):
-        ind = dict(close=100.0, sma50=90.0, daily_pct=1.0, pp_count_30d=1)
-        assert filter_pocket_pivot(ind) is True
+        assert filter_pocket_pivot(dict(today_is_pp=True)) is True
 
-    def test_fail_below_sma50(self):
-        ind = dict(close=80.0, sma50=90.0, daily_pct=1.0, pp_count_30d=1)
-        assert filter_pocket_pivot(ind) is False
+    def test_fail_not_pp_today(self):
+        assert filter_pocket_pivot(dict(today_is_pp=False)) is False
 
-    def test_fail_missing_close(self):
-        ind = dict(sma50=90.0, daily_pct=1.0, pp_count_30d=1)
-        assert filter_pocket_pivot(ind) is False
+    def test_fail_missing_today_is_pp(self):
+        assert filter_pocket_pivot(dict(close=100.0, sma50=90.0)) is False
 
 
 class TestFilterPPCount:
