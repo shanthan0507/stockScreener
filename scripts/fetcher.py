@@ -7,7 +7,8 @@ logger = logging.getLogger(__name__)
 
 _PERIOD = "6mo"        # ~125 trading days, enough for all indicators
 _MAX_RETRIES = 3
-_BACKOFF = [5, 15, 30]  # seconds between retries
+_BACKOFF = [15, 45, 90]  # seconds between retries (longer for rate-limit recovery)
+_BATCH_SLEEP = 8         # seconds between batches to avoid rate limiting
 
 
 def fetch_ohlcv(tickers: list[str], batch_size: int = 100) -> dict[str, pd.DataFrame]:
@@ -32,7 +33,7 @@ def fetch_ohlcv(tickers: list[str], batch_size: int = 100) -> dict[str, pd.DataF
                     period=_PERIOD,
                     auto_adjust=True,
                     progress=False,
-                    threads=True,
+                    threads=False,
                 )
                 break
             except Exception as exc:
@@ -43,6 +44,9 @@ def fetch_ohlcv(tickers: list[str], batch_size: int = 100) -> dict[str, pd.DataF
                 else:
                     logger.error("yfinance failed after %d attempts: %s", _MAX_RETRIES, exc)
                     raw = pd.DataFrame()
+
+        if i + batch_size < len(tickers):
+            time.sleep(_BATCH_SLEEP)
 
         if raw.empty:
             continue
