@@ -7,35 +7,111 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "PBF"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "APA",
+        "DELL",
+        "CHRD",
+        "OXY",
+        "AKAM",
+        "COP",
+        "MUR",
+        "VRSN",
+        "FANG",
+        "CVX",
+        "ADSK",
+        "FCN",
+        "VNOM",
+        "ROP",
+        "IT",
+        "FCFS",
+        "JKHY",
+        "NWS",
+        "EXLS",
+        "OKE",
+        "VZ",
+        "PAYX",
+        "PGR",
+        "FOX",
+        "ALL",
+        "SATS",
+        "EPAM",
+        "WDAY",
+        "NXST",
+        "TMUS",
+        "CINF",
+        "CDW",
+        "BRO",
+        "ADBE",
+        "EXPO",
+        "CTSH",
+        "EXEL",
+        "DIS",
+        "V",
+        "GEN",
+        "ACGL",
+        "APO",
+        "J",
+        "AMP",
+        "FDX",
+        "CMCSA",
+        "VC",
+        "NOV",
+        "SWKS",
+        "UBSI",
+        "BAC",
+        "HALO",
+        "KNF",
+        "CBSH",
+        "KEY",
+        "KBR",
+        "TCBI",
+        "WFC",
+        "MZTI",
+        "FFIN",
+        "COF",
+        "SIGI",
+        "HWC",
+        "CSGP",
+        "PSKY",
+        "MTB",
+        "RF",
+        "ONB",
+        "VMC",
+        "FICO",
+        "FITB",
+        "ASGN"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "PBF",
-        "DELL",
         "APA",
-        "CIEN",
+        "CHRD",
         "DINO",
+        "CIEN",
+        "CTRA",
         "SNDK",
-        "NSA",
-        "LITE",
         "VNOM",
+        "LITE",
+        "NSA",
         "HAL",
-        "WDC",
         "FIVE",
+        "WDC",
         "GEV",
         "STX",
         "NVT",
         "BKR",
         "AMKR",
-        "LSCC",
         "LRCX",
-        "MKSI"
+        "MKSI",
+        "ENTG"
       ]
     },
     {
@@ -50,7 +126,28 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "APA",
+        "CHRD",
+        "NFLX",
+        "COP",
+        "MUR",
+        "BSY",
+        "VRSN",
+        "UTHR",
+        "CVX",
+        "XOM",
+        "FCN",
+        "VNOM",
+        "ROST",
+        "FCFS",
+        "VZ",
+        "T",
+        "ALL",
+        "TRV",
+        "TMUS",
+        "KNF"
+      ]
     },
     {
       "name": "PP Count",
@@ -58,9 +155,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "NSA"
-      ]
+      "tickers": []
     }
   ]
 }
