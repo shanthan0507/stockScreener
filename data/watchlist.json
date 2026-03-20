@@ -8,16 +8,16 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "AR"
+        "AAOI"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "APA",
+        "AKR",
         "ACN",
-        "AXIA",
-        "ALGN"
+        "ALGN",
+        "ADMA"
       ]
     },
     {
@@ -30,23 +30,22 @@
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "ACLX"
+      ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "APA",
+        "AAOI",
+        "AMPX",
+        "ADEA",
         "AM",
-        "AWK",
-        "ARM",
-        "APD",
         "AKAM",
         "AMX",
         "ANET",
         "AMT",
         "AMAT",
-        "AXIA",
-        "ASX",
         "ALGN"
       ]
     },
