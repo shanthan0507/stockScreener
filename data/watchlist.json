@@ -7,27 +7,50 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "DELL",
+        "PLTR",
+        "CAR",
+        "CIEN",
+        "CNXC",
+        "FTI",
+        "GTM",
+        "ALGN",
+        "KNF",
+        "AN"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "NWS",
+        "EXE",
+        "LAMR",
+        "KNF",
+        "UBSI",
+        "ORA",
+        "APG",
+        "HWC",
+        "CNM",
+        "UFPI",
+        "CNH",
+        "NEM",
+        "WAL",
+        "THO",
+        "SMCI"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "CIEN",
-        "LITE",
         "OLN",
-        "GEV",
         "Q",
-        "TER",
         "SLB",
         "TTMI",
-        "ALB",
-        "GLW",
         "WFRD",
-        "RRX"
+        "ALGM"
       ]
     },
     {
@@ -42,7 +65,13 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "APA",
+        "PLTR",
+        "VAL",
+        "KNF",
+        "NOV"
+      ]
     },
     {
       "name": "PP Count",
