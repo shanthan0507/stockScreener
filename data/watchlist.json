@@ -8,13 +8,28 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "DELL",
+        "CAR",
         "HPE",
+        "AKAM",
+        "VRSN",
+        "SATS",
+        "BWXT",
+        "AMD",
         "CHWY"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "HPE",
+        "SATS",
+        "CASY",
+        "PAYX",
+        "CHWY",
+        "CNH",
+        "SMCI"
+      ]
     },
     {
       "name": "Momentum 97",
@@ -22,19 +37,20 @@
         "DELL",
         "CIEN",
         "OLN",
-        "LITE",
         "NXT",
-        "GEV",
-        "Q",
+        "BWXT",
         "JBL",
         "SLB",
-        "AMKR",
-        "TTMI",
+        "Q",
         "LSCC",
+        "TTMI",
         "MTSI",
         "TER",
         "ALB",
-        "GLW"
+        "WFRD",
+        "GLW",
+        "CNH",
+        "RRX"
       ]
     },
     {
@@ -44,13 +60,18 @@
     {
       "name": "VCS",
       "tickers": [
-        "MASI",
-        "SLAB"
+        "MASI"
       ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "HPE",
+        "VRSN",
+        "ROST",
+        "CASY",
+        "AMD"
+      ]
     },
     {
       "name": "PP Count",
@@ -59,9 +80,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "FN",
-        "GLW",
-        "FOUR"
+        "CAR",
+        "FN"
       ]
     }
   ]
