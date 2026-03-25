@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,56 +8,30 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "DELL",
-        "PBF",
-        "APA",
-        "CF",
-        "MPC",
-        "DOW",
-        "PSX",
         "HPE",
-        "LITE",
-        "COHR",
-        "AEIS",
-        "KEX",
-        "SNX",
-        "FN",
-        "CRS",
-        "FLG",
-        "LFUS"
+        "CHWY"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "DELL",
-        "JAZZ",
-        "JHG",
-        "FN",
-        "APO",
-        "VNO",
-        "CNM",
-        "FOUR",
-        "COR",
-        "EPR",
-        "CNH",
-        "JEF",
-        "SMCI"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "DELL",
         "CIEN",
-        "LITE",
         "OLN",
-        "JBL",
-        "AMKR",
+        "LITE",
         "NXT",
+        "GEV",
         "Q",
+        "JBL",
+        "SLB",
+        "AMKR",
         "TTMI",
         "LSCC",
+        "MTSI",
         "TER",
         "ALB",
         "GLW"
@@ -70,20 +44,13 @@
     {
       "name": "VCS",
       "tickers": [
-        "MASI"
+        "MASI",
+        "SLAB"
       ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "APA",
-        "CVX",
-        "ROST",
-        "JAZZ",
-        "AEIS",
-        "FN",
-        "LFUS"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -92,6 +59,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
+        "FN",
+        "GLW",
         "FOUR"
       ]
     }
