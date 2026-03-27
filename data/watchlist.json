@@ -7,32 +7,43 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "ETR",
+        "BF-B"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "ETR",
+        "BF-B",
+        "NWE",
+        "CPB"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "APA",
+        "LYB",
+        "CF",
         "CHRD",
         "DOW",
         "MTDR",
         "OVV",
-        "DELL",
         "OLN",
         "HAL",
+        "FTI",
         "VAL",
-        "BG",
         "ADM",
         "SLB",
         "ETR",
         "ALB",
         "SOLS",
-        "WFRD",
-        "GLW"
+        "GLW",
+        "WFRD"
       ]
     },
     {
@@ -42,13 +53,20 @@
     {
       "name": "VCS",
       "tickers": [
-        "MASI",
-        "SLAB"
+        "MASI"
       ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "OXY",
+        "PR",
+        "CVX",
+        "DAR",
+        "ETR",
+        "BF-B"
+      ]
     },
     {
       "name": "PP Count",
