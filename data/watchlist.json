@@ -7,17 +7,30 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "PANW"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "UTHR",
+        "NWS",
+        "SNX",
+        "PVH",
+        "GTLS",
+        "AA",
+        "EQH",
+        "PPC",
+        "VMC",
+        "BBWI",
+        "CMC"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "AA",
-        "EIX"
+        "AA"
       ]
     },
     {
@@ -33,7 +46,14 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "OXY",
+        "DAR",
+        "WLK",
+        "CART",
+        "CHTR",
+        "ODFL"
+      ]
     },
     {
       "name": "PP Count",
