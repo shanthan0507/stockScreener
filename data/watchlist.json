@@ -7,52 +7,88 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "NXT",
+        "SNX",
+        "PVH",
+        "AA",
+        "FLEX",
+        "GEV",
+        "DAL",
+        "C",
+        "MPWR",
+        "SATS",
+        "ITT",
+        "FIX",
+        "DKS",
+        "AVGO",
+        "CVNA",
+        "LRCX",
+        "CRS",
+        "RMBS",
+        "CAT",
+        "STRL",
+        "ON",
+        "FDS",
+        "AMAT",
+        "CW",
+        "EVR",
+        "NVDA",
+        "VC"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "UTHR",
+        "NWS",
+        "SNX",
+        "NWSA",
+        "PVH",
+        "DAL",
+        "SATS",
+        "IBOC",
+        "FDS",
+        "WAB",
+        "EQH",
+        "PII",
+        "NNN",
+        "SOLV",
+        "LAMR",
+        "TKO",
+        "SHC",
+        "CNH",
+        "TTD",
+        "CCL",
+        "NSC",
+        "RH",
+        "VMI",
+        "MU",
+        "NKE",
+        "IDXX",
+        "META",
+        "IP",
+        "MSA",
+        "CTAS",
+        "SYY",
+        "LEN",
+        "FND",
+        "ELF",
+        "PSKY"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "DOW",
-        "DAR",
-        "AA",
-        "CAVA"
+        "CAVA",
+        "AA"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "CAR",
-        "LYB",
-        "DOW",
-        "APA",
-        "CHRD",
-        "PBF",
-        "CF",
-        "OXY",
-        "OLN",
-        "MTDR",
-        "MUR",
-        "MUSA",
-        "PR",
-        "OVV",
-        "MPC",
-        "DVN",
-        "DINO",
-        "CTRA",
-        "EOG",
-        "DAR",
-        "PSX",
-        "VLO",
-        "AR",
-        "UTHR",
-        "FANG",
-        "WLK",
-        "XOM"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
@@ -64,7 +100,18 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "NWS",
+        "SNX",
+        "CASY",
+        "VNOM",
+        "PVH",
+        "EA",
+        "T",
+        "NFLX",
+        "WAB",
+        "ODFL"
+      ]
     },
     {
       "name": "PP Count",
