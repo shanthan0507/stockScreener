@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,53 +7,64 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "PANW"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "UTHR",
-        "NWS",
-        "SNX",
-        "PVH",
-        "GTLS",
-        "AA",
-        "EQH",
-        "PPC",
-        "VMC",
-        "BBWI",
-        "CMC"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "AA"
+        "DOW",
+        "DAR",
+        "AA",
+        "CAVA"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "LYB",
+        "DOW",
+        "APA",
+        "CHRD",
+        "PBF",
+        "CF",
+        "OXY",
+        "OLN",
+        "MTDR",
+        "MUR",
+        "MUSA",
+        "PR",
+        "OVV",
+        "MPC",
+        "DVN",
+        "DINO",
+        "CTRA",
+        "EOG",
+        "DAR",
+        "PSX",
+        "VLO",
+        "AR",
+        "UTHR",
+        "FANG",
+        "WLK",
+        "XOM"
+      ]
     },
     {
       "name": "VCS",
       "tickers": [
+        "SLAB",
         "MASI",
         "AES"
       ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "OXY",
-        "DAR",
-        "WLK",
-        "CART",
-        "CHTR",
-        "ODFL"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
