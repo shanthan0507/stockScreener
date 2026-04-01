@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,88 +7,53 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "CAR",
-        "NXT",
-        "SNX",
-        "PVH",
-        "AA",
-        "FLEX",
-        "GEV",
-        "DAL",
-        "C",
-        "MPWR",
-        "SATS",
-        "ITT",
-        "FIX",
-        "DKS",
-        "AVGO",
-        "CVNA",
-        "LRCX",
-        "CRS",
-        "RMBS",
-        "CAT",
-        "STRL",
-        "ON",
-        "FDS",
-        "AMAT",
-        "CW",
-        "EVR",
-        "NVDA",
-        "VC"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "CAR",
-        "UTHR",
-        "NWS",
-        "SNX",
-        "NWSA",
-        "PVH",
-        "DAL",
-        "SATS",
-        "IBOC",
-        "FDS",
-        "WAB",
-        "EQH",
-        "PII",
-        "NNN",
-        "SOLV",
-        "LAMR",
-        "TKO",
-        "SHC",
-        "CNH",
-        "TTD",
-        "CCL",
-        "NSC",
-        "RH",
-        "VMI",
-        "MU",
-        "NKE",
-        "IDXX",
-        "META",
-        "IP",
-        "MSA",
-        "CTAS",
-        "SYY",
-        "LEN",
-        "FND",
-        "ELF",
-        "PSKY"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "CAVA",
-        "AA"
+        "SNDK",
+        "WDC",
+        "AA",
+        "STX",
+        "LITE",
+        "INTC",
+        "ALGM",
+        "ATI",
+        "FCX"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "APA",
+        "DOW",
+        "LYB",
+        "OLN",
+        "CIEN",
+        "CHRD",
+        "CF",
+        "UTHR",
+        "NXT",
+        "MUSA",
+        "SNDK",
+        "OXY",
+        "MUR",
+        "WDC",
+        "DELL",
+        "DAR",
+        "AA",
+        "MTDR",
+        "NSA",
+        "AKAM",
+        "STX",
+        "LITE"
+      ]
     },
     {
       "name": "VCS",
@@ -100,18 +65,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "NWS",
-        "SNX",
-        "CASY",
-        "VNOM",
-        "PVH",
-        "EA",
-        "T",
-        "NFLX",
-        "WAB",
-        "ODFL"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -119,7 +73,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "AA"
+      ]
     }
   ]
 }
