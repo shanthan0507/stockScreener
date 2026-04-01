@@ -7,65 +7,74 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "AA",
+        "SNX",
+        "PVH",
+        "SNDK",
+        "WDC",
+        "LITE",
+        "INTC",
+        "BWXT",
+        "MOS",
+        "WWD"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "SNX",
+        "PVH",
+        "CASY",
+        "FDS",
+        "WAB",
+        "PII",
+        "APG",
+        "LLY",
+        "SHC",
+        "ATI",
+        "MU",
+        "BLD",
+        "SYY",
+        "ELF"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "SNDK",
-        "WDC",
         "AA",
+        "SNDK",
         "STX",
         "LITE",
         "INTC",
         "ALGM",
-        "ATI",
         "FCX"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "CAR",
-        "APA",
-        "DOW",
-        "LYB",
-        "OLN",
-        "CIEN",
-        "CHRD",
-        "CF",
-        "UTHR",
-        "NXT",
-        "MUSA",
-        "SNDK",
-        "OXY",
-        "MUR",
-        "WDC",
-        "DELL",
-        "DAR",
-        "AA",
-        "MTDR",
-        "NSA",
-        "AKAM",
-        "STX",
-        "LITE"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
       "tickers": [
-        "SLAB",
         "MASI",
         "AES"
       ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "SNX",
+        "PVH",
+        "WDC",
+        "CASY",
+        "FDS",
+        "WAB",
+        "ATI"
+      ]
     },
     {
       "name": "PP Count",
