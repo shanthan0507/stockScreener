@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,55 +7,53 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "CAR",
-        "AA",
-        "SNX",
-        "PVH",
-        "SNDK",
-        "WDC",
-        "LITE",
-        "INTC",
-        "BWXT",
-        "MOS",
-        "WWD"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "CAR",
-        "SNX",
-        "PVH",
-        "CASY",
-        "FDS",
-        "WAB",
-        "PII",
-        "APG",
-        "LLY",
-        "SHC",
-        "ATI",
-        "MU",
-        "BLD",
-        "SYY",
-        "ELF"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "AA",
+        "CIEN",
         "SNDK",
-        "STX",
         "LITE",
+        "AA",
+        "STX",
         "INTC",
-        "ALGM",
-        "FCX"
+        "ALGM"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "CIEN",
+        "APA",
+        "SNDK",
+        "LITE",
+        "DOW",
+        "MUSA",
+        "LYB",
+        "DAR",
+        "SNX",
+        "OXY",
+        "CHRD",
+        "CF",
+        "MUR",
+        "DELL",
+        "AA",
+        "OLN",
+        "NSA",
+        "AKAM",
+        "STX",
+        "MTZ",
+        "MTDR",
+        "NXT",
+        "WDC",
+        "HAL"
+      ]
     },
     {
       "name": "VCS",
@@ -66,15 +64,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "SNX",
-        "PVH",
-        "WDC",
-        "CASY",
-        "FDS",
-        "WAB",
-        "ATI"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -83,6 +73,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
+        "SNX",
         "AA"
       ]
     }
