@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "buckets": [
     {
       "name": "21EMA",
@@ -10,6 +10,7 @@
       "tickers": [
         "CAR",
         "LITE",
+        "DAR",
         "SATS",
         "INTC",
         "FCFS",
@@ -20,10 +21,13 @@
       "name": "Vol Up",
       "tickers": [
         "CAR",
+        "SNX",
+        "SATS",
         "FCFS",
         "SBAC",
         "SHC",
         "CCI",
+        "NSC",
         "RH",
         "WING"
       ]
