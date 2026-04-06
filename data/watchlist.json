@@ -7,22 +7,31 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "STX",
+        "PVH",
+        "VRSN",
+        "SBAC",
+        "CROX",
+        "DKS"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "CAR",
+        "PVH",
+        "SBAC",
+        "NBIX",
         "HOLX"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "SNDK",
         "STX",
-        "OLN",
-        "WDC",
-        "MU"
+        "PVH"
       ]
     },
     {
@@ -38,7 +47,14 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "SBAC",
+        "CART",
+        "ODFL",
+        "CROX",
+        "EHC"
+      ]
     },
     {
       "name": "PP Count",
