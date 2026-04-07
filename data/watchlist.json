@@ -8,24 +8,37 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CAR"
+        "CAR",
+        "INTC",
+        "CGNX",
+        "CVS"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
         "CAR",
-        "HOLX"
+        "SNX",
+        "VRSN",
+        "HUM",
+        "UNH",
+        "NWE",
+        "HOLX",
+        "CVS",
+        "PSKY",
+        "LECO"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "MUR",
+        "CAR",
+        "PVH",
         "OLN",
-        "CF",
         "STX",
-        "VLO"
+        "WDC",
+        "INTC",
+        "CGNX"
       ]
     },
     {
@@ -35,7 +48,6 @@
     {
       "name": "VCS",
       "tickers": [
-        "SLAB",
         "MASI",
         "AES"
       ]
@@ -43,7 +55,29 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "PSKY"
+        "CAR",
+        "INTC",
+        "VRSN",
+        "SAM",
+        "MEDP",
+        "ACI",
+        "TWLO",
+        "CROX",
+        "WAB",
+        "SLAB",
+        "GMED",
+        "SAIA",
+        "CGNX",
+        "NWE",
+        "NI",
+        "BKH",
+        "CVS",
+        "GRMN",
+        "CW",
+        "PSKY",
+        "CTRE",
+        "EHC",
+        "AVGO"
       ]
     },
     {
@@ -52,7 +86,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "CAR"
+      ]
     }
   ]
 }
