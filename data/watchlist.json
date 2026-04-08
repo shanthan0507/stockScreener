@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,38 +7,25 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "CAR",
-        "INTC",
-        "CGNX",
-        "CVS"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "CAR",
-        "SNX",
-        "VRSN",
-        "HUM",
-        "UNH",
-        "NWE",
-        "HOLX",
-        "CVS",
-        "PSKY",
-        "LECO"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "CAR",
         "PVH",
-        "OLN",
         "STX",
         "WDC",
         "INTC",
-        "CGNX"
+        "TER",
+        "LRCX",
+        "AMAT",
+        "CAVA",
+        "RRX"
       ]
     },
     {
@@ -47,37 +34,12 @@
     },
     {
       "name": "VCS",
-      "tickers": [
-        "MASI",
-        "AES"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "CAR",
-        "INTC",
-        "VRSN",
-        "SAM",
-        "MEDP",
-        "ACI",
-        "TWLO",
-        "CROX",
-        "WAB",
-        "SLAB",
-        "GMED",
-        "SAIA",
-        "CGNX",
-        "NWE",
-        "NI",
-        "BKH",
-        "CVS",
-        "GRMN",
-        "CW",
-        "PSKY",
-        "CTRE",
-        "EHC",
-        "AVGO"
+        "CAR"
       ]
     },
     {
