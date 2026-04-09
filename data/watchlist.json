@@ -8,12 +8,30 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CAR"
+        "CAR",
+        "PVH",
+        "INTC",
+        "CROX",
+        "BF-B",
+        "RMBS",
+        "AMZN",
+        "FOXA",
+        "STZ",
+        "HGV"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "INTC",
+        "CROX",
+        "BF-B",
+        "WAB",
+        "FOXA",
+        "STZ",
+        "CVLT"
+      ]
     },
     {
       "name": "Momentum 97",
@@ -21,17 +39,16 @@
         "CAR",
         "PVH",
         "STX",
+        "SNDK",
         "GLW",
         "INTC",
-        "SNDK",
         "WDC",
         "TER",
-        "LSCC",
-        "MKSI",
         "LRCX",
-        "Q",
+        "KLAC",
         "ENTG",
-        "AMAT"
+        "AMAT",
+        "MU"
       ]
     },
     {
@@ -44,7 +61,47 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "INTC",
+        "CROX",
+        "BF-B",
+        "HOG",
+        "TER",
+        "FLEX",
+        "CRUS",
+        "FN",
+        "ENS",
+        "VLY",
+        "WFRD",
+        "CAT",
+        "ARW",
+        "WAB",
+        "PNFP",
+        "AMZN",
+        "AVT",
+        "OZK",
+        "STZ",
+        "CFR",
+        "HLT",
+        "FLS",
+        "NUE",
+        "FTV",
+        "JBHT",
+        "VC",
+        "CBSH",
+        "PPL",
+        "GWW",
+        "CMS",
+        "NI",
+        "TJX",
+        "AWK",
+        "IPGP",
+        "XEL",
+        "USFD",
+        "WELL",
+        "IDCC"
+      ]
     },
     {
       "name": "PP Count",
@@ -54,6 +111,7 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "CAR",
+        "SNDK",
         "INTC",
         "CROX"
       ]
