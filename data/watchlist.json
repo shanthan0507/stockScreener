@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,48 +7,33 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "CAR",
-        "PVH",
-        "INTC",
-        "CROX",
-        "BF-B",
-        "RMBS",
-        "AMZN",
-        "FOXA",
-        "STZ",
-        "HGV"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "CAR",
-        "INTC",
-        "CROX",
-        "BF-B",
-        "WAB",
-        "FOXA",
-        "STZ",
-        "CVLT"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "CAR",
         "PVH",
-        "STX",
-        "SNDK",
-        "GLW",
         "INTC",
-        "WDC",
+        "SNDK",
+        "STX",
+        "GLW",
+        "TTMI",
         "TER",
+        "CROX",
+        "MKSI",
         "LRCX",
+        "RMBS",
         "KLAC",
         "ENTG",
+        "COHR",
+        "ALGM",
         "AMAT",
-        "MU"
+        "ANET"
       ]
     },
     {
@@ -61,47 +46,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "CAR",
-        "INTC",
-        "CROX",
-        "BF-B",
-        "HOG",
-        "TER",
-        "FLEX",
-        "CRUS",
-        "FN",
-        "ENS",
-        "VLY",
-        "WFRD",
-        "CAT",
-        "ARW",
-        "WAB",
-        "PNFP",
-        "AMZN",
-        "AVT",
-        "OZK",
-        "STZ",
-        "CFR",
-        "HLT",
-        "FLS",
-        "NUE",
-        "FTV",
-        "JBHT",
-        "VC",
-        "CBSH",
-        "PPL",
-        "GWW",
-        "CMS",
-        "NI",
-        "TJX",
-        "AWK",
-        "IPGP",
-        "XEL",
-        "USFD",
-        "WELL",
-        "IDCC"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -111,9 +56,16 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "CAR",
-        "SNDK",
+        "AMKR",
         "INTC",
-        "CROX"
+        "SNDK",
+        "MPWR",
+        "SITM",
+        "TTMI",
+        "CROX",
+        "LRCX",
+        "RMBS",
+        "VICR"
       ]
     }
   ]
