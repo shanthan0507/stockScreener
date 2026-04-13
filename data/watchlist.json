@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-13",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,47 +7,17 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "ONTO",
-        "TTMI",
-        "FN",
-        "SATS",
-        "AVGO",
-        "CVLT"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "CAR",
-        "STZ",
-        "CVLT",
-        "FRT",
-        "TPL"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "CAR",
-        "PVH",
-        "INTC",
-        "SNDK",
-        "STX",
-        "TTMI",
-        "GLW",
-        "WDC",
-        "TER",
-        "COHR",
-        "MKSI",
-        "LRCX",
-        "KLAC",
-        "ENTG",
-        "RMBS",
-        "ALGM",
-        "AMAT",
-        "ANET",
-        "MU"
+        "SNDK"
       ]
     },
     {
@@ -60,22 +30,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "CAR",
-        "AMKR",
-        "ONTO",
-        "INTC",
-        "TTMI",
-        "FN",
-        "FLEX",
-        "AMZN",
-        "JBHT",
-        "NUE",
-        "NTRS",
-        "DY",
-        "CVLT",
-        "FRT"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -83,16 +38,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "CAR",
-        "AMKR",
-        "INTC",
-        "SNDK",
-        "TTMI",
-        "MPWR",
-        "SITM",
-        "LRCX"
-      ]
+      "tickers": []
     }
   ]
 }
