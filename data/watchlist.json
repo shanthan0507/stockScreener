@@ -7,11 +7,39 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "INTC",
+        "AMD",
+        "AMKR",
+        "ON",
+        "SAIA",
+        "ALB",
+        "DELL",
+        "CRUS",
+        "KNX",
+        "JBHT",
+        "XPO",
+        "ORCL",
+        "HIMS",
+        "CHTR",
+        "DOCN",
+        "CHRW"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "CAR",
+        "AMD",
+        "ON",
+        "ALB",
+        "JBHT",
+        "BK",
+        "ORCL",
+        "HIMS",
+        "GME",
+        "CHRW",
         "PII"
       ]
     },
@@ -19,7 +47,10 @@
       "name": "Momentum 97",
       "tickers": [
         "CAR",
-        "ON"
+        "AMD",
+        "ON",
+        "ALB",
+        "DOCN"
       ]
     },
     {
@@ -33,7 +64,66 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "ON"
+        "AMD",
+        "AMKR",
+        "ON",
+        "SAIA",
+        "ALB",
+        "DELL",
+        "GLW",
+        "CRUS",
+        "VFC",
+        "KNX",
+        "JBHT",
+        "TEL",
+        "NUE",
+        "LSCC",
+        "CVLT",
+        "BK",
+        "XPO",
+        "TXN",
+        "HIMS",
+        "NTRS",
+        "KEYS",
+        "NFLX",
+        "CFG",
+        "CDW",
+        "TFC",
+        "ZBRA",
+        "WSO",
+        "IRM",
+        "RF",
+        "SYNA",
+        "OC",
+        "CBOE",
+        "GME",
+        "CSX",
+        "SOLS",
+        "MRSH",
+        "MSFT",
+        "IDCC",
+        "CHRW",
+        "REXR",
+        "SPG",
+        "IDA",
+        "VICR",
+        "EGP",
+        "AIG",
+        "CVS",
+        "CDP",
+        "KIM",
+        "PPL",
+        "PNW",
+        "AEP",
+        "OGE",
+        "CAVA",
+        "NI",
+        "LNT",
+        "XEL",
+        "CMS",
+        "EVRG",
+        "COIN",
+        "EOG"
       ]
     },
     {
@@ -44,9 +134,10 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "CAR",
+        "ALB",
         "ORCL",
-        "HOOD",
-        "HIMS"
+        "HIMS",
+        "HOOD"
       ]
     }
   ]
