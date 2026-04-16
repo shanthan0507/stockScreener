@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,36 +7,19 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "AVGO",
-        "MS",
-        "VFC",
-        "HOOD",
-        "ARES",
-        "CRBG",
-        "ORCL",
-        "PINS",
-        "EQH",
-        "DASH"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "VFC",
-        "HOOD",
-        "WSO",
-        "GME",
-        "HAS",
-        "TSLA",
-        "ACI",
-        "SYY"
+        "PII"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "CAR"
+        "CAR",
+        "ON"
       ]
     },
     {
@@ -50,54 +33,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "BF-B",
-        "ARWR",
-        "MS",
-        "VFC",
-        "AAON",
-        "CVLT",
-        "BX",
-        "FIX",
-        "BAC",
-        "BK",
-        "GRMN",
-        "HOOD",
-        "TCBI",
-        "TMO",
-        "MET",
-        "APO",
-        "WTFC",
-        "HBAN",
-        "NVDA",
-        "PINS",
-        "EQH",
-        "WSO",
-        "HWC",
-        "PRI",
-        "POOL",
-        "DASH",
-        "GME",
-        "STWD",
-        "LIVN",
-        "LNTH",
-        "IDCC",
-        "BHF",
-        "MGM",
-        "TTWO",
-        "PWR",
-        "EGP",
-        "MSFT",
-        "SON",
-        "SNPS",
-        "EPR",
-        "PEGA",
-        "AIG",
-        "MP",
-        "NI",
-        "TSLA",
-        "MORN",
-        "HIMS",
-        "COIN"
+        "ON"
       ]
     },
     {
@@ -108,8 +44,8 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "CAR",
-        "HOOD",
         "ORCL",
+        "HOOD",
         "HIMS"
       ]
     }
