@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,50 +7,19 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "CAR",
-        "INTC",
-        "AMD",
-        "AMKR",
-        "ON",
-        "SAIA",
-        "ALB",
-        "DELL",
-        "CRUS",
-        "KNX",
-        "JBHT",
-        "XPO",
-        "ORCL",
-        "HIMS",
-        "CHTR",
-        "DOCN",
-        "CHRW"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "CAR",
-        "AMD",
-        "ON",
-        "ALB",
-        "JBHT",
-        "BK",
-        "ORCL",
-        "HIMS",
-        "GME",
-        "CHRW",
-        "PII"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "CAR",
-        "AMD",
         "ON",
         "ALB",
-        "DOCN"
+        "TWLO"
       ]
     },
     {
@@ -64,66 +33,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "AMD",
-        "AMKR",
-        "ON",
-        "SAIA",
-        "ALB",
-        "DELL",
-        "GLW",
-        "CRUS",
-        "VFC",
-        "KNX",
-        "JBHT",
-        "TEL",
-        "NUE",
-        "LSCC",
-        "CVLT",
-        "BK",
-        "XPO",
-        "TXN",
         "HIMS",
-        "NTRS",
-        "KEYS",
-        "NFLX",
-        "CFG",
-        "CDW",
-        "TFC",
-        "ZBRA",
-        "WSO",
-        "IRM",
-        "RF",
-        "SYNA",
-        "OC",
-        "CBOE",
-        "GME",
-        "CSX",
-        "SOLS",
-        "MRSH",
-        "MSFT",
-        "IDCC",
-        "CHRW",
-        "REXR",
-        "SPG",
-        "IDA",
-        "VICR",
-        "EGP",
-        "AIG",
-        "CVS",
-        "CDP",
-        "KIM",
-        "PPL",
-        "PNW",
-        "AEP",
-        "OGE",
-        "CAVA",
-        "NI",
-        "LNT",
-        "XEL",
-        "CMS",
-        "EVRG",
-        "COIN",
-        "EOG"
+        "NFLX"
       ]
     },
     {
@@ -134,10 +45,16 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "CAR",
-        "ALB",
-        "ORCL",
+        "HOOD",
         "HIMS",
-        "HOOD"
+        "DASH",
+        "VICR",
+        "ORCL",
+        "APO",
+        "ARES",
+        "APP",
+        "COIN",
+        "DOCS"
       ]
     }
   ]
