@@ -7,31 +7,48 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "CAR",
+        "PVH",
+        "BLD",
+        "HIMS",
+        "MP",
+        "HPE",
+        "STLD",
+        "CART",
+        "PII",
+        "SWK"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "BLD"
+        "CAR",
+        "BLD",
+        "HIMS",
+        "MP",
+        "STLD",
+        "SWK",
+        "AZO",
+        "FIVE",
+        "SEIC",
+        "HOMB",
+        "CPRT",
+        "DGX"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "CAR",
-        "AMKR",
+        "PVH",
         "CROX",
-        "STLD",
         "DELL",
         "HPE",
-        "STT",
-        "CHTR",
-        "VTRS",
-        "DOCN",
-        "DOW",
-        "FANG",
-        "CHRD",
-        "LYB"
+        "STLD",
+        "TWLO",
+        "FIVE",
+        "DOCN"
       ]
     },
     {
@@ -45,7 +62,64 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "HIMS"
+        "SITM",
+        "AMKR",
+        "BLD",
+        "ON",
+        "HIMS",
+        "VICR",
+        "LSCC",
+        "MP",
+        "ENTG",
+        "HPE",
+        "STLD",
+        "NUE",
+        "TXN",
+        "OC",
+        "STT",
+        "BRKR",
+        "ADI",
+        "ST",
+        "HGV",
+        "LSTR",
+        "CART",
+        "VC",
+        "PNFP",
+        "NSA",
+        "NTRS",
+        "XRAY",
+        "ZION",
+        "COLM",
+        "PAG",
+        "CAVA",
+        "EWBC",
+        "TCBI",
+        "ETN",
+        "OZK",
+        "MAS",
+        "WY",
+        "HWC",
+        "LOW",
+        "VTRS",
+        "WTFC",
+        "WAT",
+        "EGP",
+        "CUBE",
+        "CHDN",
+        "GL",
+        "ALGN",
+        "ANF",
+        "SNPS",
+        "HSIC",
+        "FIVE",
+        "LVS",
+        "CBSH",
+        "WMT",
+        "HLNE",
+        "ZTS",
+        "MCO",
+        "MTN",
+        "GTLS"
       ]
     },
     {
@@ -54,7 +128,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "CAR"
+      ]
     }
   ]
 }
