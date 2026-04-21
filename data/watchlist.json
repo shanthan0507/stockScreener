@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "buckets": [
     {
       "name": "21EMA",
@@ -9,45 +9,24 @@
       "name": "4% Bullish",
       "tickers": [
         "CAR",
-        "PVH",
-        "BLD",
-        "HIMS",
-        "MP",
-        "HPE",
-        "STLD",
-        "CART",
-        "PII",
-        "SWK"
+        "VICR"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
         "CAR",
-        "BLD",
-        "HIMS",
-        "MP",
-        "STLD",
-        "SWK",
-        "AZO",
-        "FIVE",
-        "SEIC",
-        "HOMB",
-        "CPRT",
-        "DGX"
+        "UNH"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "CAR",
-        "PVH",
-        "CROX",
-        "DELL",
-        "HPE",
+        "AMKR",
         "STLD",
-        "TWLO",
-        "FIVE",
+        "HPE",
+        "DELL",
         "DOCN"
       ]
     },
@@ -62,64 +41,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "SITM",
-        "AMKR",
-        "BLD",
-        "ON",
-        "HIMS",
         "VICR",
-        "LSCC",
-        "MP",
-        "ENTG",
-        "HPE",
-        "STLD",
-        "NUE",
-        "TXN",
-        "OC",
-        "STT",
-        "BRKR",
-        "ADI",
-        "ST",
-        "HGV",
-        "LSTR",
-        "CART",
-        "VC",
-        "PNFP",
-        "NSA",
-        "NTRS",
-        "XRAY",
-        "ZION",
-        "COLM",
-        "PAG",
-        "CAVA",
-        "EWBC",
-        "TCBI",
-        "ETN",
-        "OZK",
-        "MAS",
-        "WY",
-        "HWC",
-        "LOW",
-        "VTRS",
-        "WTFC",
-        "WAT",
-        "EGP",
-        "CUBE",
-        "CHDN",
-        "GL",
-        "ALGN",
-        "ANF",
-        "SNPS",
-        "HSIC",
-        "FIVE",
-        "LVS",
-        "CBSH",
-        "WMT",
-        "HLNE",
-        "ZTS",
-        "MCO",
-        "MTN",
-        "GTLS"
+        "HIMS"
       ]
     },
     {
