@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,38 +8,13 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CAR",
-        "VICR",
-        "STLD",
-        "NTRS",
-        "MLI",
-        "SYNA",
-        "VMI",
-        "HPQ",
-        "NTAP",
-        "EXEL",
-        "MSCI"
+        "GEV"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CAR",
-        "VICR",
-        "STLD",
-        "UNH",
-        "NTRS",
-        "MLI",
-        "SYNA",
-        "DHI",
-        "VMI",
-        "EWBC",
-        "EEFT",
-        "MAS",
-        "SWK",
-        "MSCI",
-        "SEIC",
-        "DGX"
+        "CAR"
       ]
     },
     {
@@ -47,14 +22,15 @@
       "tickers": [
         "CAR",
         "STLD",
-        "HPE",
+        "NUE",
+        "GEV",
         "DELL",
-        "NTRS",
+        "HPE",
         "DOCN",
         "DOW",
-        "CF",
-        "CHRD",
         "MTDR",
+        "CHRD",
+        "CF",
         "LYB",
         "PBF"
       ]
@@ -70,47 +46,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "AMKR",
-        "ON",
-        "VICR",
-        "AMD",
-        "STLD",
-        "HIMS",
-        "FLEX",
-        "NUE",
-        "HPE",
-        "DELL",
-        "ANET",
-        "STT",
-        "NTRS",
-        "MP",
-        "MLI",
-        "SYNA",
-        "LSTR",
-        "ST",
-        "CDW",
-        "AEIS",
-        "SYF",
-        "VMI",
-        "EWBC",
-        "CSCO",
-        "EEFT",
-        "HPQ",
-        "GPC",
-        "TROW",
-        "MAS",
-        "NTAP",
-        "EXEL",
-        "POST",
-        "SON",
-        "NWSA",
-        "AFL",
-        "MSCI",
-        "ALGN",
-        "EFX",
-        "SEIC",
-        "DGX",
-        "CB"
+        "GEV"
       ]
     },
     {
