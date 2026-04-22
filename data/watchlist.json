@@ -8,19 +8,52 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "GEV"
+        "AMD",
+        "VICR",
+        "MP",
+        "GEV",
+        "MU",
+        "WEX",
+        "BA",
+        "RS",
+        "CLF",
+        "GME",
+        "TMHC"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CAR"
+        "VICR",
+        "GEV",
+        "MAS",
+        "WEX",
+        "BA",
+        "RS",
+        "EWBC",
+        "RRX",
+        "ONB",
+        "WFRD",
+        "SEIC",
+        "MANH",
+        "SSD",
+        "TDY",
+        "WRB",
+        "ISRG",
+        "FHI",
+        "LPX",
+        "PM",
+        "PEN",
+        "NOW",
+        "BSX",
+        "RRC"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "CAR",
+        "AMD",
+        "ANET",
         "STLD",
         "NUE",
         "GEV",
@@ -46,7 +79,36 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "GEV"
+        "AMD",
+        "VICR",
+        "AMKR",
+        "ON",
+        "ANET",
+        "STLD",
+        "NUE",
+        "GEV",
+        "WEX",
+        "IBKR",
+        "BA",
+        "EEFT",
+        "SYF",
+        "RS",
+        "CBRE",
+        "ENS",
+        "EME",
+        "EXEL",
+        "GME",
+        "ONB",
+        "AXP",
+        "SCI",
+        "WFRD",
+        "SEIC",
+        "SSD",
+        "ADBE",
+        "TEL",
+        "ISRG",
+        "FHI",
+        "RRC"
       ]
     },
     {
@@ -56,7 +118,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "CAR"
+        "VICR"
       ]
     }
   ]
