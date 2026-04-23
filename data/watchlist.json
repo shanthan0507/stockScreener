@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,64 +8,37 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "AMD",
-        "VICR",
-        "MP",
-        "GEV",
-        "MU",
-        "WEX",
-        "BA",
-        "RS",
-        "CLF",
-        "GME",
-        "TMHC"
+        "ON",
+        "TXN",
+        "URI",
+        "WST",
+        "VOYA",
+        "SEIC"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "VICR",
-        "GEV",
-        "MAS",
-        "WEX",
-        "BA",
-        "RS",
-        "EWBC",
-        "RRX",
-        "ONB",
-        "WFRD",
-        "SEIC",
-        "MANH",
-        "SSD",
-        "TDY",
-        "WRB",
-        "ISRG",
-        "FHI",
-        "LPX",
-        "PM",
-        "PEN",
-        "NOW",
-        "BSX",
-        "RRC"
+        "TXN",
+        "VOYA"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "AMD",
-        "ANET",
+        "ON",
+        "AMKR",
+        "STX",
+        "TXN",
+        "WDC",
+        "MCHP",
+        "ALGM",
         "STLD",
-        "NUE",
+        "ADI",
         "GEV",
         "DELL",
-        "HPE",
         "DOCN",
-        "DOW",
-        "MTDR",
-        "CHRD",
-        "CF",
-        "LYB",
-        "PBF"
+        "NXT"
       ]
     },
     {
@@ -79,36 +52,12 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "AMD",
-        "VICR",
-        "AMKR",
         "ON",
-        "ANET",
-        "STLD",
-        "NUE",
-        "GEV",
-        "WEX",
-        "IBKR",
-        "BA",
-        "EEFT",
-        "SYF",
-        "RS",
-        "CBRE",
-        "ENS",
-        "EME",
-        "EXEL",
-        "GME",
-        "ONB",
-        "AXP",
-        "SCI",
-        "WFRD",
-        "SEIC",
-        "SSD",
-        "ADBE",
-        "TEL",
-        "ISRG",
-        "FHI",
-        "RRC"
+        "TXN",
+        "URI",
+        "WST",
+        "VOYA",
+        "FCX"
       ]
     },
     {
@@ -118,7 +67,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "VICR"
+        "TXN",
+        "URI"
       ]
     }
   ]
