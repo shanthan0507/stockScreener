@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-27",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,74 +8,21 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "INTC",
-        "RMBS",
-        "AMKR",
-        "AMD",
-        "TTMI",
-        "ONTO",
-        "HIMS",
-        "FLEX",
-        "TER",
-        "ENTG",
-        "KLAC",
-        "SMCI",
-        "SYNA",
-        "R",
-        "SNPS",
-        "NVDA",
-        "CDNS",
-        "QCOM",
-        "WFRD",
-        "BKR",
-        "TTD"
+        "CLF"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "INTC",
-        "RMBS",
-        "AMD",
-        "ON",
-        "ENTG",
-        "VC",
-        "LSCC",
-        "SYNA",
-        "AEIS",
-        "CHDN",
-        "SLM",
-        "DLR",
-        "QCOM",
-        "CHE",
-        "BKR",
-        "GNTX",
-        "APPF",
-        "IPGP",
-        "AMP",
-        "EW",
-        "DOCS",
-        "VVV",
-        "MEDP",
-        "NOW"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "INTC",
-        "RMBS",
-        "AMKR",
-        "AMD",
-        "ON",
-        "TTMI",
-        "TXN",
-        "FLEX",
-        "MCHP",
-        "GEV",
-        "STLD",
-        "DOCN",
-        "BKR"
+        "SNDK",
+        "MU",
+        "VZ",
+        "VAL",
+        "PBF"
       ]
     },
     {
@@ -88,51 +35,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "INTC",
-        "RMBS",
-        "AMKR",
-        "AMD",
-        "TTMI",
-        "MPWR",
-        "TER",
-        "ENTG",
-        "SMCI",
-        "VC",
-        "SYNA",
-        "Q",
-        "AMZN",
-        "CNC",
-        "SNPS",
-        "NXPI",
-        "GOOGL",
-        "GOOG",
-        "NVDA",
-        "NEM",
-        "LFUS",
-        "AAON",
-        "JEF",
-        "VOYA",
-        "BEN",
-        "CHDN",
-        "SLM",
-        "QCOM",
-        "NOVT",
-        "SWKS",
-        "BKR",
-        "BXP",
-        "RBA",
-        "KRG",
-        "SLB",
-        "SCI",
-        "APPF",
-        "CEG",
-        "AIZ",
-        "AZO",
-        "SLAB",
-        "EW",
-        "BYD"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -140,15 +43,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "INTC",
-        "RMBS",
-        "VICR",
-        "AMD",
-        "TXN",
-        "URI",
-        "VMI"
-      ]
+      "tickers": []
     }
   ]
 }
