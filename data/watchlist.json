@@ -8,21 +8,48 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CLF"
+        "CNC",
+        "CLF",
+        "NVDA",
+        "MP",
+        "FLS",
+        "MSM",
+        "SWK",
+        "FLR",
+        "ALB",
+        "BRBR"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "INTC",
+        "CNC",
+        "WSO",
+        "CLF",
+        "FLS",
+        "CRBG",
+        "QCOM",
+        "MSM",
+        "PII",
+        "CR",
+        "EGP",
+        "PNR",
+        "TTEK",
+        "LVS",
+        "WWD",
+        "GEHC",
+        "UHS",
+        "MEDP"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "SNDK",
         "MU",
-        "VZ",
-        "VAL",
-        "PBF"
+        "DOCN",
+        "VAL"
       ]
     },
     {
@@ -35,7 +62,49 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "INTC",
+        "CNC",
+        "WSO",
+        "SNPS",
+        "CLF",
+        "NVDA",
+        "META",
+        "GOOGL",
+        "GOOG",
+        "PANW",
+        "CDNS",
+        "VOYA",
+        "BEN",
+        "FLS",
+        "JEF",
+        "CRBG",
+        "KRC",
+        "PNFP",
+        "ODFL",
+        "MSM",
+        "PWR",
+        "FTV",
+        "BXP",
+        "AIT",
+        "UPS",
+        "FLR",
+        "PCAR",
+        "COLM",
+        "MGM",
+        "VMC",
+        "AVB",
+        "BYD",
+        "AIZ",
+        "TGT",
+        "CINF",
+        "VST",
+        "GM",
+        "CDP",
+        "ADM",
+        "DINO",
+        "OKE"
+      ]
     },
     {
       "name": "PP Count",
