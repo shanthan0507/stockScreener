@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "buckets": [
     {
       "name": "21EMA",
@@ -9,47 +9,24 @@
       "name": "4% Bullish",
       "tickers": [
         "CNC",
-        "CLF",
-        "NVDA",
-        "MP",
-        "FLS",
-        "MSM",
-        "SWK",
-        "FLR",
-        "ALB",
-        "BRBR"
+        "PII"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "INTC",
-        "CNC",
-        "WSO",
-        "CLF",
-        "FLS",
-        "CRBG",
-        "QCOM",
-        "MSM",
-        "PII",
-        "CR",
-        "EGP",
-        "PNR",
-        "TTEK",
-        "LVS",
-        "WWD",
-        "GEHC",
-        "UHS",
-        "MEDP"
+        "PII"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "SNDK",
-        "MU",
-        "DOCN",
-        "VAL"
+        "HUM",
+        "NUE",
+        "VAL",
+        "DINO",
+        "CHRD",
+        "OVV"
       ]
     },
     {
@@ -63,47 +40,9 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "INTC",
         "CNC",
-        "WSO",
-        "SNPS",
-        "CLF",
-        "NVDA",
-        "META",
-        "GOOGL",
-        "GOOG",
-        "PANW",
-        "CDNS",
-        "VOYA",
         "BEN",
-        "FLS",
-        "JEF",
-        "CRBG",
-        "KRC",
-        "PNFP",
-        "ODFL",
-        "MSM",
-        "PWR",
-        "FTV",
-        "BXP",
-        "AIT",
-        "UPS",
-        "FLR",
-        "PCAR",
-        "COLM",
-        "MGM",
-        "VMC",
-        "AVB",
-        "BYD",
-        "AIZ",
-        "TGT",
-        "CINF",
-        "VST",
-        "GM",
-        "CDP",
-        "ADM",
-        "DINO",
-        "OKE"
+        "GLW"
       ]
     },
     {
