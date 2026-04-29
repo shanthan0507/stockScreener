@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,55 +8,39 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "INTC",
+        "STX",
         "CNC",
-        "NUE",
-        "BEN",
-        "PII",
-        "AVB",
-        "ESS",
-        "EQR",
-        "CPT"
+        "NXPI",
+        "PAG",
+        "SBUX",
+        "V"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CNC",
-        "HUM",
-        "NUE",
-        "BEN",
-        "CVLT",
-        "PII",
-        "AIT",
-        "SSD",
-        "UMBF",
-        "IVZ",
-        "EXR",
-        "FFIV",
-        "GM",
-        "KRG",
-        "VTR",
-        "OHI",
-        "AZO",
-        "BALL",
-        "NI",
-        "VAL",
-        "SJM",
-        "KO",
-        "YUM",
-        "AIG",
-        "DPZ",
-        "HLNE",
-        "TMUS"
+        "STX",
+        "NXPI",
+        "SBUX",
+        "WING"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "INTC",
+        "SNDK",
+        "STX",
+        "CNC",
+        "WDC",
+        "NXPI",
         "HUM",
-        "NUE",
+        "DINO",
         "VAL",
-        "OVV"
+        "OVV",
+        "MPC",
+        "PSX"
       ]
     },
     {
@@ -70,57 +54,11 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "INTC",
-        "AMKR",
         "STX",
-        "MU",
         "CNC",
-        "TTMI",
-        "FLEX",
-        "NUE",
-        "JBL",
-        "AVT",
-        "KLAC",
-        "BEN",
-        "NVDA",
-        "GOOGL",
-        "GOOG",
-        "KRC",
-        "GLW",
-        "PWR",
-        "GNRC",
-        "AIT",
-        "BXP",
-        "AVB",
-        "SSD",
-        "UMBF",
-        "CUBE",
-        "ESS",
-        "EQR",
-        "IRT",
-        "EXR",
-        "CPT",
-        "NOV",
+        "NXPI",
         "PAG",
-        "AIZ",
-        "FFIV",
-        "GM",
-        "INCY",
-        "VTR",
-        "OHI",
-        "PKG",
-        "SBRA",
-        "CINF",
-        "SLAB",
-        "VAL",
-        "DTM",
-        "ADM",
-        "MDLZ",
-        "DINO",
-        "OKE",
-        "CTRA",
-        "OVV",
-        "DVN"
+        "SBUX"
       ]
     },
     {
@@ -129,7 +67,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "CNC"
+      ]
     }
   ]
 }
