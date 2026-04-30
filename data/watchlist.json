@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,64 +8,19 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "INTC",
-        "AMD",
-        "CNC",
-        "NXPI",
-        "HUM",
-        "ALGM",
-        "MCHP",
-        "GNRC",
         "QCOM",
-        "SBUX",
-        "PAG",
-        "FFIV",
-        "UNM",
-        "BIIB",
-        "MDLZ",
-        "ADP",
-        "DINO"
+        "GOOG",
+        "GOOGL",
+        "WCC",
+        "IRM",
+        "HGV",
+        "TER"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "INTC",
-        "CNC",
-        "STX",
-        "NXPI",
-        "HUM",
-        "AVT",
-        "RMBS",
-        "GNRC",
-        "QCOM",
-        "SBUX",
-        "APH",
-        "LSTR",
-        "PAG",
-        "IEX",
-        "FFIV",
-        "CRBG",
-        "LII",
-        "V",
-        "EQR",
-        "GRMN",
-        "BIIB",
-        "MDLZ",
-        "MA",
-        "CMG",
-        "YUM",
-        "TXT",
-        "VLTO",
-        "BLKB",
-        "NBIX",
-        "VRSK",
-        "GD",
-        "THC",
-        "ABBV",
-        "TMUS",
-        "UHS",
-        "ARE"
+        "QCOM"
       ]
     },
     {
@@ -76,13 +31,14 @@
         "CNC",
         "STX",
         "NXPI",
+        "QCOM",
         "HUM",
-        "VAL",
+        "PWR",
         "DINO",
+        "VAL",
         "OVV",
-        "CHRD",
-        "MUR",
-        "MPC"
+        "MPC",
+        "PSX"
       ]
     },
     {
@@ -96,59 +52,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "INTC",
-        "CNC",
-        "NXPI",
-        "HUM",
-        "FLEX",
-        "GNRC",
-        "AMZN",
-        "LITE",
-        "GOOGL",
         "GOOG",
-        "SBUX",
-        "SWKS",
-        "META",
-        "PAG",
-        "FFIV",
-        "CRBG",
-        "AVB",
-        "PYPL",
-        "FTV",
-        "WCC",
-        "TROW",
-        "MORN",
-        "FLR",
-        "EQR",
-        "NOV",
-        "CUBE",
-        "GRMN",
-        "BRBR",
-        "EXPE",
-        "SHC",
-        "TTD",
-        "EXR",
-        "BIIB",
-        "AFL",
-        "MDLZ",
-        "ADP",
-        "SBRA",
-        "DINO",
-        "VICI",
-        "TYL",
-        "ROST",
-        "GDDY",
-        "MO",
-        "BKNG",
-        "OVV",
-        "RNR",
-        "ADM",
-        "PAYX",
-        "CTRA",
-        "DVN",
-        "BG",
-        "PSX",
-        "OXY"
+        "GOOGL"
       ]
     },
     {
@@ -158,7 +63,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "CNC"
+        "CNC",
+        "QCOM"
       ]
     }
   ]
