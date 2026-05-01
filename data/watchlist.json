@@ -7,11 +7,59 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "INTC",
+        "STX",
+        "SNDK",
+        "TWLO",
+        "DY",
+        "MTZ",
+        "DDOG",
+        "GME",
+        "CBOE",
+        "LEA",
+        "EHC",
+        "FSLR",
+        "OLED",
+        "ILMN",
+        "FND"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "STX",
+        "AMKR",
+        "TWLO",
+        "NVT",
+        "MTZ",
+        "COLM",
+        "GME",
+        "CBOE",
+        "LEA",
+        "HR",
+        "EBAY",
+        "EHC",
+        "LAMR",
+        "AAPL",
+        "FSLR",
+        "FRT",
+        "OLED",
+        "ILMN",
+        "FND",
+        "AIG",
+        "PR",
+        "LNT",
+        "BDC",
+        "DXCM",
+        "THC",
+        "CHH",
+        "IP",
+        "CNXC",
+        "WTW",
+        "GEHC",
+        "CHTR"
+      ]
     },
     {
       "name": "Momentum 97",
@@ -21,12 +69,15 @@
         "SNDK",
         "CNC",
         "NXPI",
-        "NVT",
+        "ALGM",
         "TWLO",
-        "HUM",
+        "NVT",
         "PWR",
+        "IRM",
         "DINO",
-        "VAL"
+        "MO",
+        "VAL",
+        "MPC"
       ]
     },
     {
@@ -39,7 +90,46 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "SNDK",
+        "AMKR",
+        "MU",
+        "WDC",
+        "MPWR",
+        "TWLO",
+        "GOOGL",
+        "GOOG",
+        "STRL",
+        "MTZ",
+        "JEF",
+        "LFUS",
+        "DINO",
+        "GME",
+        "CBOE",
+        "CASY",
+        "LEA",
+        "PINS",
+        "EBAY",
+        "LAMR",
+        "AAPL",
+        "FFIN",
+        "KD",
+        "CNO",
+        "FSLR",
+        "FRT",
+        "BWA",
+        "VNOM",
+        "FANG",
+        "FTI",
+        "ILMN",
+        "FR",
+        "PR",
+        "LNT",
+        "ES",
+        "ADM",
+        "TXNM",
+        "SO"
+      ]
     },
     {
       "name": "PP Count",
@@ -48,7 +138,10 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
+        "INTC",
+        "STX",
         "CNC",
+        "NXPI",
         "TWLO"
       ]
     }
