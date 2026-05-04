@@ -8,13 +8,43 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "EBAY"
+        "MU",
+        "SYNA",
+        "DDOG",
+        "LFUS",
+        "DOCN",
+        "ORCL",
+        "MKSI",
+        "TTWO",
+        "EBAY",
+        "TSN"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "EBAY"
+        "STX",
+        "TWLO",
+        "NVT",
+        "SYNA",
+        "LSCC",
+        "LFUS",
+        "MKSI",
+        "PINS",
+        "HR",
+        "EBAY",
+        "BRBR",
+        "TSN",
+        "OLED",
+        "AGCO",
+        "CART",
+        "LOPE",
+        "DLB",
+        "IQV",
+        "RMD",
+        "BIO",
+        "WTW",
+        "OPCH"
       ]
     },
     {
@@ -22,15 +52,17 @@
       "tickers": [
         "SNDK",
         "MU",
-        "NVT",
-        "LITE",
-        "MTSI",
-        "CEG",
+        "TWLO",
+        "LSCC",
+        "DDOG",
+        "DOCN",
+        "MKSI",
         "DINO",
+        "CEG",
         "EBAY",
-        "CHRD",
-        "PBF",
-        "CF"
+        "MUR",
+        "APA",
+        "PBF"
       ]
     },
     {
@@ -44,7 +76,48 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "EBAY"
+        "SNDK",
+        "MU",
+        "TWLO",
+        "SYNA",
+        "LSCC",
+        "MTZ",
+        "LFUS",
+        "DOCN",
+        "MKSI",
+        "CMI",
+        "DINO",
+        "TTWO",
+        "CBOE",
+        "PINS",
+        "CASY",
+        "EBAY",
+        "FISV",
+        "VNOM",
+        "FANG",
+        "AMH",
+        "ILMN",
+        "LAMR",
+        "WELL",
+        "FRT",
+        "TSN",
+        "COKE",
+        "AGCO",
+        "OVV",
+        "CART",
+        "CHRD",
+        "ADM",
+        "WMB",
+        "DVN",
+        "FNB",
+        "KBR",
+        "DVA",
+        "VLO",
+        "LNT",
+        "JHG",
+        "APA",
+        "PBF",
+        "LYB"
       ]
     },
     {
