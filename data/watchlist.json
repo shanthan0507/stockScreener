@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-04",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,76 +8,29 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "INTC",
-        "STX",
-        "SNDK",
-        "TWLO",
-        "DY",
-        "MTZ",
-        "DDOG",
-        "GME",
-        "CBOE",
-        "LEA",
-        "EHC",
-        "FSLR",
-        "OLED",
-        "ILMN",
-        "FND"
+        "EBAY"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "STX",
-        "AMKR",
-        "TWLO",
-        "NVT",
-        "MTZ",
-        "COLM",
-        "GME",
-        "CBOE",
-        "LEA",
-        "HR",
-        "EBAY",
-        "EHC",
-        "LAMR",
-        "AAPL",
-        "FSLR",
-        "FRT",
-        "OLED",
-        "ILMN",
-        "FND",
-        "AIG",
-        "PR",
-        "LNT",
-        "BDC",
-        "DXCM",
-        "THC",
-        "CHH",
-        "IP",
-        "CNXC",
-        "WTW",
-        "GEHC",
-        "CHTR"
+        "EBAY"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "INTC",
-        "STX",
         "SNDK",
-        "CNC",
-        "NXPI",
-        "ALGM",
-        "TWLO",
+        "MU",
         "NVT",
-        "PWR",
-        "IRM",
+        "LITE",
+        "MTSI",
+        "CEG",
         "DINO",
-        "MO",
-        "VAL",
-        "MPC"
+        "EBAY",
+        "CHRD",
+        "PBF",
+        "CF"
       ]
     },
     {
@@ -91,44 +44,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "SNDK",
-        "AMKR",
-        "MU",
-        "WDC",
-        "MPWR",
-        "TWLO",
-        "GOOGL",
-        "GOOG",
-        "STRL",
-        "MTZ",
-        "JEF",
-        "LFUS",
-        "DINO",
-        "GME",
-        "CBOE",
-        "CASY",
-        "LEA",
-        "PINS",
-        "EBAY",
-        "LAMR",
-        "AAPL",
-        "FFIN",
-        "KD",
-        "CNO",
-        "FSLR",
-        "FRT",
-        "BWA",
-        "VNOM",
-        "FANG",
-        "FTI",
-        "ILMN",
-        "FR",
-        "PR",
-        "LNT",
-        "ES",
-        "ADM",
-        "TXNM",
-        "SO"
+        "EBAY"
       ]
     },
     {
@@ -137,13 +53,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "INTC",
-        "STX",
-        "CNC",
-        "NXPI",
-        "TWLO"
-      ]
+      "tickers": []
     }
   ]
 }
