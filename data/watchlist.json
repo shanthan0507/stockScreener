@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,75 +8,32 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CNC",
-        "HUM",
-        "PSTG",
-        "Q",
-        "NOVT",
-        "SFM",
-        "WFRD",
-        "HALO",
-        "ASH"
+        "BWA",
+        "F"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "PSTG",
-        "DVA",
-        "Q",
-        "NOVT",
-        "BWA",
-        "PM",
-        "WMG",
-        "ILMN",
-        "ARMK",
-        "SOLV",
-        "ZBRA",
-        "HALO",
-        "KRG",
-        "VTR",
-        "ASH",
-        "LNT",
-        "JHG",
-        "BCO",
-        "BSY",
-        "SHC",
-        "PEG",
-        "ED",
-        "PYPL",
-        "BR",
-        "STE",
-        "CACI",
-        "ANET",
-        "FLR",
-        "COKE",
-        "ENSG",
-        "APH",
-        "BRO",
-        "HII",
-        "PLNT",
-        "TSCO",
-        "ZTS"
+        "NXT",
+        "F"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "CNC",
+        "AKAM",
+        "ON",
         "HUM",
-        "PSTG",
-        "Q",
-        "CIEN",
         "COHR",
-        "ARWR",
-        "VRT",
+        "NXT",
+        "ST",
+        "Q",
         "LITE",
+        "VRT",
         "GLW",
-        "CF",
-        "SOLS",
-        "OXY",
-        "DOW"
+        "ARMK",
+        "CF"
       ]
     },
     {
@@ -90,39 +47,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "CNC",
-        "HUM",
-        "PSTG",
-        "CRWD",
-        "DVA",
-        "PANW",
-        "Q",
-        "UNH",
-        "ELV",
-        "CVS",
-        "NOVT",
-        "ADI",
-        "BWA",
-        "PM",
-        "WMG",
-        "SEIC",
-        "SFM",
-        "MTZ",
-        "ILMN",
-        "SOLS",
-        "SOLV",
-        "HALO",
-        "GS",
-        "POST",
-        "AMP",
-        "FFIN",
-        "ROIV",
-        "DRI",
-        "CINF",
-        "GTLS",
-        "FNB",
-        "SHC",
-        "SYF"
+        "F"
       ]
     },
     {
