@@ -8,15 +8,56 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "AKAM",
+        "SYNA",
+        "ON",
+        "VICR",
+        "MTSI",
+        "PANW",
+        "HPE",
         "BWA",
-        "F"
+        "ARW",
+        "LFUS",
+        "ST",
+        "AVT",
+        "GEN",
+        "ORA",
+        "ARMK",
+        "F",
+        "FN"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "FLEX",
+        "AKAM",
+        "SYNA",
+        "ON",
+        "CVS",
+        "HPE",
+        "ELV",
+        "BWA",
+        "LFUS",
+        "ST",
         "NXT",
-        "F"
+        "CSCO",
+        "AVT",
+        "GEN",
+        "SFM",
+        "ORA",
+        "ARMK",
+        "F",
+        "ZBRA",
+        "MSA",
+        "WTS",
+        "MMM",
+        "CACI",
+        "HAE",
+        "ENSG",
+        "SYK",
+        "ACM",
+        "OPCH"
       ]
     },
     {
@@ -25,11 +66,11 @@
         "AKAM",
         "ON",
         "HUM",
+        "PANW",
+        "CVS",
         "COHR",
-        "NXT",
-        "ST",
-        "Q",
         "LITE",
+        "Q",
         "VRT",
         "GLW",
         "ARMK",
@@ -47,7 +88,31 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "F"
+        "AKAM",
+        "ON",
+        "HUM",
+        "PANW",
+        "CRWD",
+        "CVS",
+        "HPE",
+        "ELV",
+        "UNH",
+        "BWA",
+        "LFUS",
+        "CSCO",
+        "STLD",
+        "GEN",
+        "SFM",
+        "ORA",
+        "LNTH",
+        "TSLA",
+        "CHE",
+        "MDLZ",
+        "F",
+        "GS",
+        "RBC",
+        "BLK",
+        "BK"
       ]
     },
     {
@@ -56,7 +121,10 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "VICR",
+        "COHR"
+      ]
     }
   ]
 }
