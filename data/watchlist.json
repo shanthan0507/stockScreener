@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,73 +8,38 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "AKAM",
-        "SYNA",
-        "ON",
-        "VICR",
-        "MTSI",
-        "PANW",
         "HPE",
-        "BWA",
-        "ARW",
-        "LFUS",
-        "ST",
-        "AVT",
-        "GEN",
-        "ORA",
-        "ARMK",
         "F",
-        "FN"
+        "KNX"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "FLEX",
-        "AKAM",
-        "SYNA",
-        "ON",
-        "CVS",
-        "HPE",
-        "ELV",
-        "BWA",
-        "LFUS",
-        "ST",
-        "NXT",
         "CSCO",
-        "AVT",
-        "GEN",
-        "SFM",
-        "ORA",
-        "ARMK",
         "F",
-        "ZBRA",
-        "MSA",
-        "WTS",
-        "MMM",
-        "CACI",
-        "HAE",
-        "ENSG",
-        "SYK",
-        "ACM",
-        "OPCH"
+        "KNX"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "AKAM",
-        "ON",
         "HUM",
+        "ON",
         "PANW",
-        "CVS",
-        "COHR",
-        "LITE",
-        "Q",
+        "CSCO",
+        "CRWD",
+        "HPE",
         "VRT",
         "GLW",
+        "Q",
+        "COHR",
+        "NVDA",
         "ARMK",
-        "CF"
+        "ARWR",
+        "TTWO",
+        "LITE",
+        "SATS"
       ]
     },
     {
@@ -88,31 +53,10 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "AKAM",
-        "ON",
-        "HUM",
-        "PANW",
-        "CRWD",
-        "CVS",
         "HPE",
-        "ELV",
-        "UNH",
-        "BWA",
-        "LFUS",
-        "CSCO",
-        "STLD",
-        "GEN",
-        "SFM",
-        "ORA",
-        "LNTH",
-        "TSLA",
-        "CHE",
-        "MDLZ",
         "F",
-        "GS",
-        "RBC",
-        "BLK",
-        "BK"
+        "KNX",
+        "COLB"
       ]
     },
     {
@@ -122,7 +66,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "VICR",
+        "CSCO",
         "COHR"
       ]
     }
