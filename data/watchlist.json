@@ -8,17 +8,58 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "PANW",
+        "NXT",
         "HPE",
+        "NVDA",
         "F",
-        "KNX"
+        "TTWO",
+        "ZBRA",
+        "JBHT",
+        "GPK",
+        "COIN",
+        "KNX",
+        "TKO",
+        "DT",
+        "APP",
+        "CRBG"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
         "CSCO",
+        "NXT",
+        "HPE",
+        "ST",
+        "NOVT",
+        "ORA",
+        "ARMK",
         "F",
-        "KNX"
+        "NTAP",
+        "TTWO",
+        "AMAT",
+        "ZBRA",
+        "JBHT",
+        "COIN",
+        "YETI",
+        "KNX",
+        "COLB",
+        "WM",
+        "AZO",
+        "AEP",
+        "HSIC",
+        "TJX",
+        "AEIS",
+        "CAH",
+        "ENSG",
+        "J",
+        "RLI",
+        "TRMB",
+        "COR",
+        "FCN",
+        "OPCH",
+        "ZTS"
       ]
     },
     {
@@ -26,20 +67,21 @@
       "tickers": [
         "HUM",
         "ON",
+        "TTMI",
         "PANW",
-        "CSCO",
         "CRWD",
-        "HPE",
+        "CSCO",
+        "NXT",
         "VRT",
+        "ST",
         "GLW",
         "Q",
         "COHR",
-        "NVDA",
         "ARMK",
+        "NVDA",
         "ARWR",
         "TTWO",
-        "LITE",
-        "SATS"
+        "LITE"
       ]
     },
     {
@@ -53,10 +95,21 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "PANW",
+        "CRWD",
         "HPE",
+        "ST",
         "F",
+        "TTWO",
+        "GS",
+        "UNP",
+        "JBHT",
+        "COIN",
         "KNX",
-        "COLB"
+        "SATS",
+        "DKS",
+        "COLB",
+        "HOOD"
       ]
     },
     {
@@ -66,8 +119,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "CSCO",
-        "COHR"
+        "COHR",
+        "FN"
       ]
     }
   ]
