@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,81 +7,34 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "PANW",
-        "NXT",
-        "HPE",
-        "NVDA",
-        "F",
-        "TTWO",
-        "ZBRA",
-        "JBHT",
-        "GPK",
-        "COIN",
-        "KNX",
-        "TKO",
-        "DT",
-        "APP",
-        "CRBG"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CSCO",
-        "NXT",
-        "HPE",
-        "ST",
-        "NOVT",
-        "ORA",
-        "ARMK",
-        "F",
-        "NTAP",
-        "TTWO",
-        "AMAT",
-        "ZBRA",
-        "JBHT",
-        "COIN",
-        "YETI",
-        "KNX",
-        "COLB",
-        "WM",
-        "AZO",
-        "AEP",
-        "HSIC",
-        "TJX",
-        "AEIS",
-        "CAH",
-        "ENSG",
-        "J",
-        "RLI",
-        "TRMB",
-        "COR",
-        "FCN",
-        "OPCH",
-        "ZTS"
+        "DOCS"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "HUM",
-        "ON",
-        "TTMI",
         "PANW",
         "CRWD",
+        "ON",
         "CSCO",
         "NXT",
         "VRT",
-        "ST",
-        "GLW",
-        "Q",
-        "COHR",
         "ARMK",
-        "NVDA",
-        "ARWR",
+        "TRGP",
         "TTWO",
-        "LITE"
+        "FANG",
+        "COHR",
+        "CF",
+        "OXY",
+        "LITE",
+        "MUR",
+        "SATS"
       ]
     },
     {
@@ -90,27 +43,13 @@
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "JHG"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "PANW",
-        "CRWD",
-        "HPE",
-        "ST",
-        "F",
-        "TTWO",
-        "GS",
-        "UNP",
-        "JBHT",
-        "COIN",
-        "KNX",
-        "SATS",
-        "DKS",
-        "COLB",
-        "HOOD"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -119,8 +58,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "COHR",
-        "FN"
+        "CSCO"
       ]
     }
   ]
