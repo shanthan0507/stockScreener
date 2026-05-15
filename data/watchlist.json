@@ -7,12 +7,45 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "HRB",
+        "DVN",
+        "DOCU",
+        "YETI",
+        "LSTR",
+        "ADBE",
+        "WDAY"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "DOCS"
+        "TWLO",
+        "CSCO",
+        "ARMK",
+        "JBHT",
+        "YETI",
+        "GL",
+        "PATH",
+        "DXCM",
+        "ACGL",
+        "RNR",
+        "GWRE",
+        "HSIC",
+        "TJX",
+        "CAH",
+        "TYL",
+        "CHRW",
+        "BR",
+        "SYK",
+        "JKHY",
+        "MCK",
+        "RLI",
+        "WTW",
+        "CSGP",
+        "G",
+        "DOCS",
+        "WING"
       ]
     },
     {
@@ -21,20 +54,21 @@
         "HUM",
         "PANW",
         "CRWD",
-        "ON",
         "CSCO",
+        "ON",
         "NXT",
         "VRT",
+        "CHRD",
         "ARMK",
         "TRGP",
         "TTWO",
         "FANG",
-        "COHR",
         "CF",
+        "COHR",
         "OXY",
-        "LITE",
         "MUR",
-        "SATS"
+        "APA",
+        "MTDR"
       ]
     },
     {
@@ -49,7 +83,42 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "FTNT",
+        "PANW",
+        "TWLO",
+        "CRWD",
+        "CBOE",
+        "FIX",
+        "CHRD",
+        "ST",
+        "ENS",
+        "TRGP",
+        "NTAP",
+        "OKTA",
+        "CHE",
+        "AAPL",
+        "WMG",
+        "LITE",
+        "XOM",
+        "UNP",
+        "CMC",
+        "KNX",
+        "JBHT",
+        "SIGI",
+        "DOCU",
+        "SATS",
+        "GL",
+        "ADBE",
+        "BHF",
+        "BK",
+        "RMBS",
+        "MSFT",
+        "CINF",
+        "TRV",
+        "ROIV",
+        "KEY"
+      ]
     },
     {
       "name": "PP Count",
