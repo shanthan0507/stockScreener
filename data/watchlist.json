@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-18",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,68 +8,18 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "HRB",
-        "DVN",
-        "DOCU",
-        "YETI",
-        "LSTR",
-        "ADBE",
-        "WDAY"
+        "NOW"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "TWLO",
-        "CSCO",
-        "ARMK",
-        "JBHT",
-        "YETI",
-        "GL",
-        "PATH",
-        "DXCM",
-        "ACGL",
-        "RNR",
-        "GWRE",
-        "HSIC",
-        "TJX",
-        "CAH",
-        "TYL",
-        "CHRW",
-        "BR",
-        "SYK",
-        "JKHY",
-        "MCK",
-        "RLI",
-        "WTW",
-        "CSGP",
-        "G",
-        "DOCS",
-        "WING"
+        "D"
       ]
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "HUM",
-        "PANW",
-        "CRWD",
-        "CSCO",
-        "ON",
-        "NXT",
-        "VRT",
-        "CHRD",
-        "ARMK",
-        "TRGP",
-        "TTWO",
-        "FANG",
-        "CF",
-        "COHR",
-        "OXY",
-        "MUR",
-        "APA",
-        "MTDR"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
@@ -84,40 +34,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "FTNT",
-        "PANW",
-        "TWLO",
         "CRWD",
-        "CBOE",
-        "FIX",
-        "CHRD",
-        "ST",
-        "ENS",
-        "TRGP",
-        "NTAP",
-        "OKTA",
-        "CHE",
-        "AAPL",
-        "WMG",
-        "LITE",
-        "XOM",
-        "UNP",
-        "CMC",
-        "KNX",
-        "JBHT",
-        "SIGI",
-        "DOCU",
-        "SATS",
-        "GL",
-        "ADBE",
-        "BHF",
-        "BK",
-        "RMBS",
-        "MSFT",
-        "CINF",
-        "TRV",
-        "ROIV",
-        "KEY"
+        "NOW"
       ]
     },
     {
@@ -126,9 +44,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "CSCO"
-      ]
+      "tickers": []
     }
   ]
 }
