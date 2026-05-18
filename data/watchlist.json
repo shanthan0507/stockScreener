@@ -8,13 +8,47 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "NOW"
+        "CRWD",
+        "VAL",
+        "FFIV",
+        "QLYS",
+        "OKTA",
+        "DBX",
+        "FICO",
+        "PCTY",
+        "NOW",
+        "AMH",
+        "MMM",
+        "DXCM"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "D"
+        "SWKS",
+        "DBX",
+        "D",
+        "NOW",
+        "DXCM",
+        "ED",
+        "AEP",
+        "BIO",
+        "M",
+        "TYL",
+        "MSI",
+        "RLI",
+        "JKHY",
+        "OLLI",
+        "CTSH",
+        "EXPO",
+        "FCN",
+        "FLO",
+        "BLKB",
+        "MTD",
+        "DOCS",
+        "VFC",
+        "EPAM",
+        "TECH"
       ]
     },
     {
@@ -34,8 +68,33 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "FTNT",
+        "PANW",
         "CRWD",
-        "NOW"
+        "FFIV",
+        "QLYS",
+        "SFM",
+        "CHRD",
+        "GOOG",
+        "NTNX",
+        "OKTA",
+        "NTAP",
+        "TTWO",
+        "WFRD",
+        "FICO",
+        "SIGI",
+        "THG",
+        "CLF",
+        "SJM",
+        "NOW",
+        "ADBE",
+        "MMM",
+        "DXCM",
+        "MASI",
+        "EXP",
+        "HGV",
+        "FITB",
+        "BIO"
       ]
     },
     {
