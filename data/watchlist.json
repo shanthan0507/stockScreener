@@ -8,20 +8,37 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SFM"
+        "EQT"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "D"
+        "SFM",
+        "NTNX",
+        "D",
+        "DXCM",
+        "HAS",
+        "ALL",
+        "SO",
+        "PTC",
+        "KEYS",
+        "NEE",
+        "IDA",
+        "TGT",
+        "EXP",
+        "RNR",
+        "RBC",
+        "HD",
+        "REGN",
+        "RGEN",
+        "EPAM",
+        "OPCH"
       ]
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "SFM"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
@@ -36,9 +53,22 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "FFIV",
         "SFM",
+        "QLYS",
+        "ADI",
+        "KMI",
         "CTRE",
-        "ONTO"
+        "DXCM",
+        "HAS",
+        "AMT",
+        "ALL",
+        "KR",
+        "KEYS",
+        "GNTX",
+        "ALV",
+        "TGT",
+        "RNR"
       ]
     },
     {
