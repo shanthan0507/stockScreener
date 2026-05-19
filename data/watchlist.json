@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,52 +8,20 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CRWD",
-        "VAL",
-        "FFIV",
-        "QLYS",
-        "OKTA",
-        "DBX",
-        "FICO",
-        "PCTY",
-        "NOW",
-        "AMH",
-        "MMM",
-        "DXCM"
+        "SFM"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "SWKS",
-        "DBX",
-        "D",
-        "NOW",
-        "DXCM",
-        "ED",
-        "AEP",
-        "BIO",
-        "M",
-        "TYL",
-        "MSI",
-        "RLI",
-        "JKHY",
-        "OLLI",
-        "CTSH",
-        "EXPO",
-        "FCN",
-        "FLO",
-        "BLKB",
-        "MTD",
-        "DOCS",
-        "VFC",
-        "EPAM",
-        "TECH"
+        "D"
       ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "SFM"
+      ]
     },
     {
       "name": "97 Club",
@@ -68,33 +36,9 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "FTNT",
-        "PANW",
-        "CRWD",
-        "FFIV",
-        "QLYS",
         "SFM",
-        "CHRD",
-        "GOOG",
-        "NTNX",
-        "OKTA",
-        "NTAP",
-        "TTWO",
-        "WFRD",
-        "FICO",
-        "SIGI",
-        "THG",
-        "CLF",
-        "SJM",
-        "NOW",
-        "ADBE",
-        "MMM",
-        "DXCM",
-        "MASI",
-        "EXP",
-        "HGV",
-        "FITB",
-        "BIO"
+        "CTRE",
+        "ONTO"
       ]
     },
     {
