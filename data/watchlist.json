@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,37 +8,25 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "EQT"
+        "ROIV",
+        "TKR"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "SFM",
-        "NTNX",
-        "D",
-        "DXCM",
-        "HAS",
-        "ALL",
-        "SO",
-        "PTC",
-        "KEYS",
-        "NEE",
-        "IDA",
-        "TGT",
-        "EXP",
-        "RNR",
-        "RBC",
-        "HD",
-        "REGN",
-        "RGEN",
-        "EPAM",
-        "OPCH"
+        "AKAM",
+        "ROIV",
+        "CAVA"
       ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "CRWD",
+        "LSCC",
+        "ROIV"
+      ]
     },
     {
       "name": "97 Club",
@@ -46,29 +34,12 @@
     },
     {
       "name": "VCS",
-      "tickers": [
-        "JHG"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "FFIV",
-        "SFM",
-        "QLYS",
-        "ADI",
-        "KMI",
-        "CTRE",
-        "DXCM",
-        "HAS",
-        "AMT",
-        "ALL",
-        "KR",
-        "KEYS",
-        "GNTX",
-        "ALV",
-        "TGT",
-        "RNR"
+        "TGT"
       ]
     },
     {
