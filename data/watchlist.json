@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,68 +8,15 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "INTC",
-        "FLEX",
-        "SYNA",
-        "CRWD",
-        "NXPI",
-        "MTSI",
-        "TTMI",
-        "FSLR",
-        "SWKS",
-        "LSCC",
-        "CGNX",
-        "DXCM",
-        "EBAY",
-        "AAL",
-        "ROIV",
-        "TKR",
-        "DAL",
-        "UAL",
-        "GS",
-        "ALGM",
-        "HGV",
-        "MPWR",
-        "TLN"
+        "IBM",
+        "RL"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "AKAM",
-        "SITM",
-        "LSCC",
-        "DXCM",
-        "ROIV",
-        "TKR",
-        "WELL",
-        "TJX",
-        "CHRW",
-        "CCL",
-        "IPGP",
-        "RCL",
-        "AZO",
-        "AVTR",
-        "PPG",
-        "ABNB",
-        "VST",
-        "COO",
-        "BURL",
-        "SYF",
-        "WSM",
-        "LOW",
-        "GEHC",
-        "ONTO",
-        "GMED",
-        "DASH",
-        "RL",
-        "NVST",
-        "ENTG",
-        "OSK",
-        "HUBB",
-        "CAVA",
-        "OPCH",
-        "VNT"
+        "IBM",
+        "ELF"
       ]
     },
     {
@@ -77,9 +24,8 @@
       "tickers": [
         "INTC",
         "CRWD",
-        "SWKS",
-        "LSCC",
-        "ROIV"
+        "OKTA",
+        "LSCC"
       ]
     },
     {
@@ -88,44 +34,14 @@
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "JHG"
+      ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "AKAM",
-        "TTMI",
-        "SITM",
-        "FFIV",
-        "LSCC",
-        "DXCM",
-        "EBAY",
-        "AAL",
-        "ROIV",
-        "KNX",
-        "TKR",
-        "WELL",
-        "DAL",
-        "SAIA",
-        "IRT",
-        "UAL",
-        "UMBF",
-        "GS",
-        "HGV",
-        "SNPS",
-        "ADI",
-        "KEYS",
-        "TJX",
-        "WDAY",
-        "SSD",
-        "IQV",
-        "CROX",
-        "RH",
-        "CCL",
-        "EQIX",
-        "CHH",
-        "TGT",
-        "SYF"
+        "IBM"
       ]
     },
     {
