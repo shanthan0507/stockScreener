@@ -8,31 +8,69 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "QCOM",
+        "SYNA",
         "DELL",
+        "HPE",
+        "SWKS",
+        "NTAP",
         "HPQ",
-        "NTAP"
+        "TTMI",
+        "GNRC",
+        "LNTH",
+        "F",
+        "P",
+        "NTNX",
+        "ZBRA",
+        "MRK",
+        "HAE",
+        "CBT",
+        "AA",
+        "NXT",
+        "MP",
+        "SNPS",
+        "ROST",
+        "DKS"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "DELL",
+        "HPE",
+        "NTAP",
         "HPQ",
-        "IBM"
+        "LNTH",
+        "F",
+        "P",
+        "BWA",
+        "NTNX",
+        "AAL",
+        "EL",
+        "ZBRA",
+        "IBM",
+        "WDAY",
+        "ROST",
+        "PGR",
+        "DECK",
+        "APH",
+        "INTU"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "QCOM",
-        "CRWD",
         "DELL",
         "HPE",
-        "HPQ",
-        "NTAP",
-        "TTMI",
         "SWKS",
+        "NTAP",
+        "HPQ",
+        "TTMI",
         "LSCC",
-        "AA"
+        "AA",
+        "PVH",
+        "RMBS"
       ]
     },
     {
@@ -46,8 +84,32 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "DELL",
+        "HPE",
+        "NTAP",
         "HPQ",
-        "NTAP"
+        "TTMI",
+        "GNRC",
+        "LNTH",
+        "F",
+        "P",
+        "BWA",
+        "NTNX",
+        "CLF",
+        "AAL",
+        "AAPL",
+        "MRK",
+        "HAE",
+        "AA",
+        "FRT",
+        "GS",
+        "HON",
+        "STLD",
+        "COLM",
+        "DKS",
+        "BBY",
+        "ADSK",
+        "DECK"
       ]
     },
     {
@@ -58,6 +120,7 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "DELL",
+        "SWKS",
         "HPQ"
       ]
     }
