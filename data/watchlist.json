@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,49 +8,31 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "QCOM",
-        "FSLR",
-        "AAL",
-        "ENS",
-        "IBM",
-        "CROX",
-        "TLN",
-        "CPRT",
-        "RL"
+        "DELL",
+        "HPQ",
+        "NTAP"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "FSLR",
-        "AAL",
-        "ENS",
-        "DXCM",
-        "TTWO",
-        "IBM",
-        "D",
-        "CPRT",
-        "NDSN",
-        "RL",
-        "BMRN",
-        "GTLS",
-        "WSM",
-        "TGT",
-        "UGI",
-        "DECK",
-        "ATO",
-        "OLLI",
-        "GMED",
-        "SGI",
-        "OSK",
-        "ELF"
+        "HPQ",
+        "IBM"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "QCOM",
+        "CRWD",
+        "DELL",
+        "HPE",
+        "HPQ",
+        "NTAP",
+        "TTMI",
+        "SWKS",
         "LSCC",
-        "RMBS"
+        "AA"
       ]
     },
     {
@@ -64,33 +46,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "FFIV",
-        "FSLR",
-        "WMG",
-        "AAL",
-        "ENS",
-        "DXCM",
-        "TTWO",
-        "IBM",
-        "UNM",
-        "SIGI",
-        "KNX",
-        "GS",
-        "IRT",
-        "HON",
-        "CROX",
-        "AFL",
-        "CPRT",
-        "CARR",
-        "CDP",
-        "NDSN",
-        "RL",
-        "EXR",
-        "GTLS",
-        "WSM",
-        "TGT",
-        "EQIX",
-        "DECK"
+        "HPQ",
+        "NTAP"
       ]
     },
     {
@@ -99,7 +56,10 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "DELL",
+        "HPQ"
+      ]
     }
   ]
 }
