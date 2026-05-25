@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-25",
   "buckets": [
     {
       "name": "21EMA",
@@ -49,10 +49,16 @@
         "EL",
         "ZBRA",
         "IBM",
+        "MRK",
         "WDAY",
         "ROST",
+        "NDSN",
+        "AHR",
+        "ADI",
         "PGR",
         "DECK",
+        "VST",
+        "ESAB",
         "APH",
         "INTU"
       ]
@@ -98,18 +104,28 @@
         "CLF",
         "AAL",
         "AAPL",
+        "ROK",
         "MRK",
         "HAE",
         "AA",
         "FRT",
         "GS",
         "HON",
+        "EXPD",
         "STLD",
         "COLM",
+        "AM",
+        "FR",
+        "PK",
         "DKS",
         "BBY",
         "ADSK",
-        "DECK"
+        "DRI",
+        "SLAB",
+        "ADI",
+        "DECK",
+        "GHC",
+        "CHH"
       ]
     },
     {
