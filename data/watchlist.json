@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,75 +8,29 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "QCOM",
-        "SYNA",
-        "DELL",
-        "HPE",
-        "SWKS",
-        "NTAP",
-        "HPQ",
-        "TTMI",
-        "GNRC",
-        "LNTH",
-        "F",
-        "P",
-        "NTNX",
-        "ZBRA",
-        "MRK",
-        "HAE",
-        "CBT",
-        "AA",
-        "NXT",
-        "MP",
-        "SNPS",
-        "ROST",
-        "DKS"
+        "AAL"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "DELL",
-        "HPE",
-        "NTAP",
-        "HPQ",
-        "LNTH",
-        "F",
-        "P",
-        "BWA",
-        "NTNX",
-        "AAL",
-        "EL",
-        "ZBRA",
-        "IBM",
-        "MRK",
-        "WDAY",
-        "ROST",
-        "NDSN",
-        "AHR",
-        "ADI",
-        "PGR",
-        "DECK",
-        "VST",
-        "ESAB",
-        "APH",
-        "INTU"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "QCOM",
-        "DELL",
-        "HPE",
-        "SWKS",
-        "NTAP",
-        "HPQ",
+        "MU",
+        "FLEX",
+        "SNDK",
+        "AMD",
+        "MTSI",
         "TTMI",
-        "LSCC",
-        "AA",
-        "PVH",
-        "RMBS"
+        "FSLR",
+        "WDC",
+        "ON",
+        "ALGM",
+        "APP",
+        "RMBS",
+        "AMKR"
       ]
     },
     {
@@ -90,42 +44,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "DELL",
-        "HPE",
-        "NTAP",
-        "HPQ",
-        "TTMI",
-        "GNRC",
-        "LNTH",
-        "F",
-        "P",
-        "BWA",
-        "NTNX",
-        "CLF",
-        "AAL",
-        "AAPL",
-        "ROK",
-        "MRK",
-        "HAE",
-        "AA",
-        "FRT",
-        "GS",
-        "HON",
-        "EXPD",
-        "STLD",
-        "COLM",
-        "AM",
-        "FR",
-        "PK",
-        "DKS",
-        "BBY",
-        "ADSK",
-        "DRI",
-        "SLAB",
-        "ADI",
-        "DECK",
-        "GHC",
-        "CHH"
+        "TTMI"
       ]
     },
     {
@@ -134,11 +53,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "DELL",
-        "SWKS",
-        "HPQ"
-      ]
+      "tickers": []
     }
   ]
 }
