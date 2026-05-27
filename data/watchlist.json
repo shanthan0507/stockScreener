@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,67 +8,20 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "MU",
-        "QCOM",
-        "FLEX",
-        "MTSI",
-        "NXPI",
-        "FSLR",
-        "SMCI",
-        "ON",
-        "AAL",
-        "LSCC",
-        "LRCX",
-        "VICR",
-        "TXN",
-        "TKR",
-        "ALGM",
-        "ENS",
-        "MCHP",
+        "DY",
+        "APP",
         "CLF",
-        "AMAT",
-        "CROX",
-        "JBL",
-        "MOG-A",
-        "RMBS",
-        "PSN",
-        "ADI",
-        "PK",
-        "KLAC",
-        "CRS",
-        "TLN",
-        "MPWR",
-        "DECK",
-        "RCL",
-        "ELAN"
+        "MGM",
+        "BBWI"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "FSLR",
-        "TTMI",
-        "ON",
-        "AAL",
-        "F",
-        "VICR",
-        "ST",
-        "P",
-        "TKR",
-        "ENS",
-        "CROX",
-        "MOG-A",
-        "HON",
-        "ADI",
-        "PATH",
-        "TLN",
-        "RCL",
-        "DKS",
         "DY",
-        "VST",
-        "AMKR",
-        "APH",
-        "CPRI"
+        "AXTA",
+        "BBWI",
+        "ANF"
       ]
     },
     {
@@ -76,15 +29,12 @@
       "tickers": [
         "MU",
         "FLEX",
-        "AMD",
-        "SNDK",
-        "MTSI",
+        "STX",
+        "SMCI",
         "WDC",
-        "ON",
-        "LRCX",
-        "ALGM",
         "APP",
-        "RMBS",
+        "ALGM",
+        "CROX",
         "PVH",
         "AMKR"
       ]
@@ -100,45 +50,10 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "MU",
-        "FSLR",
-        "SMCI",
-        "HPE",
-        "ON",
-        "NTAP",
-        "AAL",
-        "LRCX",
-        "VICR",
-        "TXN",
-        "ST",
-        "TKR",
-        "DAL",
-        "MCHP",
-        "AVT",
-        "CLF",
-        "CROX",
-        "MOG-A",
-        "RMBS",
-        "NEU",
-        "ALK",
-        "COLM",
-        "ADI",
-        "PK",
-        "PATH",
-        "CRS",
-        "MPWR",
-        "RS",
-        "DECK",
-        "SBRA",
-        "STT",
-        "KIM",
-        "SLAB",
-        "NTRS",
         "DY",
-        "AVGO",
-        "VST",
-        "ODFL",
-        "AMKR"
+        "CLF",
+        "BBWI",
+        "POR"
       ]
     },
     {
@@ -148,7 +63,9 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "VICR"
+        "MU",
+        "VICR",
+        "DY"
       ]
     }
   ]
