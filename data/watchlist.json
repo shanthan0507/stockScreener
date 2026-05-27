@@ -8,20 +8,44 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "DY",
+        "HPQ",
         "APP",
         "CLF",
+        "UAL",
+        "CCL",
+        "GM",
         "MGM",
-        "BBWI"
+        "MOS",
+        "NCLH"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "NTAP",
         "DY",
+        "BWA",
+        "HPQ",
+        "APP",
+        "CLF",
+        "NTNX",
+        "CBT",
+        "BIO",
+        "BBY",
         "AXTA",
+        "MGM",
         "BBWI",
-        "ANF"
+        "POR",
+        "GAP",
+        "ECL",
+        "DLTR",
+        "ANF",
+        "NVR",
+        "LULU",
+        "ELF",
+        "CBRE",
+        "TSCO",
+        "INTU"
       ]
     },
     {
@@ -29,12 +53,12 @@
       "tickers": [
         "MU",
         "FLEX",
-        "STX",
-        "SMCI",
+        "SNDK",
         "WDC",
+        "ON",
+        "BWA",
         "APP",
-        "ALGM",
-        "CROX",
+        "STLD",
         "PVH",
         "AMKR"
       ]
@@ -50,10 +74,41 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "DY",
+        "NTAP",
+        "BWA",
+        "APP",
         "CLF",
-        "BBWI",
-        "POR"
+        "UAL",
+        "DAL",
+        "ALK",
+        "CROX",
+        "AAPL",
+        "LUV",
+        "STLD",
+        "HGV",
+        "NTNX",
+        "HAE",
+        "CBT",
+        "SNX",
+        "BBY",
+        "IFF",
+        "MAR",
+        "GS",
+        "CCL",
+        "GM",
+        "MDLZ",
+        "MGM",
+        "FDX",
+        "PPG",
+        "UNP",
+        "HLT",
+        "KMB",
+        "RPM",
+        "BROS",
+        "POR",
+        "PG",
+        "APPF",
+        "META"
       ]
     },
     {
