@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,59 +8,47 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "HPQ",
-        "APP",
-        "CLF",
-        "UAL",
-        "CCL",
-        "GM",
-        "MGM",
-        "MOS",
-        "NCLH"
+        "STRL",
+        "SMCI",
+        "FSLR",
+        "BRKR",
+        "BBY",
+        "RVTY",
+        "A",
+        "DLTR",
+        "NTNX",
+        "AVAV",
+        "PATH",
+        "HRL",
+        "KTOS",
+        "CPRI"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "NTAP",
         "DY",
-        "BWA",
-        "HPQ",
-        "APP",
-        "CLF",
-        "NTNX",
-        "CBT",
-        "BIO",
         "BBY",
-        "AXTA",
-        "MGM",
-        "BBWI",
-        "POR",
-        "GAP",
-        "ECL",
+        "RVTY",
+        "A",
         "DLTR",
-        "ANF",
-        "NVR",
-        "LULU",
-        "ELF",
-        "CBRE",
-        "TSCO",
-        "INTU"
+        "AVAV",
+        "KTOS",
+        "CPRI"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MU",
-        "FLEX",
+        "SMCI",
+        "FSLR",
         "SNDK",
-        "WDC",
-        "ON",
-        "BWA",
+        "BRKR",
         "APP",
-        "STLD",
-        "PVH",
-        "AMKR"
+        "WDC",
+        "BBY",
+        "CLF"
       ]
     },
     {
@@ -74,41 +62,12 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "NTAP",
-        "BWA",
-        "APP",
-        "CLF",
-        "UAL",
-        "DAL",
-        "ALK",
-        "CROX",
-        "AAPL",
-        "LUV",
-        "STLD",
-        "HGV",
-        "NTNX",
-        "HAE",
-        "CBT",
-        "SNX",
+        "SMCI",
+        "FSLR",
         "BBY",
-        "IFF",
-        "MAR",
-        "GS",
-        "CCL",
-        "GM",
-        "MDLZ",
-        "MGM",
-        "FDX",
-        "PPG",
-        "UNP",
-        "HLT",
-        "KMB",
-        "RPM",
-        "BROS",
-        "POR",
-        "PG",
-        "APPF",
-        "META"
+        "A",
+        "DLTR",
+        "AVAV"
       ]
     },
     {
@@ -119,8 +78,11 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "MU",
+        "DY",
+        "APP",
         "VICR",
-        "DY"
+        "BBY",
+        "AVAV"
       ]
     }
   ]
