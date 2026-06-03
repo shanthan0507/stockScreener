@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,91 +8,40 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SMCI",
-        "FLEX",
-        "RMBS",
-        "CLF",
-        "CSCO",
-        "AA",
-        "BWA",
-        "MTSI",
-        "ST",
-        "COHR",
-        "FCX",
-        "ARE",
-        "GLW",
-        "AMAT",
-        "APTV",
-        "TKR",
-        "ARW",
-        "LSCC",
-        "KLAC",
-        "CIEN",
-        "SWKS",
-        "AVT",
-        "TNL",
-        "TTMI",
-        "TXN",
-        "PVH",
-        "CNH",
-        "ADI",
-        "LITE",
-        "CAT",
-        "MPWR",
-        "ENTG",
-        "MCHP"
+        "STRL"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "HPE",
-        "IBM",
-        "CLF",
-        "BWA",
-        "MTSI",
-        "ST",
-        "ARE",
-        "APTV",
-        "SNX",
-        "SWKS",
-        "AVGO",
-        "GNRC",
-        "ENTG",
-        "DCI",
-        "DE",
-        "FTV",
         "IPGP",
-        "TFC",
-        "BDC",
-        "NWE",
-        "ONTO",
-        "KBR",
-        "OSK",
-        "CEG"
+        "TMHC",
+        "AXTA",
+        "M",
+        "GME"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "HPE",
+        "FLEX",
         "MU",
-        "DDOG",
-        "SMCI",
-        "OKTA",
-        "DOCN",
         "RMBS",
-        "IBM",
-        "CLF",
-        "ORCL",
-        "COHR",
+        "BWA",
+        "ON",
         "MGM",
+        "WDC",
+        "COHR",
         "GLW",
         "AMAT",
+        "PK",
+        "DOCN",
         "TWLO",
-        "CDNS",
-        "LITE",
-        "ANET"
+        "ALGM",
+        "ANET",
+        "AMKR",
+        "LITE"
       ]
     },
     {
@@ -108,51 +57,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "DDOG",
-        "SMCI",
-        "OKTA",
-        "PANW",
-        "AAON",
-        "RMBS",
-        "FSLR",
-        "CLF",
-        "ORCL",
-        "AA",
-        "BWA",
-        "MTSI",
-        "ST",
-        "FCX",
-        "ARE",
-        "AMAT",
-        "APTV",
-        "QLYS",
-        "SNX",
-        "MOG-A",
-        "GS",
-        "CGNX",
-        "ILMN",
-        "CIEN",
-        "SWKS",
-        "MS",
-        "MSM",
-        "DOCU",
-        "AVTR",
-        "PVH",
-        "VMI",
-        "ARES",
-        "LITE",
-        "CRUS",
-        "ENTG",
-        "DINO",
-        "EFX",
-        "MCHP",
-        "FITB",
-        "OZK",
-        "WFC",
-        "APPF",
-        "CBSH",
-        "IPGP",
-        "KBR"
+        "PK"
       ]
     },
     {
@@ -163,9 +68,7 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "HPE",
-        "TMHC",
-        "TWLO",
-        "LITE"
+        "TMHC"
       ]
     }
   ]
