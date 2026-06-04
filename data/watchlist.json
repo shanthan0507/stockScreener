@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,77 +8,32 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "BRKR",
-        "APTV",
-        "ILMN",
-        "NBIX",
-        "TTMI",
-        "STRL",
-        "LNTH",
-        "URI",
-        "ALGM",
-        "HALO",
-        "MRNA",
-        "META",
-        "FANG"
+        "M"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "BRKR",
-        "APTV",
-        "BWA",
-        "ILMN",
-        "NBIX",
         "TMHC",
-        "PK",
-        "STRL",
-        "AXTA",
-        "M",
-        "PVH",
-        "THO",
-        "JCI",
-        "AFL",
-        "INCY",
-        "MDT",
-        "AWK",
-        "COO",
-        "FIVE",
-        "OLLI",
-        "TTC",
-        "RBC",
-        "WELL",
-        "GME",
-        "WMT",
-        "THC",
-        "CME",
-        "AZO",
-        "ROL",
-        "CBOE"
+        "TTC"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "HPE",
-        "MU",
+        "HUM",
         "RMBS",
-        "ON",
-        "WDC",
         "MGM",
-        "COHR",
-        "GLW",
-        "AMAT",
         "PK",
-        "TTMI",
         "TWLO",
+        "WDC",
+        "COHR",
+        "AMAT",
         "CDNS",
-        "TER",
         "DOCN",
-        "ALGM",
-        "ANET",
-        "LITE"
+        "HIMS",
+        "ALGM"
       ]
     },
     {
@@ -93,41 +48,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "FLEX",
-        "BRKR",
-        "FTNT",
-        "AAON",
-        "FSLR",
-        "SNDK",
-        "ORA",
-        "ILMN",
-        "NBIX",
-        "QLYS",
-        "MOG-A",
-        "PK",
-        "STRL",
-        "TWLO",
-        "CROX",
-        "URI",
-        "SPXC",
-        "HST",
-        "PVH",
-        "CRS",
-        "ADI",
-        "CNM",
-        "THO",
-        "HALO",
-        "AES",
-        "CPB",
-        "ARES",
-        "TROW",
-        "LECO",
-        "FCFS",
-        "RRX",
-        "RBC",
-        "APO"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -137,6 +58,7 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "HPE",
+        "TWLO",
         "TMHC"
       ]
     }
