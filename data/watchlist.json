@@ -8,15 +8,34 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "COO"
+        "COO",
+        "TXRH"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
         "TMHC",
+        "AMG",
         "COO",
-        "ESNT"
+        "INCY",
+        "CCI",
+        "BRK-B",
+        "AAL",
+        "HGV",
+        "CPB",
+        "NNN",
+        "POOL",
+        "USFD",
+        "SR",
+        "PODD",
+        "ORLY",
+        "EG",
+        "ESNT",
+        "OLLI",
+        "WMT",
+        "SBRA",
+        "CMG"
       ]
     },
     {
@@ -25,12 +44,12 @@
         "HPE",
         "HUM",
         "PK",
-        "COHR",
         "MGM",
         "ODFL",
         "TWLO",
         "HST",
         "DOCN",
+        "VOYA",
         "KRC"
       ]
     },
@@ -46,7 +65,26 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "PK",
+        "HST",
+        "AMG",
+        "COO",
+        "RS",
+        "AMGN",
+        "PFG",
+        "CCI",
+        "PNW",
+        "BRK-B",
+        "OZK",
+        "AMH",
+        "AAL",
+        "ZION",
+        "CBSH",
+        "NNN",
+        "PB",
+        "SLM"
+      ]
     },
     {
       "name": "PP Count",
@@ -55,8 +93,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "TMHC",
-        "TWLO"
+        "TMHC"
       ]
     }
   ]
