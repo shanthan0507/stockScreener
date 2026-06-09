@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,66 +8,23 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "HAE",
-        "MU",
-        "DXCM",
-        "BWA",
-        "AVTR",
-        "CNC",
-        "TTMI",
-        "AMAT",
-        "KLAC",
-        "LRCX",
-        "DUOL",
-        "SYNA",
-        "SFM",
-        "TREX",
-        "ANF"
+        "SJM"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "HAE",
-        "KNX",
-        "PK",
-        "AVTR",
-        "H",
-        "TKR",
-        "MTN",
-        "TECH",
-        "CPT",
-        "KRC",
-        "EXPD",
-        "TREX",
-        "PINS",
-        "AAL",
-        "THO",
-        "DCI",
-        "WBD",
-        "TTC",
-        "AVNT",
-        "SATS",
-        "LULU"
+        "TMHC"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "MU",
-        "SMCI",
-        "COHR",
-        "TTMI",
+        "CROX",
+        "VNO",
+        "BXP",
         "AMAT",
-        "LSCC",
-        "LRCX",
-        "DUOL",
-        "AMD",
-        "SNDK",
-        "GLW",
-        "ONTO",
-        "AMKR",
-        "INTC"
+        "PII"
       ]
     },
     {
@@ -83,46 +40,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "HAE",
-        "DXCM",
-        "KNX",
-        "JBHT",
-        "AVTR",
-        "CNC",
-        "CVLT",
-        "H",
-        "YETI",
-        "TKR",
-        "R",
-        "VNO",
-        "COO",
-        "MSM",
-        "XPO",
-        "MTN",
-        "DUOL",
-        "MUR",
-        "TECH",
-        "CPT",
-        "BXP",
-        "KRC",
-        "TNL",
-        "RS",
-        "UNM",
-        "CR",
-        "CNM",
-        "CUZ",
-        "CART",
-        "SFM",
-        "TREX",
-        "CBSH",
-        "ZION",
-        "AAL",
-        "COLB",
-        "APPF",
-        "TEX",
-        "RRX",
-        "CBT",
-        "ONTO"
+        "SJM"
       ]
     },
     {
