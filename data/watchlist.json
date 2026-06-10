@@ -7,23 +7,52 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "M",
+        "BROS",
+        "SJM",
+        "MUSA",
+        "CAVA",
+        "CASY",
+        "ELF"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "MASI"
+        "CAH",
+        "CPB",
+        "ILMN",
+        "MMM",
+        "RYAN",
+        "LIVN",
+        "ZION",
+        "VLY",
+        "CFR",
+        "INCY",
+        "CASY",
+        "HR",
+        "MASI",
+        "KR",
+        "RNR",
+        "BKH",
+        "NWE",
+        "AEP",
+        "PEP",
+        "FIVE",
+        "SR"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "VNO",
-        "DUOL",
+        "SN",
+        "KLAC",
         "AMAT",
-        "LRCX",
-        "ONTO",
-        "AMKR"
+        "DUOL",
+        "AMKR",
+        "INTC"
       ]
     },
     {
@@ -39,8 +68,44 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "KNX",
+        "ODFL",
+        "CVLT",
         "BROS",
-        "MMM"
+        "JBHT",
+        "CAH",
+        "ASH",
+        "RGEN",
+        "DUOL",
+        "BAX",
+        "UNM",
+        "MEDP",
+        "COKE",
+        "LAD",
+        "HOOD",
+        "XPO",
+        "MMM",
+        "RYAN",
+        "MET",
+        "LIVN",
+        "PFG",
+        "ZION",
+        "ORCL",
+        "USFD",
+        "CBSH",
+        "CFR",
+        "SAIA",
+        "MUSA",
+        "CASY",
+        "UBSI",
+        "FFIN",
+        "USB",
+        "IBOC",
+        "EQH",
+        "TROW",
+        "NOV",
+        "HR",
+        "PBF"
       ]
     },
     {
@@ -50,7 +115,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "ELF"
+        "CASY"
       ]
     }
   ]
