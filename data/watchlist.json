@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,51 +7,30 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "M",
-        "BROS",
-        "SJM",
-        "MUSA",
-        "CAVA",
-        "CASY",
-        "ELF"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CAH",
-        "CPB",
-        "ILMN",
-        "MMM",
-        "RYAN",
-        "LIVN",
-        "ZION",
-        "VLY",
-        "CFR",
-        "INCY",
-        "CASY",
-        "HR",
-        "MASI",
-        "KR",
-        "RNR",
-        "BKH",
-        "NWE",
-        "AEP",
-        "PEP",
-        "FIVE",
-        "SR"
+        "KIM",
+        "IDCC",
+        "SMCI"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "VNO",
+        "M",
+        "BROS",
         "SN",
         "KLAC",
+        "VNO",
+        "SNDK",
         "AMAT",
-        "DUOL",
-        "AMKR",
+        "LRCX",
+        "MKSI",
+        "ONTO",
+        "ENTG",
         "INTC"
       ]
     },
@@ -68,44 +47,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "KNX",
-        "ODFL",
-        "CVLT",
-        "BROS",
-        "JBHT",
-        "CAH",
-        "ASH",
-        "RGEN",
-        "DUOL",
-        "BAX",
-        "UNM",
-        "MEDP",
-        "COKE",
-        "LAD",
-        "HOOD",
-        "XPO",
-        "MMM",
-        "RYAN",
-        "MET",
-        "LIVN",
-        "PFG",
-        "ZION",
-        "ORCL",
-        "USFD",
-        "CBSH",
-        "CFR",
-        "SAIA",
-        "MUSA",
-        "CASY",
-        "UBSI",
-        "FFIN",
-        "USB",
-        "IBOC",
-        "EQH",
-        "TROW",
-        "NOV",
-        "HR",
-        "PBF"
+        "KIM"
       ]
     },
     {
@@ -114,9 +56,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "CASY"
-      ]
+      "tickers": []
     }
   ]
 }
