@@ -8,33 +8,64 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "ESAB"
+        "LRCX",
+        "WDC",
+        "BRKR",
+        "TECH",
+        "TER",
+        "ALGM",
+        "ENTG",
+        "RCL",
+        "TLN",
+        "WWD",
+        "BKNG",
+        "MCHP"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "KLAC",
+        "AMAT",
         "AAL",
-        "SATS"
+        "ENTG",
+        "AEIS",
+        "ESAB",
+        "HON",
+        "CHDN",
+        "NDSN",
+        "XYZ",
+        "PATH",
+        "APP",
+        "ITT",
+        "NWSA",
+        "ULS",
+        "ENS",
+        "PYPL",
+        "JKHY",
+        "HL",
+        "CTRE",
+        "SATS",
+        "ADBE",
+        "PTC"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "SNDK",
         "MU",
+        "SNDK",
         "LRCX",
         "WDC",
         "AMD",
-        "HOOD",
+        "STX",
         "TER",
         "ALGM",
-        "STX",
+        "TTMI",
         "ENTG",
         "DOCN",
         "ON",
         "COHR",
-        "MCHP",
         "Q"
       ]
     },
@@ -52,7 +83,31 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "CHDN"
+        "WDC",
+        "TECH",
+        "ALGM",
+        "QLYS",
+        "HUM",
+        "ENTG",
+        "RCL",
+        "HIMS",
+        "DOCN",
+        "GT",
+        "BKNG",
+        "VRSK",
+        "RBA",
+        "HON",
+        "CHDN",
+        "MRNA",
+        "XYZ",
+        "PATH",
+        "ABNB",
+        "APP",
+        "VRTX",
+        "LECO",
+        "BRK-B",
+        "CINF",
+        "VLO"
       ]
     },
     {
