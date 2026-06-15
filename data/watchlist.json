@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-15",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,46 +8,34 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "ONTO",
-        "AMKR",
-        "GT",
-        "INTC"
+        "ESAB"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
         "AAL",
-        "ONTO",
-        "AMKR",
-        "KRG",
-        "WTS",
-        "GT",
-        "IDCC",
-        "PCTY",
-        "VFC",
-        "REXR",
-        "BSY",
-        "TTD",
-        "ENSG"
+        "SATS"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "SNDK",
-        "M",
-        "KLAC",
-        "BROS",
-        "AMAT",
         "MU",
         "LRCX",
-        "ONTO",
-        "AMKR",
-        "MKSI",
-        "TTMI",
+        "WDC",
+        "AMD",
+        "HOOD",
+        "TER",
+        "ALGM",
+        "STX",
         "ENTG",
-        "INTC"
+        "DOCN",
+        "ON",
+        "COHR",
+        "MCHP",
+        "Q"
       ]
     },
     {
@@ -57,34 +45,14 @@
     {
       "name": "VCS",
       "tickers": [
+        "TMHC",
         "CAR"
       ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "BROS",
-        "CAVA",
-        "AAL",
-        "ONTO",
-        "LUV",
-        "IP",
-        "AMKR",
-        "UNM",
-        "VLY",
-        "ZION",
-        "KRG",
-        "WTS",
-        "OZK",
-        "WDAY",
-        "EWBC",
-        "GBCI",
-        "ASB",
-        "TROW",
-        "IBOC",
-        "VMI",
-        "PCTY",
-        "EQH"
+        "CHDN"
       ]
     },
     {
@@ -93,20 +61,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "SNDK",
-        "KLAC",
-        "AMAT",
-        "ANF",
-        "LRCX",
-        "CAVA",
-        "ONTO",
-        "AMKR",
-        "ELF",
-        "ENTG",
-        "INTC",
-        "AEIS"
-      ]
+      "tickers": []
     }
   ]
 }
