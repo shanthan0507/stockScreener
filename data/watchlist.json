@@ -8,12 +8,15 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "WDC",
-        "AMKR",
+        "BBWI",
         "TLN",
         "ELF",
         "WWD",
-        "MRNA"
+        "ESAB",
+        "MRNA",
+        "OC",
+        "WH",
+        "CART"
       ]
     },
     {
@@ -21,7 +24,25 @@
       "tickers": [
         "WDC",
         "AMKR",
-        "SATS"
+        "AAL",
+        "TLN",
+        "ELF",
+        "WWD",
+        "TOL",
+        "MRNA",
+        "KNF",
+        "TFC",
+        "PNFP",
+        "DLR",
+        "TRV",
+        "CYTK",
+        "NWSA",
+        "TTWO",
+        "TYL",
+        "AZO",
+        "ACI",
+        "SATS",
+        "FISV"
       ]
     },
     {
@@ -30,8 +51,6 @@
         "WDC",
         "HIMS",
         "STX",
-        "AMKR",
-        "ALGM",
         "XYZ"
       ]
     },
@@ -49,10 +68,32 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "WDC",
+        "HIMS",
+        "BBWI",
         "AMKR",
+        "TLN",
+        "LUV",
+        "WWD",
+        "TOL",
+        "GPC",
         "MRNA",
-        "CYTK"
+        "MIDD",
+        "CAH",
+        "HD",
+        "LNTH",
+        "MAR",
+        "VMI",
+        "TDG",
+        "SNA",
+        "MCO",
+        "LECO",
+        "PNFP",
+        "CMI",
+        "CINF",
+        "CYTK",
+        "SEIC",
+        "DTM",
+        "TTWO"
       ]
     },
     {
