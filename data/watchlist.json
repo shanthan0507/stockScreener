@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,65 +8,31 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "LRCX",
         "WDC",
-        "BRKR",
-        "TECH",
-        "TER",
-        "ALGM",
-        "ENTG",
-        "RCL",
+        "AMKR",
         "TLN",
+        "ELF",
         "WWD",
-        "BKNG",
-        "MCHP"
+        "MRNA"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "KLAC",
-        "AMAT",
-        "AAL",
-        "ENTG",
-        "AEIS",
-        "ESAB",
-        "HON",
-        "CHDN",
-        "NDSN",
-        "XYZ",
-        "PATH",
-        "APP",
-        "ITT",
-        "NWSA",
-        "ULS",
-        "ENS",
-        "PYPL",
-        "JKHY",
-        "HL",
-        "CTRE",
-        "SATS",
-        "ADBE",
-        "PTC"
+        "WDC",
+        "AMKR",
+        "SATS"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "MU",
-        "SNDK",
-        "LRCX",
         "WDC",
-        "AMD",
+        "HIMS",
         "STX",
-        "TER",
+        "AMKR",
         "ALGM",
-        "TTMI",
-        "ENTG",
-        "DOCN",
-        "ON",
-        "COHR",
-        "Q"
+        "XYZ"
       ]
     },
     {
@@ -84,30 +50,9 @@
       "name": "Pocket Pivot",
       "tickers": [
         "WDC",
-        "TECH",
-        "ALGM",
-        "QLYS",
-        "HUM",
-        "ENTG",
-        "RCL",
-        "HIMS",
-        "DOCN",
-        "GT",
-        "BKNG",
-        "VRSK",
-        "RBA",
-        "HON",
-        "CHDN",
+        "AMKR",
         "MRNA",
-        "XYZ",
-        "PATH",
-        "ABNB",
-        "APP",
-        "VRTX",
-        "LECO",
-        "BRK-B",
-        "CINF",
-        "VLO"
+        "CYTK"
       ]
     },
     {
@@ -116,7 +61,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "WDC"
+      ]
     }
   ]
 }
