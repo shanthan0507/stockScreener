@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,50 +8,22 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "BBWI",
-        "TLN",
-        "ELF",
-        "WWD",
-        "ESAB",
-        "MRNA",
-        "OC",
-        "WH",
-        "CART"
+        "HOOD"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "WDC",
-        "AMKR",
-        "AAL",
-        "TLN",
-        "ELF",
-        "WWD",
-        "TOL",
-        "MRNA",
-        "KNF",
-        "TFC",
-        "PNFP",
-        "DLR",
-        "TRV",
-        "CYTK",
-        "NWSA",
-        "TTWO",
-        "TYL",
-        "AZO",
-        "ACI",
-        "SATS",
-        "FISV"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "WDC",
-        "HIMS",
         "STX",
-        "XYZ"
+        "HIMS",
+        "HOOD",
+        "ALGM",
+        "ENTG"
       ]
     },
     {
@@ -67,34 +39,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "HIMS",
-        "BBWI",
-        "AMKR",
-        "TLN",
-        "LUV",
-        "WWD",
-        "TOL",
-        "GPC",
-        "MRNA",
-        "MIDD",
-        "CAH",
-        "HD",
-        "LNTH",
-        "MAR",
-        "VMI",
-        "TDG",
-        "SNA",
-        "MCO",
-        "LECO",
-        "PNFP",
-        "CMI",
-        "CINF",
-        "CYTK",
-        "SEIC",
-        "DTM",
-        "TTWO"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -103,7 +48,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "WDC"
+        "WDC",
+        "HIMS"
       ]
     }
   ]
