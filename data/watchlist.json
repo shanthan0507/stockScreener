@@ -8,22 +8,42 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "HOOD"
+        "WDC",
+        "AMAT",
+        "HOOD",
+        "MRNA",
+        "CXT",
+        "ARWR"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "WDC",
+        "HOOD",
+        "MRNA",
+        "ALGM",
+        "CVLT",
+        "KNF",
+        "ARWR",
+        "CMI",
+        "AIT",
+        "WBS",
+        "FCFS",
+        "EOG"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "DELL",
         "WDC",
+        "MU",
         "STX",
         "HIMS",
         "HOOD",
         "ALGM",
-        "ENTG"
+        "ARWR"
       ]
     },
     {
@@ -39,7 +59,31 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "HIMS",
+        "HOOD",
+        "MRNA",
+        "CVLT",
+        "KNF",
+        "CAH",
+        "JPM",
+        "PH",
+        "ARWR",
+        "ROIV",
+        "CMI",
+        "AIT",
+        "BEN",
+        "Q",
+        "APO",
+        "VRTX",
+        "SCHW",
+        "JNJ",
+        "CYTK",
+        "CINF",
+        "PGR",
+        "SEIC",
+        "TTWO"
+      ]
     },
     {
       "name": "PP Count",
@@ -49,7 +93,7 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "WDC",
-        "HIMS"
+        "MRNA"
       ]
     }
   ]
