@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,43 +7,28 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "WDC",
-        "AMAT",
-        "HOOD",
-        "MRNA",
-        "CXT",
-        "ARWR"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "WDC",
-        "HOOD",
-        "MRNA",
-        "ALGM",
-        "CVLT",
-        "KNF",
-        "ARWR",
-        "CMI",
-        "AIT",
-        "WBS",
-        "FCFS",
-        "EOG"
+        "TTWO",
+        "JHG"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "DELL",
         "WDC",
         "MU",
-        "STX",
         "HIMS",
+        "AMAT",
+        "STX",
         "HOOD",
+        "ENTG",
         "ALGM",
-        "ARWR"
+        "MKSI",
+        "Q"
       ]
     },
     {
@@ -60,28 +45,6 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "HIMS",
-        "HOOD",
-        "MRNA",
-        "CVLT",
-        "KNF",
-        "CAH",
-        "JPM",
-        "PH",
-        "ARWR",
-        "ROIV",
-        "CMI",
-        "AIT",
-        "BEN",
-        "Q",
-        "APO",
-        "VRTX",
-        "SCHW",
-        "JNJ",
-        "CYTK",
-        "CINF",
-        "PGR",
-        "SEIC",
         "TTWO"
       ]
     },
@@ -93,7 +56,9 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "WDC",
-        "MRNA"
+        "HIMS",
+        "MRNA",
+        "TLN"
       ]
     }
   ]
