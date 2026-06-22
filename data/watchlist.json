@@ -8,33 +8,63 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SMCI"
+        "VICR",
+        "LRCX",
+        "GNRC",
+        "FLEX",
+        "NVT",
+        "COHR",
+        "VRT",
+        "GLW",
+        "SANM",
+        "VIAV",
+        "ABBV",
+        "INCY",
+        "SMCI",
+        "MTZ",
+        "SWKS"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
         "AAL",
-        "SMCI"
+        "Q",
+        "DY",
+        "VC",
+        "SMCI",
+        "SWKS",
+        "TTWO",
+        "JHG",
+        "AIG",
+        "WPC",
+        "REGN",
+        "OVV",
+        "HL",
+        "NOV",
+        "CHRD"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MU",
-        "SNDK",
+        "ALGM",
+        "LRCX",
         "ON",
         "SMTC",
         "INTC",
+        "FLEX",
         "COHR",
-        "CNC",
-        "CVS",
-        "SMCI",
         "VRT",
+        "CNC",
         "GLW",
         "SANM",
         "VIAV",
-        "SWKS"
+        "SMCI",
+        "MTZ",
+        "SWKS",
+        "PWR"
       ]
     },
     {
@@ -51,7 +81,22 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "Q"
+        "MKSI",
+        "DUOL",
+        "DLTR",
+        "FLEX",
+        "CAT",
+        "Q",
+        "DY",
+        "COHR",
+        "TT",
+        "DASH",
+        "FAST",
+        "SITM",
+        "SWKS",
+        "TXRH",
+        "AIG",
+        "WMB"
       ]
     },
     {
