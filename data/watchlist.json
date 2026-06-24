@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,49 +8,24 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "BBWI",
-        "CDW",
-        "CART",
-        "PGR",
-        "ALL",
-        "SAIC",
-        "IBM"
+        "KBH"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "AAL",
-        "ZION",
-        "KBH",
-        "SPG",
-        "UBSI",
-        "IBM",
-        "TRV",
-        "AEP",
-        "CNP",
-        "AON",
-        "KNSL",
-        "NWS",
-        "VICI",
-        "MUR",
-        "LHX",
-        "LOPE",
-        "NOV",
-        "AZO",
-        "NXST",
-        "PEGA",
-        "KR",
-        "BAH",
-        "ACN"
+        "KBH"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "DELL",
         "DUOL",
-        "VIAV",
+        "UAL",
+        "ILMN",
+        "AAL",
+        "DAL",
+        "GLW",
         "SMCI"
       ]
     },
@@ -67,34 +42,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "HOOD",
-        "VICR",
-        "ENTG",
-        "DUOL",
-        "BBY",
-        "RCL",
-        "MKSI",
-        "DLTR",
-        "TEX",
-        "TER",
-        "AVTR",
-        "FLEX",
-        "CCL",
-        "BALL",
-        "CDP",
-        "NEU",
-        "SHW",
-        "BRO",
-        "TXRH",
-        "AEP",
-        "CNP",
-        "PAYX",
-        "SO",
-        "WMB",
-        "MTSI",
-        "SWKS"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
