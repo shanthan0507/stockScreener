@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,100 +8,31 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "KBH",
-        "UAL",
         "TECH",
-        "KNF",
-        "TREX",
-        "ILMN",
-        "RGEN",
-        "MEDP",
-        "ANF",
-        "SW",
-        "AXON",
-        "SLGN",
-        "EXPE",
-        "AAL",
-        "TOL",
-        "SMG",
-        "FBIN",
-        "PHM",
-        "DY",
-        "SWK",
-        "BLDR",
-        "ROIV",
-        "IQV",
-        "DHI",
-        "RH",
-        "TGT",
-        "NVR",
-        "OC",
-        "BKNG",
-        "HD",
-        "CSL",
-        "UFPI",
-        "LII",
-        "XYZ",
-        "MTD",
-        "CBT",
-        "SSD",
-        "LPX",
-        "UBER",
-        "GLW",
-        "SHC",
-        "GT",
-        "LEN",
-        "FOUR"
+        "AYI",
+        "GLW"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "KBH",
-        "UAL",
-        "KNF",
-        "LUV",
-        "TEX",
-        "EXPE",
-        "AAL",
-        "PHM",
-        "ROIV",
-        "VMC",
-        "BKNG",
-        "KMB",
-        "THG",
-        "KVUE",
-        "SAIC",
-        "ONB",
-        "UBER",
-        "UBSI",
-        "DRI",
-        "GXO",
-        "FOUR",
+        "TECH",
         "AYI",
-        "EA",
-        "MKC",
-        "WBD",
-        "BLD",
-        "AZO",
-        "SPGI",
-        "CMC",
-        "VICI",
-        "PATH",
-        "CHWY",
-        "NXST",
-        "CTSH",
-        "FOXA",
-        "ACN"
+        "PNR"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "DD",
+        "TECH",
         "UAL",
+        "LUV",
         "ILMN",
         "AAL",
-        "DAL"
+        "GLW",
+        "DAL",
+        "FLEX"
       ]
     },
     {
@@ -111,50 +42,15 @@
     {
       "name": "VCS",
       "tickers": [
-        "TMHC",
-        "CAR"
+        "TMHC"
       ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "KBH",
-        "UAL",
         "TECH",
-        "HRL",
-        "KNF",
-        "LUV",
-        "RCL",
-        "RGEN",
-        "TEX",
-        "AAL",
-        "SMG",
-        "FBIN",
-        "DASH",
-        "PHM",
-        "ROIV",
-        "A",
-        "VMC",
-        "OC",
-        "HD",
-        "LII",
-        "KMB",
-        "XYZ",
-        "DHR",
-        "SSD",
-        "BRO",
-        "LPX",
-        "KVUE",
-        "SHW",
-        "UBER",
-        "GLW",
-        "GIS",
-        "SHC",
-        "PPL",
-        "CTVA",
-        "WMB",
-        "DTM",
-        "FDX"
+        "DLTR",
+        "GLW"
       ]
     },
     {
@@ -163,7 +59,10 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "DD",
+        "TECH"
+      ]
     }
   ]
 }
