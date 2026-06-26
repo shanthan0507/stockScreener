@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,74 +7,23 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "AMAT",
-        "TECH",
-        "SNDK",
-        "KLAC",
-        "CRL",
-        "ONTO",
-        "RGEN",
-        "TEX",
-        "TER",
-        "BRKR",
-        "MKSI",
-        "ALGM",
-        "AYI",
-        "GLW",
-        "RVTY",
-        "CAT",
-        "IR",
-        "FLEX",
-        "TT",
-        "WING",
-        "MRK"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "AMAT",
-        "TECH",
-        "MU",
-        "CRL",
-        "RGEN",
-        "LRCX",
-        "TER",
-        "MKSI",
-        "AYI",
-        "GLW",
-        "ILMN",
-        "AAL",
-        "USFD",
-        "CAT",
-        "ROIV",
-        "MTD",
-        "ABBV",
-        "MIDD",
-        "KDP",
-        "GNRC",
-        "PNR",
-        "BLD",
-        "MKC",
-        "AHR",
-        "BSY",
-        "HL",
-        "WLK",
-        "OLN"
+        "SYNA"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "DD",
         "TECH",
-        "GLW",
-        "UAL",
-        "ILMN",
         "AAL",
-        "DAL",
-        "FLEX"
+        "UAL",
+        "BAX",
+        "BBWI",
+        "RVTY"
       ]
     },
     {
@@ -91,48 +40,7 @@
       "name": "Pocket Pivot",
       "tickers": [
         "TECH",
-        "SNDK",
-        "OKTA",
-        "CRL",
-        "RGEN",
-        "TEX",
-        "TER",
-        "BRKR",
-        "MKSI",
-        "DLTR",
-        "AYI",
-        "LUV",
-        "GLW",
-        "PANW",
-        "AAL",
-        "RVTY",
-        "CAT",
-        "ROIV",
-        "MTD",
-        "LII",
-        "ABBV",
-        "DHR",
-        "OC",
-        "MIDD",
-        "WST",
-        "FLEX",
-        "TT",
-        "KMB",
-        "HD",
-        "WING",
-        "LPX",
-        "GATX",
-        "TXRH",
-        "ARW",
-        "WMB",
-        "ALLE",
-        "IDA",
-        "DRI",
-        "NEU",
-        "BLD",
-        "DUK",
-        "NOVT",
-        "MTSI"
+        "SYNA"
       ]
     },
     {
@@ -142,7 +50,6 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "DD",
         "TECH"
       ]
     }
