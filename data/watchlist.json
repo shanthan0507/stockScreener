@@ -7,13 +7,62 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "AMAT",
+        "KLAC",
+        "ONTO",
+        "ALGM",
+        "FBIN",
+        "CXT",
+        "MKSI",
+        "ELF",
+        "LRCX",
+        "TER",
+        "WTS",
+        "APH",
+        "QLYS",
+        "TPL",
+        "RRX",
+        "AXON",
+        "CGNX",
+        "TDY",
+        "JCI"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "KRG",
-        "AVAV"
+        "AMAT",
+        "KLAC",
+        "ONTO",
+        "FBIN",
+        "MKSI",
+        "LRCX",
+        "OC",
+        "AAL",
+        "QLYS",
+        "RRX",
+        "CGNX",
+        "SSD",
+        "AZO",
+        "APD",
+        "GNTX",
+        "EXE",
+        "CMCSA",
+        "WCC",
+        "NXST",
+        "EQT",
+        "SYNA",
+        "BCO",
+        "XOM",
+        "DAR",
+        "MPWR",
+        "CPRT",
+        "PATH",
+        "AVAV",
+        "ALB",
+        "FOX",
+        "FOXA"
       ]
     },
     {
@@ -26,18 +75,18 @@
         "GLW",
         "FBIN",
         "MKSI",
-        "MRVL",
         "LRCX",
-        "OC",
+        "MRVL",
         "ENTG",
-        "INTC",
+        "TER",
+        "OC",
         "GEV",
-        "WDC",
+        "AXON",
         "AMD",
         "PANW",
         "FLEX",
-        "CRWD",
-        "OKTA",
+        "LSCC",
+        "P",
         "DOCN",
         "RMBS"
       ]
@@ -53,7 +102,24 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "FBIN"
+        "KLAC",
+        "ONTO",
+        "ALGM",
+        "FBIN",
+        "MKSI",
+        "OC",
+        "SN",
+        "APH",
+        "QLYS",
+        "RRX",
+        "AMD",
+        "KMB",
+        "PANW",
+        "CGNX",
+        "IFF",
+        "ARMK",
+        "ADP",
+        "PATH"
       ]
     },
     {
@@ -62,7 +128,11 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "KLAC",
+        "ALGM",
+        "AXON"
+      ]
     }
   ]
 }
