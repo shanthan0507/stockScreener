@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,50 +7,12 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "AMAT",
-        "KLAC",
-        "GLW",
-        "ALGM",
-        "ONTO",
-        "FBIN",
-        "LRCX",
-        "MKSI",
-        "USFD",
-        "CRL",
-        "OC",
-        "TER",
-        "ENTG",
-        "WDC",
-        "AMKR",
-        "PANW",
-        "PBF",
-        "AXON",
-        "CYTK",
-        "MTZ",
-        "STX",
-        "VICR",
-        "TPL",
-        "FIX"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "AMAT",
-        "ALGM",
-        "FBIN",
-        "MKSI",
-        "OC",
-        "AXON",
-        "TROW",
-        "AZO",
-        "NLY",
-        "CHTR",
-        "Q",
-        "CMCSA",
-        "KBR",
-        "NXST",
+        "KRG",
         "AVAV"
       ]
     },
@@ -59,23 +21,23 @@
       "tickers": [
         "AMAT",
         "KLAC",
-        "GLW",
-        "ALGM",
         "ONTO",
+        "ALGM",
+        "GLW",
         "FBIN",
-        "LRCX",
         "MKSI",
+        "MRVL",
+        "LRCX",
         "OC",
-        "TER",
         "ENTG",
+        "INTC",
+        "GEV",
         "WDC",
+        "AMD",
         "PANW",
-        "CYTK",
-        "MTZ",
-        "STX",
         "FLEX",
         "CRWD",
-        "LSCC",
+        "OKTA",
         "DOCN",
         "RMBS"
       ]
@@ -86,43 +48,12 @@
     },
     {
       "name": "VCS",
-      "tickers": [
-        "TMHC"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "ALGM",
-        "TECH",
-        "FBIN",
-        "MKSI",
-        "OC",
-        "NCLH",
-        "PANW",
-        "SMG",
-        "MAS",
-        "CDP",
-        "KMB",
-        "PBF",
-        "CYTK",
-        "ARE",
-        "CNH",
-        "LNTH",
-        "VICR",
-        "GT",
-        "COHR",
-        "ALLE",
-        "TPL",
-        "ROK",
-        "OKTA",
-        "MSA",
-        "NWE",
-        "Q",
-        "IFF",
-        "VEEV",
-        "NTNX",
-        "TSLA"
+        "FBIN"
       ]
     },
     {
