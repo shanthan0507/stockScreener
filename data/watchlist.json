@@ -8,16 +8,44 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "MSM"
+        "ELF",
+        "HIMS",
+        "QLYS",
+        "AXON",
+        "KNSL",
+        "AJG",
+        "MKC",
+        "GIS",
+        "ILMN",
+        "IQV",
+        "APD",
+        "KHC",
+        "ALGN"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "TECH",
+        "AAL",
+        "GIS",
         "ORI",
+        "ONB",
+        "V",
+        "APD",
+        "PB",
+        "MSM",
         "META",
         "JHG",
-        "NKE"
+        "NXST",
+        "SPGI",
+        "NKE",
+        "FDS",
+        "PATH",
+        "APO",
+        "TRMB",
+        "AVAV",
+        "FOXA"
       ]
     },
     {
@@ -25,16 +53,16 @@
       "tickers": [
         "FBIN",
         "HIMS",
-        "OC",
         "ALGM",
-        "AXON",
+        "OC",
         "HOOD",
+        "AXON",
         "PANW",
         "CRWD",
         "OKTA",
         "DDOG",
         "APP",
-        "RMBS"
+        "TWLO"
       ]
     },
     {
@@ -48,8 +76,27 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "ELF",
+        "FBIN",
+        "HIMS",
+        "SN",
+        "PANW",
+        "KMB",
+        "GIS",
+        "AVTR",
+        "CART",
+        "SBUX",
         "MSM",
-        "META"
+        "BRKR",
+        "CELH",
+        "OKTA",
+        "META",
+        "BILL",
+        "VEEV",
+        "FDS",
+        "PATH",
+        "MANH",
+        "NTAP"
       ]
     },
     {
