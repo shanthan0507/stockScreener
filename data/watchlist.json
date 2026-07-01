@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,86 +8,32 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "AMAT",
-        "KLAC",
-        "ONTO",
-        "ALGM",
-        "FBIN",
-        "CXT",
-        "MKSI",
-        "ELF",
-        "LRCX",
-        "TER",
-        "WTS",
-        "APH",
-        "QLYS",
-        "TPL",
-        "RRX",
-        "AXON",
-        "CGNX",
-        "TDY",
-        "JCI"
+        "MSM"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "AMAT",
-        "KLAC",
-        "ONTO",
-        "FBIN",
-        "MKSI",
-        "LRCX",
-        "OC",
-        "AAL",
-        "QLYS",
-        "RRX",
-        "CGNX",
-        "SSD",
-        "AZO",
-        "APD",
-        "GNTX",
-        "EXE",
-        "CMCSA",
-        "WCC",
-        "NXST",
-        "EQT",
-        "SYNA",
-        "BCO",
-        "XOM",
-        "DAR",
-        "MPWR",
-        "CPRT",
-        "PATH",
-        "AVAV",
-        "ALB",
-        "FOX",
-        "FOXA"
+        "ORI",
+        "META",
+        "JHG",
+        "NKE"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "AMAT",
-        "KLAC",
-        "ONTO",
-        "ALGM",
-        "GLW",
         "FBIN",
-        "MKSI",
-        "LRCX",
-        "MRVL",
-        "ENTG",
-        "TER",
+        "HIMS",
         "OC",
-        "GEV",
+        "ALGM",
         "AXON",
-        "AMD",
+        "HOOD",
         "PANW",
-        "FLEX",
-        "LSCC",
-        "P",
-        "DOCN",
+        "CRWD",
+        "OKTA",
+        "DDOG",
+        "APP",
         "RMBS"
       ]
     },
@@ -102,24 +48,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "KLAC",
-        "ONTO",
-        "ALGM",
-        "FBIN",
-        "MKSI",
-        "OC",
-        "SN",
-        "APH",
-        "QLYS",
-        "RRX",
-        "AMD",
-        "KMB",
-        "PANW",
-        "CGNX",
-        "IFF",
-        "ARMK",
-        "ADP",
-        "PATH"
+        "MSM",
+        "META"
       ]
     },
     {
@@ -129,9 +59,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "KLAC",
-        "ALGM",
-        "AXON"
+        "AXON",
+        "AVAV"
       ]
     }
   ]
