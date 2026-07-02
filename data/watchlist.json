@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,62 +7,28 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "ELF",
-        "HIMS",
-        "QLYS",
-        "AXON",
-        "KNSL",
-        "AJG",
-        "MKC",
-        "GIS",
-        "ILMN",
-        "IQV",
-        "APD",
-        "KHC",
-        "ALGN"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "TECH",
-        "AAL",
-        "GIS",
-        "ORI",
-        "ONB",
-        "V",
-        "APD",
-        "PB",
-        "MSM",
-        "META",
-        "JHG",
-        "NXST",
-        "SPGI",
-        "NKE",
-        "FDS",
-        "PATH",
-        "APO",
-        "TRMB",
-        "AVAV",
-        "FOXA"
+        "IDA",
+        "AVAV"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "MRNA",
+        "HOOD",
         "FBIN",
         "HIMS",
-        "ALGM",
-        "OC",
-        "HOOD",
-        "AXON",
         "PANW",
-        "CRWD",
+        "OC",
+        "AXON",
         "OKTA",
-        "DDOG",
-        "APP",
-        "TWLO"
+        "CRWD",
+        "APP"
       ]
     },
     {
@@ -75,29 +41,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "ELF",
-        "FBIN",
-        "HIMS",
-        "SN",
-        "PANW",
-        "KMB",
-        "GIS",
-        "AVTR",
-        "CART",
-        "SBUX",
-        "MSM",
-        "BRKR",
-        "CELH",
-        "OKTA",
-        "META",
-        "BILL",
-        "VEEV",
-        "FDS",
-        "PATH",
-        "MANH",
-        "NTAP"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
