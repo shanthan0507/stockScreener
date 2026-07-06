@@ -8,32 +8,41 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "RMD"
+        "QLYS",
+        "AVNT",
+        "RMD",
+        "PCAR"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "RMD",
+        "PB",
+        "HL",
+        "DLR",
+        "T",
+        "MLI",
+        "BKR"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "MRNA",
-        "HIMS",
-        "DUOL",
+        "HOOD",
+        "AXON",
         "OKTA",
-        "ALGM",
+        "IBKR",
         "AMD",
         "ANET",
         "WDC",
+        "JEF",
+        "DELL",
         "STX",
-        "MCHP",
         "NTAP",
-        "SYNA",
-        "SMTC",
         "HPE",
-        "QCOM",
-        "ON"
+        "QCOM"
       ]
     },
     {
@@ -46,7 +55,17 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "PANW",
+        "AVNT",
+        "SIRI",
+        "DOCS",
+        "AMD",
+        "ISRG",
+        "PATH",
+        "PCTY"
+      ]
     },
     {
       "name": "PP Count",
