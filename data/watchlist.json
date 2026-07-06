@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-06",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,61 +8,32 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "MRNA",
-        "GPC",
-        "AJG",
-        "THC",
-        "VRTX",
-        "GPN",
-        "BILL",
-        "HCA",
-        "TRU",
-        "SPGI",
-        "UHS"
+        "RMD"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "MRNA",
-        "GPC",
-        "ORI",
-        "GT",
-        "IDA",
-        "SPGI",
-        "BKNG",
-        "AFG",
-        "AWK",
-        "ILMN",
-        "AEP",
-        "PEG",
-        "NOC",
-        "FR",
-        "MCD",
-        "PEP",
-        "POST",
-        "AVAV",
-        "TXNM",
-        "APO",
-        "SBAC",
-        "VZ",
-        "FOXA",
-        "T",
-        "BAH",
-        "ACN",
-        "AA"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MRNA",
-        "FBIN",
-        "HOOD",
-        "OC",
-        "PANW",
-        "AXON",
-        "OKTA"
+        "HIMS",
+        "DUOL",
+        "OKTA",
+        "ALGM",
+        "AMD",
+        "ANET",
+        "WDC",
+        "STX",
+        "MCHP",
+        "NTAP",
+        "SYNA",
+        "SMTC",
+        "HPE",
+        "QCOM",
+        "ON"
       ]
     },
     {
@@ -75,40 +46,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "MRNA",
-        "GPC",
-        "SN",
-        "KMB",
-        "SHW",
-        "SHC",
-        "GPN",
-        "IFF",
-        "HSIC",
-        "GT",
-        "OKTA",
-        "IDA",
-        "VVV",
-        "SBRA",
-        "RH",
-        "CELH",
-        "ILMN",
-        "NSA",
-        "SBUX",
-        "SIRI",
-        "VEEV",
-        "CNP",
-        "EXC",
-        "DUK",
-        "PEG",
-        "CHH",
-        "FR",
-        "DOCS",
-        "PATH",
-        "MANH",
-        "FDS",
-        "BRKR"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -116,11 +54,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "QLYS",
-        "AXON",
-        "AVAV"
-      ]
+      "tickers": []
     }
   ]
 }
