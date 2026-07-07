@@ -7,11 +7,19 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "GILD"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "AHR",
+        "STAG",
+        "D",
+        "WLK",
+        "OLN"
+      ]
     },
     {
       "name": "Momentum 97",
@@ -20,7 +28,6 @@
         "OKTA",
         "DUOL",
         "STT",
-        "IBM",
         "DELL",
         "NTNX",
         "NTAP",
@@ -38,7 +45,35 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "AXON",
+        "PFGC",
+        "SHC",
+        "VTR",
+        "WELL",
+        "JNJ",
+        "HALO",
+        "HCA",
+        "CFR",
+        "AMD",
+        "HBAN",
+        "CBRE",
+        "SBRA",
+        "WM",
+        "MANH",
+        "TNL",
+        "HIG",
+        "FIS",
+        "EVRG",
+        "D",
+        "ATO",
+        "JAZZ",
+        "LNTH",
+        "CHH",
+        "CTAS",
+        "NTNX",
+        "NTAP"
+      ]
     },
     {
       "name": "PP Count",
