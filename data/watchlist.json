@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,42 +7,25 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "QLYS",
-        "AVNT",
-        "RMD",
-        "PCAR"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "MRNA",
-        "RMD",
-        "PB",
-        "HL",
-        "DLR",
-        "T",
-        "MLI",
-        "BKR"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "HOOD",
         "AXON",
         "OKTA",
-        "IBKR",
-        "AMD",
-        "ANET",
-        "WDC",
-        "JEF",
+        "DUOL",
+        "STT",
+        "IBM",
         "DELL",
-        "STX",
+        "NTNX",
         "NTAP",
         "HPE",
-        "QCOM"
+        "DOCN"
       ]
     },
     {
@@ -55,17 +38,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "MRNA",
-        "PANW",
-        "AVNT",
-        "SIRI",
-        "DOCS",
-        "AMD",
-        "ISRG",
-        "PATH",
-        "PCTY"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
