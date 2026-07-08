@@ -7,18 +7,38 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "PBF",
+        "ANET",
+        "CASY",
+        "MUSA",
+        "VLO",
+        "DINO",
+        "MPC"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "FR",
+        "OXY",
+        "BKR",
+        "OLN",
+        "WFRD"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "PBF",
+        "ANET",
         "DINO",
-        "DELL"
+        "DELL",
+        "P",
+        "NTAP",
+        "HPQ",
+        "HPE",
+        "DOCN"
       ]
     },
     {
@@ -31,7 +51,20 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "OKTA",
+        "PBF",
+        "UAL",
+        "ANET",
+        "HALO",
+        "VLO",
+        "NBIX",
+        "DINO",
+        "FR",
+        "CF",
+        "MPC",
+        "NCLH"
+      ]
     },
     {
       "name": "PP Count",
