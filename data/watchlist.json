@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,24 +7,12 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "PBF",
-        "ANET",
-        "CASY",
-        "MUSA",
-        "VLO",
-        "DINO",
-        "MPC"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "FR",
-        "OXY",
-        "BKR",
-        "OLN",
-        "WFRD"
+        "HLI"
       ]
     },
     {
@@ -32,12 +20,19 @@
       "tickers": [
         "PBF",
         "ANET",
-        "DINO",
         "DELL",
         "P",
+        "SNDK",
+        "WDC",
+        "STX",
         "NTAP",
-        "HPQ",
+        "SYNA",
+        "AVT",
+        "NXPI",
         "HPE",
+        "HPQ",
+        "QCOM",
+        "ON",
         "DOCN"
       ]
     },
@@ -51,20 +46,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "OKTA",
-        "PBF",
-        "UAL",
-        "ANET",
-        "HALO",
-        "VLO",
-        "NBIX",
-        "DINO",
-        "FR",
-        "CF",
-        "MPC",
-        "NCLH"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
