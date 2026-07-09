@@ -7,12 +7,25 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "ALGM",
+        "ONTO",
+        "SNDK",
+        "SHC",
+        "META"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "HLI"
+        "PATH",
+        "SLM",
+        "STE",
+        "AES",
+        "ESAB",
+        "HLI",
+        "OLLI",
+        "SOLS"
       ]
     },
     {
@@ -22,18 +35,17 @@
         "ANET",
         "DELL",
         "P",
-        "SNDK",
         "WDC",
+        "DINO",
+        "NTNX",
         "STX",
         "NTAP",
-        "SYNA",
-        "AVT",
-        "NXPI",
         "HPE",
+        "SYNA",
         "HPQ",
         "QCOM",
-        "ON",
-        "DOCN"
+        "DOCN",
+        "ON"
       ]
     },
     {
@@ -46,7 +58,25 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "DDOG",
+        "MEDP",
+        "SHC",
+        "PATH",
+        "DAL",
+        "NBIX",
+        "FFIV",
+        "META",
+        "ARMK",
+        "SLM",
+        "CDW",
+        "BHF",
+        "NCLH",
+        "EXPD",
+        "STE",
+        "AES",
+        "JBHT"
+      ]
     },
     {
       "name": "PP Count",
