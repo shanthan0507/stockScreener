@@ -8,26 +8,32 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "META"
+        "META",
+        "CROX"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "META",
+        "CSL",
+        "GLPI"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "PBF",
+        "AMD",
         "ANET",
-        "DELL",
         "P",
+        "WDC",
+        "DELL",
         "SNDK",
-        "NTNX",
         "STX",
+        "DINO",
         "HPE",
         "NTAP",
-        "AVT",
         "CSCO",
         "HPQ",
         "AKAM"
@@ -46,7 +52,14 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "META"
+        "XRAY",
+        "META",
+        "GD",
+        "ANF",
+        "CROX",
+        "MTB",
+        "TDY",
+        "BHF"
       ]
     },
     {
