@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-13",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,36 +7,21 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "META",
-        "CROX"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "META",
-        "CSL",
-        "GLPI"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "PBF",
-        "AMD",
-        "ANET",
-        "P",
-        "WDC",
-        "DELL",
-        "SNDK",
-        "STX",
-        "DINO",
-        "HPE",
-        "NTAP",
-        "CSCO",
-        "HPQ",
-        "AKAM"
+        "VEEV",
+        "HRB",
+        "MPC",
+        "HUM",
+        "NOW"
       ]
     },
     {
@@ -51,16 +36,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "XRAY",
-        "META",
-        "GD",
-        "ANF",
-        "CROX",
-        "MTB",
-        "TDY",
-        "BHF"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
