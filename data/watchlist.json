@@ -7,21 +7,37 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "PBF",
+        "DINO",
+        "PSX",
+        "INTU",
+        "BIIB"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "PATH",
+        "BIIB",
+        "STAG",
+        "FNB",
+        "WBD",
+        "NSA",
+        "IRM",
+        "MAT"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "PBF",
-        "VEEV",
-        "HRB",
+        "DINO",
+        "VLO",
         "MPC",
-        "HUM",
-        "NOW"
+        "ADP",
+        "PSX",
+        "DUOL"
       ]
     },
     {
@@ -36,7 +52,33 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "PBF",
+        "XRAY",
+        "CMG",
+        "PYPL",
+        "RGA",
+        "HRB",
+        "MPC",
+        "ADP",
+        "PATH",
+        "WRB",
+        "DBX",
+        "AON",
+        "PODD",
+        "DG",
+        "BMY",
+        "PNR",
+        "EXPD",
+        "BIIB",
+        "STAG",
+        "FNB",
+        "LNTH",
+        "WBD",
+        "NSA",
+        "JBHT",
+        "ODFL"
+      ]
     },
     {
       "name": "PP Count",
