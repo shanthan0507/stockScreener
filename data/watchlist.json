@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,37 +7,29 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "PBF",
-        "DINO",
-        "PSX",
-        "INTU",
-        "BIIB"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "PATH",
-        "BIIB",
-        "STAG",
-        "FNB",
-        "WBD",
-        "NSA",
-        "IRM",
-        "MAT"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "PBF",
-        "DINO",
+        "OKTA",
+        "PANW",
+        "CRWD",
+        "DELL",
+        "AVTR",
         "VLO",
+        "DINO",
+        "FTNT",
         "MPC",
-        "ADP",
         "PSX",
-        "DUOL"
+        "DUOL",
+        "GS",
+        "HPQ"
       ]
     },
     {
@@ -52,33 +44,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "PBF",
-        "XRAY",
-        "CMG",
-        "PYPL",
-        "RGA",
-        "HRB",
-        "MPC",
-        "ADP",
-        "PATH",
-        "WRB",
-        "DBX",
-        "AON",
-        "PODD",
-        "DG",
-        "BMY",
-        "PNR",
-        "EXPD",
-        "BIIB",
-        "STAG",
-        "FNB",
-        "LNTH",
-        "WBD",
-        "NSA",
-        "JBHT",
-        "ODFL"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
