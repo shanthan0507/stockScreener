@@ -7,11 +7,21 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "PBF",
+        "OKTA",
+        "AVTR",
+        "GS"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "PATH",
+        "MS",
+        "STAG",
+        "IRM"
+      ]
     },
     {
       "name": "Momentum 97",
@@ -20,16 +30,15 @@
         "OKTA",
         "PANW",
         "CRWD",
-        "DELL",
         "AVTR",
-        "VLO",
+        "DDOG",
         "DINO",
-        "FTNT",
+        "VLO",
+        "DELL",
         "MPC",
+        "FTNT",
         "PSX",
-        "DUOL",
-        "GS",
-        "HPQ"
+        "GS"
       ]
     },
     {
@@ -44,7 +53,40 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "PBF",
+        "OKTA",
+        "XRAY",
+        "CRWD",
+        "AVTR",
+        "VLO",
+        "DELL",
+        "MPC",
+        "PATH",
+        "WELL",
+        "ADP",
+        "DOCS",
+        "BAC",
+        "EHC",
+        "GS",
+        "EXPD",
+        "WDAY",
+        "MS",
+        "PODD",
+        "GEF",
+        "FE",
+        "CTAS",
+        "PLTR",
+        "LH",
+        "CHRW",
+        "REXR",
+        "WTFC",
+        "FNB",
+        "WFC",
+        "WBD",
+        "LPX",
+        "VLY"
+      ]
     },
     {
       "name": "PP Count",
