@@ -8,13 +8,37 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "PYPL"
+        "BILL",
+        "PYPL",
+        "RH",
+        "BNY",
+        "AAPL",
+        "CTAS",
+        "JLL",
+        "SMG",
+        "THC",
+        "NXST",
+        "IVZ"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "PYPL"
+        "PYPL",
+        "BNY",
+        "PATH",
+        "CTAS",
+        "XYZ",
+        "MTB",
+        "NXST",
+        "WFC",
+        "MS",
+        "BLK",
+        "EA",
+        "BIIB",
+        "IRM",
+        "ISRG",
+        "ORCL"
       ]
     },
     {
@@ -22,15 +46,14 @@
       "tickers": [
         "PBF",
         "OKTA",
+        "DINO",
         "PANW",
         "HIMS",
         "CRWD",
-        "DINO",
         "AVTR",
-        "XYZ",
+        "BNY",
         "GS",
-        "DUOL",
-        "M"
+        "JEF"
       ]
     },
     {
@@ -46,7 +69,48 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "PYPL"
+        "BILL",
+        "XRAY",
+        "PYPL",
+        "RH",
+        "DINO",
+        "DOCU",
+        "BNY",
+        "STT",
+        "PINS",
+        "AAPL",
+        "CTAS",
+        "XYZ",
+        "MTB",
+        "JLL",
+        "SEIC",
+        "HQY",
+        "GL",
+        "ZION",
+        "SF",
+        "LAD",
+        "ONB",
+        "NXST",
+        "NSC",
+        "CROX",
+        "GE",
+        "WFC",
+        "MS",
+        "IVZ",
+        "OPCH",
+        "VLY",
+        "AMZN",
+        "KKR",
+        "BURL",
+        "PFG",
+        "EA",
+        "CLX",
+        "FHN",
+        "GOOG",
+        "NDAQ",
+        "IDXX",
+        "EVR",
+        "ARES"
       ]
     },
     {
