@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,19 +8,13 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "PBF",
-        "OKTA",
-        "AVTR",
-        "GS"
+        "PYPL"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "PATH",
-        "MS",
-        "STAG",
-        "IRM"
+        "PYPL"
       ]
     },
     {
@@ -29,16 +23,14 @@
         "PBF",
         "OKTA",
         "PANW",
+        "HIMS",
         "CRWD",
-        "AVTR",
-        "DDOG",
         "DINO",
-        "VLO",
-        "DELL",
-        "MPC",
-        "FTNT",
-        "PSX",
-        "GS"
+        "AVTR",
+        "XYZ",
+        "GS",
+        "DUOL",
+        "M"
       ]
     },
     {
@@ -54,38 +46,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "PBF",
-        "OKTA",
-        "XRAY",
-        "CRWD",
-        "AVTR",
-        "VLO",
-        "DELL",
-        "MPC",
-        "PATH",
-        "WELL",
-        "ADP",
-        "DOCS",
-        "BAC",
-        "EHC",
-        "GS",
-        "EXPD",
-        "WDAY",
-        "MS",
-        "PODD",
-        "GEF",
-        "FE",
-        "CTAS",
-        "PLTR",
-        "LH",
-        "CHRW",
-        "REXR",
-        "WTFC",
-        "FNB",
-        "WFC",
-        "WBD",
-        "LPX",
-        "VLY"
+        "PYPL"
       ]
     },
     {
