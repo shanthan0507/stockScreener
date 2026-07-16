@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,38 +8,12 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "BILL",
-        "PYPL",
-        "RH",
-        "BNY",
-        "AAPL",
-        "CTAS",
-        "JLL",
-        "SMG",
-        "THC",
-        "NXST",
-        "IVZ"
+        "ABT"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "PYPL",
-        "BNY",
-        "PATH",
-        "CTAS",
-        "XYZ",
-        "MTB",
-        "NXST",
-        "WFC",
-        "MS",
-        "BLK",
-        "EA",
-        "BIIB",
-        "IRM",
-        "ISRG",
-        "ORCL"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
@@ -48,12 +22,10 @@
         "OKTA",
         "DINO",
         "PANW",
-        "HIMS",
+        "VLO",
+        "MPC",
         "CRWD",
-        "AVTR",
-        "BNY",
-        "GS",
-        "JEF"
+        "AVTR"
       ]
     },
     {
@@ -69,48 +41,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "BILL",
-        "XRAY",
-        "PYPL",
-        "RH",
-        "DINO",
-        "DOCU",
-        "BNY",
-        "STT",
-        "PINS",
-        "AAPL",
-        "CTAS",
-        "XYZ",
-        "MTB",
-        "JLL",
-        "SEIC",
-        "HQY",
-        "GL",
-        "ZION",
-        "SF",
-        "LAD",
-        "ONB",
-        "NXST",
-        "NSC",
-        "CROX",
-        "GE",
-        "WFC",
-        "MS",
-        "IVZ",
-        "OPCH",
-        "VLY",
-        "AMZN",
-        "KKR",
-        "BURL",
-        "PFG",
-        "EA",
-        "CLX",
-        "FHN",
-        "GOOG",
-        "NDAQ",
-        "IDXX",
-        "EVR",
-        "ARES"
+        "PYPL"
       ]
     },
     {
@@ -119,7 +50,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "PYPL"
+      ]
     }
   ]
 }
