@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-20",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,40 +7,25 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "TRV"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "TRV",
-        "PATH",
-        "CHRW",
-        "AIG",
-        "AFL",
-        "WRB",
-        "CINF",
-        "FHN",
-        "EA",
-        "ARWR",
-        "WFRD",
-        "STX"
+        "DPZ"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "PBF",
-        "DINO",
-        "OKTA",
-        "VLO",
-        "MPC",
-        "PANW",
-        "PSX",
-        "TRV",
-        "CRWD",
-        "DUOL"
+        "AMD",
+        "SMTC",
+        "MU",
+        "INTC",
+        "DOCN",
+        "WDC",
+        "SNDK",
+        "MRVL"
       ]
     },
     {
@@ -55,47 +40,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "XRAY",
-        "BILL",
-        "PYPL",
-        "ADBE",
-        "TRV",
-        "INCY",
-        "VTR",
-        "DOC",
-        "SN",
-        "DHR",
-        "CF",
-        "EXPD",
-        "EG",
-        "NSC",
-        "HQY",
-        "CTVA",
-        "AAPL",
-        "CHRW",
-        "OHI",
-        "HOMB",
-        "GEN",
-        "RGEN",
-        "ACGL",
-        "OKE",
-        "PM",
-        "OVV",
-        "AIG",
-        "GRMN",
-        "AFL",
-        "GWW",
-        "WRB",
-        "FIVE",
-        "FNB",
-        "FRT",
-        "FHN",
-        "LNTH",
-        "EBAY",
-        "PFG",
-        "TT"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -103,9 +48,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "PYPL"
-      ]
+      "tickers": []
     }
   ]
 }
