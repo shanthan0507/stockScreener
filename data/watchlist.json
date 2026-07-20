@@ -7,22 +7,30 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "GPN",
+        "HOG"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "DPZ"
+        "PATH",
+        "EFX",
+        "HOG",
+        "HXL",
+        "DPZ",
+        "HAS",
+        "ISRG"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "AMD",
-        "SMTC",
-        "MU",
+        "AXON",
+        "AKAM",
+        "ELV",
         "INTC",
-        "DOCN",
         "WDC",
         "SNDK",
         "MRVL"
@@ -40,7 +48,28 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "PYPL",
+        "ELF",
+        "GPN",
+        "CF",
+        "TRV",
+        "PATH",
+        "EFX",
+        "ADP",
+        "PODD",
+        "SCHW",
+        "EXPO",
+        "WRB",
+        "HOG",
+        "HXL",
+        "COP",
+        "DOCS",
+        "PLNT",
+        "MAA",
+        "GPK",
+        "NEU"
+      ]
     },
     {
       "name": "PP Count",
