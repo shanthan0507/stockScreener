@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,30 +8,28 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "GPN",
-        "HOG"
+        "MMM"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "PATH",
-        "EFX",
-        "HOG",
-        "HXL",
-        "DPZ",
-        "HAS",
-        "ISRG"
+        "HAS"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "AXON",
-        "AKAM",
-        "ELV",
-        "INTC",
+        "HOOD",
+        "AMD",
+        "AMAT",
+        "SANM",
+        "STX",
+        "DOCN",
+        "SMTC",
+        "MU",
         "WDC",
+        "INTC",
         "SNDK",
         "MRVL"
       ]
@@ -49,26 +47,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "PYPL",
-        "ELF",
-        "GPN",
-        "CF",
-        "TRV",
-        "PATH",
         "EFX",
-        "ADP",
-        "PODD",
-        "SCHW",
-        "EXPO",
-        "WRB",
-        "HOG",
-        "HXL",
-        "COP",
-        "DOCS",
-        "PLNT",
-        "MAA",
-        "GPK",
-        "NEU"
+        "MMM"
       ]
     },
     {
