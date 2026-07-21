@@ -8,26 +8,39 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "MMM"
+        "SBRA",
+        "BRKR",
+        "COIN"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "HAS"
+        "SBRA",
+        "HOG",
+        "CCK",
+        "HXL",
+        "COIN",
+        "HAS",
+        "TDY",
+        "MMM",
+        "T",
+        "HL",
+        "NI",
+        "LECO",
+        "WFRD",
+        "CAR"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "HOOD",
         "AMD",
-        "AMAT",
         "SANM",
-        "STX",
         "DOCN",
-        "SMTC",
+        "STX",
         "MU",
+        "SMTC",
         "WDC",
         "INTC",
         "SNDK",
@@ -47,8 +60,38 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "XRAY",
+        "SBRA",
+        "TRV",
+        "PATH",
+        "PODD",
+        "AVTR",
+        "HOG",
+        "GPC",
+        "TMO",
         "EFX",
-        "MMM"
+        "OHI",
+        "RVTY",
+        "HXL",
+        "WRB",
+        "RGEN",
+        "CHRD",
+        "BRKR",
+        "XPO",
+        "COIN",
+        "ELAN",
+        "HBAN",
+        "BMRN",
+        "HAS",
+        "TDY",
+        "MMM",
+        "ZION",
+        "WAT",
+        "KEY",
+        "GM",
+        "TEL",
+        "TNL",
+        "IBKR"
       ]
     },
     {
