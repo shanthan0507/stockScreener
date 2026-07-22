@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,42 +8,34 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SBRA",
-        "BRKR",
-        "COIN"
+        "PAG",
+        "ARWR",
+        "WAB"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "SBRA",
-        "HOG",
-        "CCK",
-        "HXL",
-        "COIN",
-        "HAS",
-        "TDY",
-        "MMM",
-        "T",
-        "HL",
-        "NI",
-        "LECO",
-        "WFRD",
-        "CAR"
+        "PAG",
+        "ARWR",
+        "SMCI"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "ARWR",
         "AMD",
-        "SANM",
-        "DOCN",
-        "STX",
+        "DELL",
+        "LSCC",
         "MU",
+        "DOCN",
+        "SANM",
+        "STX",
         "SMTC",
         "WDC",
-        "INTC",
         "SNDK",
+        "INTC",
         "MRVL"
       ]
     },
@@ -54,44 +46,17 @@
     {
       "name": "VCS",
       "tickers": [
-        "TECH"
+        "TECH",
+        "ROKU"
       ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "XRAY",
-        "SBRA",
-        "TRV",
-        "PATH",
-        "PODD",
-        "AVTR",
-        "HOG",
-        "GPC",
-        "TMO",
-        "EFX",
-        "OHI",
-        "RVTY",
-        "HXL",
-        "WRB",
+        "PAG",
+        "ARWR",
         "RGEN",
-        "CHRD",
-        "BRKR",
-        "XPO",
-        "COIN",
-        "ELAN",
-        "HBAN",
-        "BMRN",
-        "HAS",
-        "TDY",
-        "MMM",
-        "ZION",
-        "WAT",
-        "KEY",
-        "GM",
-        "TEL",
-        "TNL",
-        "IBKR"
+        "WAB"
       ]
     },
     {
@@ -100,7 +65,11 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "ARWR",
+        "SMCI",
+        "DOCN"
+      ]
     }
   ]
 }
