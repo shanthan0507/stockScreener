@@ -8,17 +8,41 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "PAG",
         "ARWR",
-        "WAB"
+        "WAB",
+        "AGCO",
+        "EXE",
+        "EQT"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
         "PAG",
+        "PCAR",
         "ARWR",
-        "SMCI"
+        "RGEN",
+        "PM",
+        "WAB",
+        "DGX",
+        "TDY",
+        "RRC",
+        "HBAN",
+        "EQT",
+        "GM",
+        "WAL",
+        "T",
+        "RPM",
+        "OZK",
+        "WBS",
+        "DHR",
+        "PHM",
+        "TNL",
+        "MSCI",
+        "WFRD",
+        "CDE",
+        "SMCI",
+        "DOCN"
       ]
     },
     {
@@ -27,7 +51,6 @@
         "ARWR",
         "AMD",
         "DELL",
-        "LSCC",
         "MU",
         "DOCN",
         "SANM",
@@ -35,7 +58,6 @@
         "SMTC",
         "WDC",
         "SNDK",
-        "INTC",
         "MRVL"
       ]
     },
@@ -53,10 +75,39 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "PAG",
+        "TRV",
+        "ADM",
+        "LAD",
+        "BIO",
+        "PCAR",
+        "TMO",
+        "EIX",
         "ARWR",
         "RGEN",
-        "WAB"
+        "RVTY",
+        "CHRD",
+        "PM",
+        "IR",
+        "PCG",
+        "SF",
+        "WAB",
+        "ICE",
+        "SJM",
+        "DGX",
+        "WST",
+        "BAC",
+        "AGCO",
+        "HBAN",
+        "EQT",
+        "GM",
+        "WAL",
+        "F",
+        "RPM",
+        "CEG",
+        "TNL",
+        "IBKR",
+        "PKG",
+        "LUV"
       ]
     },
     {
@@ -66,9 +117,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "ARWR",
-        "SMCI",
-        "DOCN"
+        "SMCI"
       ]
     }
   ]
