@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,54 +8,29 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "ARWR",
-        "WAB",
-        "AGCO",
-        "EXE",
-        "EQT"
+        "TMO",
+        "ALLE",
+        "LMT",
+        "NSC",
+        "DGX",
+        "CLF"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "PAG",
-        "PCAR",
-        "ARWR",
-        "RGEN",
-        "PM",
-        "WAB",
-        "DGX",
-        "TDY",
-        "RRC",
-        "HBAN",
-        "EQT",
-        "GM",
-        "WAL",
-        "T",
-        "RPM",
-        "OZK",
-        "WBS",
-        "DHR",
-        "PHM",
-        "TNL",
-        "MSCI",
-        "WFRD",
-        "CDE",
-        "SMCI",
-        "DOCN"
+        "MEDP",
+        "DGX"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "ARWR",
-        "AMD",
+        "CLF",
         "DELL",
         "MU",
-        "DOCN",
-        "SANM",
         "STX",
-        "SMTC",
+        "DOCN",
         "WDC",
         "SNDK",
         "MRVL"
@@ -75,39 +50,11 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "TRV",
-        "ADM",
-        "LAD",
-        "BIO",
-        "PCAR",
         "TMO",
-        "EIX",
-        "ARWR",
-        "RGEN",
-        "RVTY",
-        "CHRD",
-        "PM",
-        "IR",
-        "PCG",
-        "SF",
-        "WAB",
-        "ICE",
-        "SJM",
+        "LMT",
+        "NSC",
         "DGX",
-        "WST",
-        "BAC",
-        "AGCO",
-        "HBAN",
-        "EQT",
-        "GM",
-        "WAL",
-        "F",
-        "RPM",
-        "CEG",
-        "TNL",
-        "IBKR",
-        "PKG",
-        "LUV"
+        "GL"
       ]
     },
     {
@@ -117,7 +64,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "SMCI"
+        "SMCI",
+        "SNDK"
       ]
     }
   ]
