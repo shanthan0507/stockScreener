@@ -8,14 +8,53 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "THC",
-        "DLR"
+        "BAH",
+        "REXR",
+        "FAF",
+        "KNSL",
+        "VRSN",
+        "CLF",
+        "SLB",
+        "PATH",
+        "T",
+        "IP",
+        "PKG",
+        "TRMB",
+        "SSB",
+        "AMCR",
+        "SW"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "DLR"
+        "WEX",
+        "THC",
+        "BAH",
+        "REXR",
+        "OVV",
+        "FAF",
+        "APPF",
+        "KNSL",
+        "VRSN",
+        "CLF",
+        "SLB",
+        "IP",
+        "PKG",
+        "SSB",
+        "PLD",
+        "PCG",
+        "SW",
+        "DLR",
+        "SLGN",
+        "CNH",
+        "SAM",
+        "FNB",
+        "HCA",
+        "SLM",
+        "BYD",
+        "PEGA",
+        "DOV"
       ]
     },
     {
@@ -23,11 +62,12 @@
       "tickers": [
         "THC",
         "RTX",
+        "CLF",
+        "IP",
         "DELL",
-        "STX",
+        "SW",
         "WDC",
-        "MU",
-        "SNDK"
+        "MU"
       ]
     },
     {
@@ -43,7 +83,59 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "DLR"
+        "WEX",
+        "TRV",
+        "BAH",
+        "REXR",
+        "OVV",
+        "LMT",
+        "FAF",
+        "KBR",
+        "RTX",
+        "AVTR",
+        "SCI",
+        "KNSL",
+        "GD",
+        "RLI",
+        "SAIC",
+        "KD",
+        "VRSN",
+        "CUZ",
+        "CLF",
+        "SLB",
+        "ACGL",
+        "IP",
+        "HIG",
+        "WAB",
+        "KRC",
+        "ADC",
+        "STAG",
+        "PKG",
+        "SSB",
+        "VLTO",
+        "VNO",
+        "SW",
+        "DLR",
+        "CBSH",
+        "SLGN",
+        "VZ",
+        "REG",
+        "KIM",
+        "CNH",
+        "SIGI",
+        "EMR",
+        "PII",
+        "CR",
+        "TSCO",
+        "SAM",
+        "EQIX",
+        "FNB",
+        "SLM",
+        "UMBF",
+        "BYD",
+        "COLB",
+        "NCLH",
+        "RCL"
       ]
     },
     {
@@ -53,7 +145,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "THC",
+        "CLF",
         "SMCI"
       ]
     }
