@@ -7,21 +7,46 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "THC",
+        "WDAY",
+        "MANH",
+        "DBX",
+        "HLNE",
+        "BSY",
+        "NOW",
+        "CVLT",
+        "TSN",
+        "FFIV"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "DINO",
+        "WEX",
+        "CLF",
+        "BKR",
+        "TSN",
+        "FFIV",
+        "PFG",
+        "SLGN",
+        "CPRT",
+        "HUBB",
+        "WST",
+        "PEGA",
+        "GNTX",
+        "CDNS",
+        "ISRG"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "BILL",
-        "THC",
+        "ELF",
         "WDAY",
         "DUOL",
-        "IP",
-        "SW"
+        "M"
       ]
     },
     {
@@ -30,11 +55,75 @@
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "ROKU"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "DINO",
+        "WEX",
+        "ELF",
+        "CLF",
+        "WDAY",
+        "ARES",
+        "RTX",
+        "MANH",
+        "ADSK",
+        "DBX",
+        "AVTR",
+        "SPGI",
+        "VEEV",
+        "VRSK",
+        "HLNE",
+        "KKR",
+        "KD",
+        "PRU",
+        "BSY",
+        "CG",
+        "IQV",
+        "RLI",
+        "RYAN",
+        "MET",
+        "KHC",
+        "SIRI",
+        "KNSL",
+        "DUOL",
+        "TTEK",
+        "VNT",
+        "CVLT",
+        "SW",
+        "ROKU",
+        "VLTO",
+        "SARO",
+        "CBRE",
+        "INCY",
+        "TSN",
+        "FFIV",
+        "HAE",
+        "PFG",
+        "LAMR",
+        "PII",
+        "PLNT",
+        "SWK",
+        "TTWO",
+        "BMRN",
+        "PNFP",
+        "TSCO",
+        "MAS",
+        "AWK",
+        "BEN",
+        "DOCS",
+        "CHDN",
+        "LNTH",
+        "CNC",
+        "HUBB",
+        "RCL",
+        "NCLH",
+        "EXP",
+        "BBWI"
+      ]
     },
     {
       "name": "PP Count",
@@ -42,9 +131,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "THC"
-      ]
+      "tickers": []
     }
   ]
 }
