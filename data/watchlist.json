@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-27",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,67 +7,21 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "BAH",
-        "REXR",
-        "FAF",
-        "KNSL",
-        "VRSN",
-        "CLF",
-        "SLB",
-        "PATH",
-        "T",
-        "IP",
-        "PKG",
-        "TRMB",
-        "SSB",
-        "AMCR",
-        "SW"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "WEX",
-        "THC",
-        "BAH",
-        "REXR",
-        "OVV",
-        "FAF",
-        "APPF",
-        "KNSL",
-        "VRSN",
-        "CLF",
-        "SLB",
-        "IP",
-        "PKG",
-        "SSB",
-        "PLD",
-        "PCG",
-        "SW",
-        "DLR",
-        "SLGN",
-        "CNH",
-        "SAM",
-        "FNB",
-        "HCA",
-        "SLM",
-        "BYD",
-        "PEGA",
-        "DOV"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "BILL",
         "THC",
-        "RTX",
-        "CLF",
+        "WDAY",
+        "DUOL",
         "IP",
-        "DELL",
-        "SW",
-        "WDC",
-        "MU"
+        "SW"
       ]
     },
     {
@@ -76,67 +30,11 @@
     },
     {
       "name": "VCS",
-      "tickers": [
-        "ROKU"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "WEX",
-        "TRV",
-        "BAH",
-        "REXR",
-        "OVV",
-        "LMT",
-        "FAF",
-        "KBR",
-        "RTX",
-        "AVTR",
-        "SCI",
-        "KNSL",
-        "GD",
-        "RLI",
-        "SAIC",
-        "KD",
-        "VRSN",
-        "CUZ",
-        "CLF",
-        "SLB",
-        "ACGL",
-        "IP",
-        "HIG",
-        "WAB",
-        "KRC",
-        "ADC",
-        "STAG",
-        "PKG",
-        "SSB",
-        "VLTO",
-        "VNO",
-        "SW",
-        "DLR",
-        "CBSH",
-        "SLGN",
-        "VZ",
-        "REG",
-        "KIM",
-        "CNH",
-        "SIGI",
-        "EMR",
-        "PII",
-        "CR",
-        "TSCO",
-        "SAM",
-        "EQIX",
-        "FNB",
-        "SLM",
-        "UMBF",
-        "BYD",
-        "COLB",
-        "NCLH",
-        "RCL"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -145,8 +43,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "CLF",
-        "SMCI"
+        "THC"
       ]
     }
   ]
