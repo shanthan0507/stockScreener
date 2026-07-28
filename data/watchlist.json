@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,45 +8,24 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "THC",
-        "WDAY",
-        "MANH",
-        "DBX",
-        "HLNE",
-        "BSY",
-        "NOW",
-        "CVLT",
-        "TSN",
-        "FFIV"
+        "IQV",
+        "TRU",
+        "RGEN"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "DINO",
-        "WEX",
-        "CLF",
-        "BKR",
-        "TSN",
-        "FFIV",
-        "PFG",
-        "SLGN",
-        "CPRT",
-        "HUBB",
-        "WST",
-        "PEGA",
-        "GNTX",
-        "CDNS",
-        "ISRG"
+        "IQV"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "ELF",
         "WDAY",
+        "IQV",
         "DUOL",
-        "M"
+        "RGEN"
       ]
     },
     {
@@ -62,67 +41,9 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "DINO",
-        "WEX",
-        "ELF",
-        "CLF",
-        "WDAY",
-        "ARES",
-        "RTX",
-        "MANH",
-        "ADSK",
-        "DBX",
-        "AVTR",
-        "SPGI",
-        "VEEV",
-        "VRSK",
-        "HLNE",
-        "KKR",
-        "KD",
-        "PRU",
-        "BSY",
-        "CG",
         "IQV",
-        "RLI",
-        "RYAN",
-        "MET",
-        "KHC",
-        "SIRI",
-        "KNSL",
-        "DUOL",
-        "TTEK",
-        "VNT",
-        "CVLT",
-        "SW",
-        "ROKU",
-        "VLTO",
-        "SARO",
-        "CBRE",
         "INCY",
-        "TSN",
-        "FFIV",
-        "HAE",
-        "PFG",
-        "LAMR",
-        "PII",
-        "PLNT",
-        "SWK",
-        "TTWO",
-        "BMRN",
-        "PNFP",
-        "TSCO",
-        "MAS",
-        "AWK",
-        "BEN",
-        "DOCS",
-        "CHDN",
-        "LNTH",
-        "CNC",
-        "HUBB",
-        "RCL",
-        "NCLH",
-        "EXP",
-        "BBWI"
+        "HUBB"
       ]
     },
     {
