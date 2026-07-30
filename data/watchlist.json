@@ -8,13 +8,66 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "MSFT"
+        "PBF",
+        "REGN",
+        "MSFT",
+        "HII",
+        "JLL",
+        "ILMN",
+        "NEU",
+        "CMG",
+        "DAR",
+        "WCC",
+        "FLS"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "MSFT"
+        "PBF",
+        "BAX",
+        "ICE",
+        "WTW",
+        "MSFT",
+        "GEF",
+        "HII",
+        "PTC",
+        "JLL",
+        "LH",
+        "NBIX",
+        "CMG",
+        "IDCC",
+        "PCG",
+        "AVY",
+        "WCC",
+        "IEX",
+        "FLS",
+        "ST",
+        "SBUX",
+        "IRM",
+        "EA",
+        "EGP",
+        "SFM",
+        "EME",
+        "MOG-A",
+        "MPWR",
+        "AMZN",
+        "FTNT",
+        "OLED",
+        "PWR",
+        "DTM",
+        "APG",
+        "STX",
+        "NVT",
+        "NXPI",
+        "TER",
+        "MTZ",
+        "PSN",
+        "LRCX",
+        "VRT",
+        "MKSI",
+        "SOLS",
+        "SNDK"
       ]
     },
     {
@@ -24,8 +77,7 @@
         "AVTR",
         "BAX",
         "WDAY",
-        "IQV",
-        "SOLV"
+        "IQV"
       ]
     },
     {
@@ -39,8 +91,41 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "PBF",
+        "CTSH",
+        "ICE",
+        "WDAY",
+        "REGN",
         "MSFT",
-        "NCLH"
+        "BMY",
+        "HII",
+        "CPAY",
+        "PTC",
+        "JLL",
+        "ILMN",
+        "CEG",
+        "LH",
+        "NBIX",
+        "CMG",
+        "KKR",
+        "DXCM",
+        "CBRE",
+        "DAR",
+        "TYL",
+        "V",
+        "FLS",
+        "SIRI",
+        "ROKU",
+        "REG",
+        "RVTY",
+        "BDC",
+        "MOG-A",
+        "DOCS",
+        "BEN",
+        "COLB",
+        "KDP",
+        "CYTK",
+        "FND"
       ]
     },
     {
@@ -53,7 +138,7 @@
         "AVTR",
         "MANH",
         "EXLS",
-        "BAX",
+        "GRMN",
         "CMG"
       ]
     }
