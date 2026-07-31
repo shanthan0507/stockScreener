@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,75 +8,22 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "PBF",
-        "REGN",
-        "MSFT",
-        "HII",
-        "JLL",
-        "ILMN",
-        "NEU",
-        "CMG",
-        "DAR",
-        "WCC",
-        "FLS"
+        "DXCM",
+        "AMZN"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "PBF",
-        "BAX",
-        "ICE",
-        "WTW",
-        "MSFT",
-        "GEF",
-        "HII",
-        "PTC",
-        "JLL",
-        "LH",
-        "NBIX",
-        "CMG",
-        "IDCC",
-        "PCG",
-        "AVY",
-        "WCC",
-        "IEX",
-        "FLS",
-        "ST",
-        "SBUX",
-        "IRM",
-        "EA",
-        "EGP",
-        "SFM",
-        "EME",
-        "MOG-A",
-        "MPWR",
-        "AMZN",
-        "FTNT",
-        "OLED",
-        "PWR",
-        "DTM",
-        "APG",
-        "STX",
-        "NVT",
-        "NXPI",
-        "TER",
-        "MTZ",
-        "PSN",
-        "LRCX",
-        "VRT",
-        "MKSI",
-        "SOLS",
-        "SNDK"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "PBF",
         "AVTR",
-        "BAX",
         "WDAY",
+        "DXCM",
+        "BAX",
         "IQV"
       ]
     },
@@ -86,46 +33,16 @@
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "TECH"
+      ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "PBF",
-        "CTSH",
-        "ICE",
-        "WDAY",
-        "REGN",
-        "MSFT",
-        "BMY",
-        "HII",
-        "CPAY",
-        "PTC",
-        "JLL",
-        "ILMN",
-        "CEG",
-        "LH",
-        "NBIX",
-        "CMG",
-        "KKR",
         "DXCM",
-        "CBRE",
-        "DAR",
-        "TYL",
-        "V",
-        "FLS",
-        "SIRI",
-        "ROKU",
-        "REG",
-        "RVTY",
-        "BDC",
-        "MOG-A",
-        "DOCS",
-        "BEN",
-        "COLB",
-        "KDP",
-        "CYTK",
-        "FND"
+        "IESC",
+        "AMZN"
       ]
     },
     {
@@ -135,11 +52,11 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "AVTR",
-        "MANH",
         "EXLS",
+        "MANH",
         "GRMN",
-        "CMG"
+        "MSFT",
+        "IESC"
       ]
     }
   ]
