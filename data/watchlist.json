@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-03",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,64 +7,22 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "MUR",
-        "CBOE",
-        "DXCM",
-        "DLB",
-        "IESC",
-        "ANET",
-        "AMZN",
-        "MSA",
-        "BDC",
-        "WY",
-        "VAL"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "DXCM",
-        "IESC",
-        "HII",
-        "AMZN",
-        "MSA",
-        "MPWR",
-        "EXPO",
-        "ILMN",
-        "WY",
-        "VAL",
-        "RYAN",
-        "ETN",
-        "EA",
-        "NVT",
-        "LECO",
-        "KBR",
-        "PWR",
-        "WBD",
-        "BEN",
-        "FND",
-        "AEE",
-        "TT",
-        "ERIE",
-        "CHDN",
-        "TEX",
-        "LHX",
-        "LSTR",
-        "VRT",
-        "PSN",
-        "CHRW",
-        "PSKY"
+        "CNH",
+        "LNTH"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "PBF",
-        "AVTR",
-        "WDAY",
-        "DXCM",
-        "BAX"
+        "BAX",
+        "ANF",
+        "UAL",
+        "AXON"
       ]
     },
     {
@@ -78,41 +36,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "CTSH",
-        "MUR",
-        "HPQ",
-        "MSFT",
-        "DXCM",
-        "REGN",
-        "LYB",
-        "CVX",
-        "DLB",
-        "HAE",
-        "AN",
-        "IESC",
-        "ANET",
         "AMZN",
-        "MSA",
-        "EXPO",
-        "ILMN",
-        "KKR",
-        "BDC",
-        "FHI",
-        "SAIC",
-        "VEEV",
-        "WY",
-        "IR",
-        "OKE",
-        "MDT",
-        "EA",
-        "ROKU",
-        "ROK",
-        "IDXX",
-        "BEN",
-        "TPL",
-        "COO",
-        "KMB",
-        "ERIE"
+        "GDDY"
       ]
     },
     {
@@ -121,15 +46,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "AVTR",
-        "CTSH",
-        "MANH",
-        "EXLS",
-        "GRMN",
-        "MSFT",
-        "BDC"
-      ]
+      "tickers": []
     }
   ]
 }
