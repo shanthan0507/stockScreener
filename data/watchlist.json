@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,67 +8,21 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "MSFT",
-        "BAX",
-        "ANF",
-        "DXCM",
-        "ULTA",
-        "BILL",
-        "AMZN",
-        "HLNE",
-        "XRAY",
-        "ARES",
-        "CG",
-        "FHI",
-        "PII",
-        "APPF",
-        "IR",
-        "GPK",
-        "SLM",
-        "ETN",
-        "GDDY",
-        "WHR",
-        "OSK",
-        "RH"
+        "ZBRA",
+        "PLTR"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "DXCM",
-        "GEF",
-        "AMZN",
-        "BMY",
-        "CG",
-        "FISV",
-        "PCG",
-        "GDDY",
-        "WHR",
-        "EXPD",
-        "OSK",
-        "EA",
-        "TSN",
-        "IDXX",
-        "FSLR",
-        "ROK",
-        "BA",
-        "CNH",
-        "EXEL",
-        "GXO",
-        "LNTH",
-        "TDG",
-        "PLTR",
-        "LHX",
-        "PSKY",
-        "LII"
+        "PLTR"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "BAX",
-        "ANF",
-        "CRWD",
+        "DELL",
+        "MRVL",
         "AXON"
       ]
     },
@@ -83,48 +37,9 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "MSFT",
-        "ANF",
-        "DXCM",
-        "DLB",
-        "TGT",
-        "ULTA",
-        "BILL",
-        "AMZN",
-        "HAE",
-        "HLNE",
-        "GPN",
-        "CG",
-        "FHI",
-        "BSY",
-        "LDOS",
-        "IR",
-        "GPK",
-        "PODD",
-        "EHC",
-        "GDDY",
-        "EXPD",
-        "RH",
-        "CUZ",
-        "BEN",
-        "EA",
-        "CBT",
-        "RVTY",
-        "CRWD",
-        "TSN",
-        "CLX",
-        "IDXX",
-        "HSIC",
-        "ROK",
-        "EXEL",
-        "SIRI",
-        "MZTI",
-        "RMD",
-        "LIVN",
-        "FFIV",
-        "UAL",
-        "TDG",
-        "AXON"
+        "ZBRA",
+        "PLTR",
+        "WHR"
       ]
     },
     {
@@ -133,7 +48,12 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "ZBRA",
+        "PLTR",
+        "FN",
+        "COHR"
+      ]
     }
   ]
 }
