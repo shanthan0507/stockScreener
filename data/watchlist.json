@@ -8,24 +8,75 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "WYNN"
+        "SN",
+        "BIO",
+        "CMC",
+        "AVT",
+        "RGEN",
+        "CDE",
+        "EQH",
+        "CRBG",
+        "RGLD",
+        "NEM",
+        "IFF",
+        "OC",
+        "AMGN",
+        "HL",
+        "AIZ",
+        "TREX"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "WBS"
+        "PCTY",
+        "SN",
+        "MANH",
+        "EXPE",
+        "TOST",
+        "QLYS",
+        "EMR",
+        "AVT",
+        "CRL",
+        "DT",
+        "MOS",
+        "EQH",
+        "CRBG",
+        "ZBH",
+        "IFF",
+        "NVST",
+        "AMGN",
+        "ATI",
+        "KTOS",
+        "ANET",
+        "AIZ",
+        "TREX",
+        "LPX",
+        "ELAN",
+        "PH",
+        "DIS",
+        "RYN",
+        "WBS",
+        "WYNN",
+        "EXEL",
+        "PLD",
+        "EBAY",
+        "LLY",
+        "LNTH",
+        "BRKR",
+        "PSKY",
+        "NRG"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "IT",
+        "SN",
         "DT",
-        "DELL",
         "TREX",
-        "AXON",
-        "MRVL"
+        "DELL",
+        "AXON"
       ]
     },
     {
@@ -39,8 +90,49 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "ZBRA",
+        "OLLI",
+        "SN",
+        "BIO",
+        "CMC",
+        "WHR",
+        "EMR",
+        "VNT",
+        "AVT",
+        "CDE",
+        "MOS",
+        "EQH",
+        "CRBG",
+        "OC",
+        "NVST",
+        "AMGN",
+        "ATI",
+        "NWS",
+        "YETI",
+        "HL",
+        "PLNT",
+        "CME",
+        "RMD",
+        "NWSA",
+        "AIZ",
+        "TREX",
+        "NVDA",
+        "LPX",
+        "FBIN",
+        "SCHW",
+        "PH",
+        "CHH",
+        "RYN",
+        "WBS",
+        "WTS",
         "VOYA",
-        "CDW"
+        "WMS",
+        "COR",
+        "CDW",
+        "OGS",
+        "EXEL",
+        "SWX",
+        "EBAY"
       ]
     },
     {
@@ -50,14 +142,13 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "IT",
         "ZBRA",
-        "QLYS",
+        "IT",
         "WHR",
         "PLTR",
-        "FN",
-        "COHR",
-        "ENTG"
+        "QLYS",
+        "ENTG",
+        "COHR"
       ]
     }
   ]
