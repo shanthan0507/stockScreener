@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,54 +8,23 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CACI",
-        "ELF",
-        "PTC",
-        "ATI",
-        "AVNT",
-        "FOXA",
-        "EHC",
-        "USFD",
-        "SITM"
+        "HALO",
+        "ABNB"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CACI",
-        "VNT",
-        "ELF",
-        "ATI",
-        "AVNT",
-        "PH",
-        "CHRD",
-        "ITT",
-        "DASH",
-        "NOVT",
-        "COKE",
-        "OXY",
-        "POST",
-        "SITM",
-        "FISV",
-        "ZTS",
-        "SHC",
-        "BMRN",
-        "RL",
-        "LAMR",
-        "ALB",
-        "ORA",
-        "UTHR",
-        "MTSI",
-        "BHF",
-        "MTDR",
-        "NI",
-        "TTMI",
-        "PODD"
+        "DOCS",
+        "ABNB"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "PLTR",
+        "HALO",
+        "PATH",
         "ATI"
       ]
     },
@@ -70,42 +39,9 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "CACI",
-        "ELF",
-        "PTC",
-        "ATI",
-        "AVNT",
-        "GPN",
-        "BDX",
-        "FOXA",
-        "TSCO",
-        "EHC",
-        "BSY",
-        "CHRD",
-        "DCI",
-        "PFE",
-        "SAIC",
         "HALO",
-        "ESAB",
-        "GEN",
-        "USFD",
-        "COR",
-        "COKE",
-        "STE",
-        "FSLR",
-        "PRI",
-        "NXST",
-        "SITM",
-        "GMED",
-        "VOYA",
-        "FISV",
-        "SHC",
-        "GDDY",
-        "BMRN",
-        "RL",
-        "CDW",
-        "ROIV",
-        "CYTK",
+        "ABNB",
+        "MMS",
         "CART"
       ]
     },
@@ -117,14 +53,23 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "IT",
+        "DOCS",
         "ZBRA",
-        "CACI",
         "PLTR",
+        "CACI",
+        "AVNT",
+        "FN",
         "KTOS",
         "QLYS",
-        "FN",
+        "NEM",
         "SITM",
-        "COHR"
+        "COHR",
+        "TWLO",
+        "LITE",
+        "ENTG",
+        "MTSI",
+        "MP",
+        "TTMI"
       ]
     }
   ]
