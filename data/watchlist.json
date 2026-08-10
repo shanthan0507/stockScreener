@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-10",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,66 +7,24 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "PLTR",
-        "HALO",
-        "AVAV",
-        "AVNT",
-        "VEEV",
-        "ABNB",
-        "NEM",
-        "COHR",
-        "RGLD",
-        "SITM",
-        "ASH",
-        "TWLO",
-        "FLR",
-        "LITE",
-        "CDE",
-        "DUOL"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "PLTR",
-        "HALO",
-        "AVNT",
-        "DOCS",
-        "ABNB",
-        "DBX",
-        "SWK",
-        "COHR",
-        "HRB",
-        "ASH",
-        "GEN",
-        "TWLO",
-        "FLR",
-        "FSLR",
-        "BMRN",
-        "GMED",
-        "MMS",
-        "CART",
-        "TTWO",
-        "STWD",
-        "UTHR",
-        "FRT",
-        "MP",
-        "ONTO",
-        "MCHP",
-        "IBKR",
-        "DDOG",
-        "CELH",
-        "CPRI"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "PLTR",
-        "HALO",
-        "ELF",
-        "ATI"
+        "NTAP",
+        "CRWD",
+        "HPE",
+        "PANW",
+        "PBF",
+        "AXON",
+        "FTNT",
+        "BRKR"
       ]
     },
     {
@@ -79,38 +37,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "CTSH",
-        "HALO",
-        "CACI",
-        "AVAV",
-        "AVNT",
-        "OLLI",
-        "HPQ",
-        "ULTA",
-        "ABNB",
-        "COHR",
-        "HRB",
-        "SITM",
-        "TSCO",
-        "BR",
-        "GEN",
-        "TWLO",
-        "FLR",
-        "FAST",
-        "NXST",
-        "TXRH",
-        "LULU",
-        "CVNA",
-        "ESNT",
-        "GAP",
-        "RMD",
-        "CART",
-        "CTRE",
-        "ROIV",
-        "WTFC",
-        "ONTO"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -118,28 +45,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "IT",
-        "ZBRA",
-        "PLTR",
-        "HALO",
-        "CACI",
-        "AVAV",
-        "AVNT",
-        "KTOS",
-        "DOCS",
-        "ATI",
-        "QLYS",
-        "FN",
-        "NEM",
-        "COHR",
-        "SITM",
-        "TWLO",
-        "LITE",
-        "ENTG",
-        "MTSI",
-        "MP"
-      ]
+      "tickers": []
     }
   ]
 }
