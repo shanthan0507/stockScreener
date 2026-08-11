@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,49 +7,25 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "P",
-        "NTAP",
-        "APA",
-        "BMRN",
-        "PBF",
-        "HL",
-        "CVNA",
-        "CHRD",
-        "MP",
-        "AXON",
-        "AR",
-        "GMED",
-        "VAL",
-        "UBER"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "ABNB",
-        "BMRN",
-        "TSCO",
-        "MP",
-        "VRTX",
-        "VAL",
-        "STWD",
-        "DDOG",
-        "DKS",
-        "AKAM",
-        "ELAN"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "PANW",
+        "TWLO",
         "BMRN",
+        "AXON",
         "PBF",
+        "PSX",
         "MPC",
         "VLO",
-        "DDOG",
-        "BRKR"
+        "ARMK",
+        "BRKR",
+        "DDOG"
       ]
     },
     {
@@ -62,36 +38,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "CACI",
-        "AVAV",
-        "P",
-        "ANF",
-        "WDAY",
-        "ABNB",
-        "NEM",
-        "NTAP",
-        "CRWD",
-        "BMRN",
-        "HL",
-        "DXCM",
-        "TSCO",
-        "CVNA",
-        "BURL",
-        "CHRD",
-        "PFE",
-        "DPZ",
-        "GEN",
-        "MP",
-        "GAP",
-        "VAL",
-        "COO",
-        "CART",
-        "DLTR",
-        "NTRS",
-        "CF",
-        "GHC"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
