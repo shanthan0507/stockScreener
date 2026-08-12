@@ -8,25 +8,44 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SMCI"
+        "SMCI",
+        "LITE",
+        "ANET",
+        "DRI",
+        "ORCL",
+        "ONTO"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "SMCI",
+        "HRB",
+        "LITE",
+        "COHR",
+        "CAVA",
+        "O",
+        "WEC",
+        "LNT",
+        "VICR",
+        "FICO"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "P",
         "HRB",
+        "HPE",
         "ANET",
-        "BMRN",
         "PBF",
-        "PSX",
-        "AXON",
+        "BMRN",
         "MPC",
-        "VLO"
+        "VLO",
+        "PSX",
+        "DINO",
+        "BRKR",
+        "MRNA"
       ]
     },
     {
@@ -39,7 +58,25 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "CACI",
+        "SMCI",
+        "LITE",
+        "TSCO",
+        "BSX",
+        "OLLI",
+        "OVV",
+        "CSCO",
+        "COO",
+        "YETI",
+        "COKE",
+        "EL",
+        "PSKY",
+        "CART",
+        "WTFC",
+        "O",
+        "COLB"
+      ]
     },
     {
       "name": "PP Count",
@@ -48,7 +85,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "P"
+        "P",
+        "SMCI"
       ]
     }
   ]
