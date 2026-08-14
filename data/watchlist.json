@@ -7,11 +7,21 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "MP",
+        "STX",
+        "CPRT",
+        "WDC"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "MP",
+        "VAL",
+        "AVB",
+        "TPR"
+      ]
     },
     {
       "name": "Momentum 97",
@@ -19,11 +29,11 @@
         "P",
         "SMCI",
         "WDAY",
-        "HPE",
         "HRB",
+        "HPE",
         "PBF",
-        "MPC",
         "MU",
+        "MPC",
         "PSX",
         "VLO",
         "DINO"
@@ -39,7 +49,15 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "MP",
+        "TTEK",
+        "CPRT",
+        "MDT",
+        "PYPL",
+        "STZ",
+        "WBS"
+      ]
     },
     {
       "name": "PP Count",
