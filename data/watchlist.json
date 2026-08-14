@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,59 +7,25 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "P",
-        "SMCI",
-        "WDAY",
-        "PATH",
-        "DOCU",
-        "MANH",
-        "ARES",
-        "PCTY",
-        "DBX",
-        "BILL",
-        "CSGP",
-        "CRM",
-        "CG",
-        "GDDY",
-        "DUOL",
-        "HOG",
-        "PSKY",
-        "SNDK"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "SMCI",
-        "WDAY",
-        "PATH",
-        "BILL",
-        "DT",
-        "SNDK",
-        "PCG",
-        "ENS",
-        "EVR",
-        "SAIA",
-        "MTZ",
-        "MNST"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "P",
+        "SMCI",
         "WDAY",
-        "PATH",
         "HPE",
         "HRB",
-        "VEEV",
-        "GPN",
         "PBF",
         "MPC",
+        "MU",
         "PSX",
         "VLO",
-        "DUOL",
         "DINO"
       ]
     },
@@ -73,33 +39,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "SMCI",
-        "WDAY",
-        "PATH",
-        "DOCU",
-        "NTNX",
-        "BILL",
-        "CRM",
-        "BSY",
-        "CIEN",
-        "CLX",
-        "GEN",
-        "GDDY",
-        "THO",
-        "PSKY",
-        "CME",
-        "VAL",
-        "PYPL",
-        "NFLX",
-        "NWS",
-        "STZ",
-        "MZTI",
-        "WELL",
-        "PCG",
-        "KMI",
-        "FNF"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -110,7 +50,6 @@
       "tickers": [
         "P",
         "SMCI",
-        "PBF",
         "SNDK"
       ]
     }
