@@ -7,12 +7,22 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "HALO",
+        "SNDK",
+        "LITE",
+        "COHR",
+        "SMTC",
+        "FN"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "AVB"
+        "CELH",
+        "PPC",
+        "AVB",
+        "IPGP"
       ]
     },
     {
@@ -23,7 +33,6 @@
         "SNDK",
         "ONTO",
         "MRVL",
-        "ELF",
         "PBF",
         "MU",
         "AMAT"
@@ -31,25 +40,7 @@
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "P",
-        "SMCI",
-        "CACI",
-        "ZBRA",
-        "THC",
-        "HALO",
-        "WDAY",
-        "PATH",
-        "HPE",
-        "CRL",
-        "PLTR",
-        "TER",
-        "NTAP",
-        "SNDK",
-        "AVNT",
-        "GRMN",
-        "HRB"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
@@ -57,7 +48,27 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "IDCC",
+        "NEM",
+        "SMTC",
+        "FN",
+        "LFUS",
+        "LECO",
+        "RGEN",
+        "CPRT",
+        "KEYS",
+        "CLX",
+        "OVV",
+        "XOM",
+        "SHC",
+        "WSM",
+        "LYB",
+        "UMBF",
+        "CART",
+        "PPC",
+        "JBHT"
+      ]
     },
     {
       "name": "PP Count",
