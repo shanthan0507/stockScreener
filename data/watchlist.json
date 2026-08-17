@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-17",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,41 +7,49 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "MP",
-        "STX",
-        "CPRT",
-        "WDC"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "MP",
-        "VAL",
-        "AVB",
-        "TPR"
+        "AVB"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "P",
-        "SMCI",
-        "WDAY",
-        "HRB",
-        "HPE",
+        "HALO",
+        "TER",
+        "SNDK",
+        "ONTO",
+        "MRVL",
+        "ELF",
         "PBF",
         "MU",
-        "MPC",
-        "PSX",
-        "VLO",
-        "DINO"
+        "AMAT"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "P",
+        "SMCI",
+        "CACI",
+        "ZBRA",
+        "THC",
+        "HALO",
+        "WDAY",
+        "PATH",
+        "HPE",
+        "CRL",
+        "PLTR",
+        "TER",
+        "NTAP",
+        "SNDK",
+        "AVNT",
+        "GRMN",
+        "HRB"
+      ]
     },
     {
       "name": "VCS",
@@ -49,15 +57,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "MP",
-        "TTEK",
-        "CPRT",
-        "MDT",
-        "PYPL",
-        "STZ",
-        "WBS"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -65,11 +65,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "P",
-        "SMCI",
-        "SNDK"
-      ]
+      "tickers": []
     }
   ]
 }
