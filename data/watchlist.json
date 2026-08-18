@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,35 +7,19 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "HALO",
-        "SNDK",
-        "LITE",
-        "COHR",
-        "SMTC",
-        "FN"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "CELH",
-        "PPC",
-        "AVB",
-        "IPGP"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "HALO",
-        "TER",
-        "SNDK",
-        "ONTO",
-        "MRVL",
+        "IQV",
         "PBF",
-        "MU",
-        "AMAT"
+        "INCY"
       ]
     },
     {
@@ -48,27 +32,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "IDCC",
-        "NEM",
-        "SMTC",
-        "FN",
-        "LFUS",
-        "LECO",
-        "RGEN",
-        "CPRT",
-        "KEYS",
-        "CLX",
-        "OVV",
-        "XOM",
-        "SHC",
-        "WSM",
-        "LYB",
-        "UMBF",
-        "CART",
-        "PPC",
-        "JBHT"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
