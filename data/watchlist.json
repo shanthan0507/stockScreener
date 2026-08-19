@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,38 +8,53 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "HAE",
-        "TRGP",
-        "ULTA",
-        "UGI",
-        "DUOL"
+        "MRNA",
+        "EL"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "HAE",
-        "DT",
-        "TRGP",
-        "UGI",
-        "BURL",
-        "EBAY",
-        "RBA",
-        "MNST"
+        "MRNA"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "MRNA",
         "HALO",
-        "PSX",
-        "PBF",
-        "BBWI"
+        "RGEN",
+        "EL",
+        "MRK",
+        "DUOL",
+        "VRTX",
+        "LLY"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "P",
+        "WDAY",
+        "PATH",
+        "IT",
+        "THC",
+        "CACI",
+        "ZBRA",
+        "EXLS",
+        "HALO",
+        "PLTR",
+        "HAE",
+        "GWRE",
+        "MANH",
+        "VEEV",
+        "ABNB",
+        "CRL",
+        "HRB",
+        "REGN",
+        "DOCU"
+      ]
     },
     {
       "name": "VCS",
@@ -48,25 +63,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "HAE",
-        "PATH",
-        "INTU",
-        "ADSK",
-        "OVV",
-        "SWKS",
-        "NFLX",
-        "CHTR",
-        "GE",
-        "XOM",
-        "PYPL",
-        "TRGP",
-        "UGI",
-        "JKHY",
-        "ECL",
-        "MTN",
-        "ROST",
-        "PM",
-        "AAPL"
+        "MRNA",
+        "EL"
       ]
     },
     {
@@ -75,7 +73,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "MRNA"
+      ]
     }
   ]
 }
