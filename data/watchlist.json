@@ -9,13 +9,46 @@
       "name": "4% Bullish",
       "tickers": [
         "MRNA",
-        "EL"
+        "APPF",
+        "CDE",
+        "EXLS",
+        "HL",
+        "NEM",
+        "CRM",
+        "RGEN",
+        "MRK",
+        "G",
+        "EL",
+        "A",
+        "TGT",
+        "CELH",
+        "LLY",
+        "TYL",
+        "PPC",
+        "ILMN",
+        "FCX",
+        "PGR"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "MRNA"
+        "MRNA",
+        "HL",
+        "DXCM",
+        "DUOL",
+        "RGEN",
+        "MRK",
+        "EL",
+        "CHTR",
+        "TGT",
+        "PPC",
+        "UGI",
+        "TOL",
+        "COIN",
+        "COLM",
+        "TLN",
+        "MNST"
       ]
     },
     {
@@ -23,38 +56,19 @@
       "tickers": [
         "MRNA",
         "HALO",
-        "RGEN",
-        "EL",
-        "MRK",
+        "ELF",
         "DUOL",
+        "MRK",
+        "EL",
         "VRTX",
-        "LLY"
+        "LLY",
+        "ILMN",
+        "HIMS"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "MRNA",
-        "P",
-        "WDAY",
-        "PATH",
-        "IT",
-        "THC",
-        "CACI",
-        "ZBRA",
-        "EXLS",
-        "HALO",
-        "PLTR",
-        "HAE",
-        "GWRE",
-        "MANH",
-        "VEEV",
-        "ABNB",
-        "CRL",
-        "HRB",
-        "REGN",
-        "DOCU"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
@@ -64,7 +78,47 @@
       "name": "Pocket Pivot",
       "tickers": [
         "MRNA",
-        "EL"
+        "NOW",
+        "VEEV",
+        "EXLS",
+        "HL",
+        "NEM",
+        "INTU",
+        "CRM",
+        "ADBE",
+        "MORN",
+        "RGEN",
+        "APA",
+        "MRK",
+        "EL",
+        "DHR",
+        "NFLX",
+        "TMO",
+        "A",
+        "TTEK",
+        "CHTR",
+        "PFE",
+        "DGX",
+        "TGT",
+        "SWKS",
+        "WAT",
+        "PEGA",
+        "TYL",
+        "EFX",
+        "SEIC",
+        "RVTY",
+        "LOW",
+        "PPC",
+        "NDSN",
+        "FCX",
+        "PGR",
+        "UGI",
+        "CLH",
+        "HD",
+        "ALV",
+        "ARE",
+        "AAPL",
+        "COIN"
       ]
     },
     {
