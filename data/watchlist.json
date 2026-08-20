@@ -7,53 +7,48 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "NDSN",
+        "ILMN",
+        "CNH",
+        "DE",
+        "ARE",
+        "MOS"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "MANH",
+        "G",
+        "NDSN",
+        "ILMN",
+        "COIN",
+        "CNH",
+        "DE",
+        "PCG",
+        "GLPI",
+        "Q",
+        "KNF"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MRNA",
-        "ELF",
-        "HALO",
+        "RGEN",
         "IQV",
         "DUOL",
         "EL",
-        "VRTX",
         "MRVL",
-        "MRK",
-        "INCY",
         "ILMN",
+        "MRK",
         "HIMS"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "MRNA",
-        "WDAY",
-        "PATH",
-        "P",
-        "IT",
-        "PLTR",
-        "MANH",
-        "HAE",
-        "VEEV",
-        "EXLS",
-        "NOW",
-        "GWRE",
-        "ZBRA",
-        "THC",
-        "CACI",
-        "ABNB",
-        "IDCC",
-        "HRB",
-        "ELF",
-        "HALO"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
@@ -61,7 +56,41 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "NEM",
+        "RGEN",
+        "EXLS",
+        "IQV",
+        "MANH",
+        "G",
+        "NTNX",
+        "LH",
+        "NDSN",
+        "TTEK",
+        "RVTY",
+        "DGX",
+        "ALSN",
+        "GEN",
+        "DHR",
+        "FCX",
+        "A",
+        "PYPL",
+        "TMO",
+        "GPC",
+        "MRSH",
+        "LOW",
+        "TRGP",
+        "DOW",
+        "PGR",
+        "CNH",
+        "DE",
+        "RLI",
+        "MOS",
+        "ORLY",
+        "PCG",
+        "VNOM",
+        "DPZ"
+      ]
     },
     {
       "name": "PP Count",
