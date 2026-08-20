@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,68 +7,53 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "MRNA",
-        "APPF",
-        "CDE",
-        "EXLS",
-        "HL",
-        "NEM",
-        "CRM",
-        "RGEN",
-        "MRK",
-        "G",
-        "EL",
-        "A",
-        "TGT",
-        "CELH",
-        "LLY",
-        "TYL",
-        "PPC",
-        "ILMN",
-        "FCX",
-        "PGR"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "MRNA",
-        "HL",
-        "DXCM",
-        "DUOL",
-        "RGEN",
-        "MRK",
-        "EL",
-        "CHTR",
-        "TGT",
-        "PPC",
-        "UGI",
-        "TOL",
-        "COIN",
-        "COLM",
-        "TLN",
-        "MNST"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MRNA",
-        "HALO",
         "ELF",
+        "HALO",
+        "IQV",
         "DUOL",
-        "MRK",
         "EL",
         "VRTX",
-        "LLY",
+        "MRVL",
+        "MRK",
+        "INCY",
         "ILMN",
         "HIMS"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "WDAY",
+        "PATH",
+        "P",
+        "IT",
+        "PLTR",
+        "MANH",
+        "HAE",
+        "VEEV",
+        "EXLS",
+        "NOW",
+        "GWRE",
+        "ZBRA",
+        "THC",
+        "CACI",
+        "ABNB",
+        "IDCC",
+        "HRB",
+        "ELF",
+        "HALO"
+      ]
     },
     {
       "name": "VCS",
@@ -76,50 +61,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "MRNA",
-        "NOW",
-        "VEEV",
-        "EXLS",
-        "HL",
-        "NEM",
-        "INTU",
-        "CRM",
-        "ADBE",
-        "MORN",
-        "RGEN",
-        "APA",
-        "MRK",
-        "EL",
-        "DHR",
-        "NFLX",
-        "TMO",
-        "A",
-        "TTEK",
-        "CHTR",
-        "PFE",
-        "DGX",
-        "TGT",
-        "SWKS",
-        "WAT",
-        "PEGA",
-        "TYL",
-        "EFX",
-        "SEIC",
-        "RVTY",
-        "LOW",
-        "PPC",
-        "NDSN",
-        "FCX",
-        "PGR",
-        "UGI",
-        "CLH",
-        "HD",
-        "ALV",
-        "ARE",
-        "AAPL",
-        "COIN"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
