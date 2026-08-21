@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,47 +8,57 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "NDSN",
-        "ILMN",
-        "CNH",
-        "DE",
-        "ARE",
-        "MOS"
+        "MRNA"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "MANH",
-        "G",
-        "NDSN",
-        "ILMN",
-        "COIN",
-        "CNH",
-        "DE",
-        "PCG",
-        "GLPI",
-        "Q",
-        "KNF"
+        "MRNA"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MRNA",
-        "RGEN",
-        "IQV",
-        "DUOL",
-        "EL",
+        "NEM",
+        "HL",
+        "HALO",
+        "ELF",
         "MRVL",
-        "ILMN",
+        "FCX",
+        "HIMS",
         "MRK",
-        "HIMS"
+        "VRTX",
+        "HOOD",
+        "ILMN"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "P",
+        "PATH",
+        "WDAY",
+        "PLTR",
+        "NEM",
+        "ZBRA",
+        "IT",
+        "MANH",
+        "HAE",
+        "EXLS",
+        "RGEN",
+        "GWRE",
+        "VEEV",
+        "ABNB",
+        "CACI",
+        "APPF",
+        "NOW",
+        "HALO",
+        "ELF",
+        "QLYS"
+      ]
     },
     {
       "name": "VCS",
@@ -56,41 +66,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "NEM",
-        "RGEN",
-        "EXLS",
-        "IQV",
-        "MANH",
-        "G",
-        "NTNX",
-        "LH",
-        "NDSN",
-        "TTEK",
-        "RVTY",
-        "DGX",
-        "ALSN",
-        "GEN",
-        "DHR",
-        "FCX",
-        "A",
-        "PYPL",
-        "TMO",
-        "GPC",
-        "MRSH",
-        "LOW",
-        "TRGP",
-        "DOW",
-        "PGR",
-        "CNH",
-        "DE",
-        "RLI",
-        "MOS",
-        "ORLY",
-        "PCG",
-        "VNOM",
-        "DPZ"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -99,7 +75,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "MRNA"
+        "MRNA",
+        "COIN"
       ]
     }
   ]
