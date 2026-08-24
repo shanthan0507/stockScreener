@@ -7,44 +7,43 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "FIVE",
+        "CELH",
+        "FCFS"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "FIVE",
+        "FCFS",
+        "MZTI",
+        "BJ",
+        "VMRK",
+        "GHC",
+        "CTVA",
+        "AGCO",
+        "STLD",
+        "MNST"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "TGT",
+        "IT",
+        "ELF",
         "EXPE",
-        "ANF"
+        "CART",
+        "ANF",
+        "DLTR",
+        "MA",
+        "AJG"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "MRNA",
-        "PATH",
-        "NEM",
-        "P",
-        "ZBRA",
-        "RGEN",
-        "WDAY",
-        "HAE",
-        "IT",
-        "APPF",
-        "MANH",
-        "EXLS",
-        "PLTR",
-        "CRL",
-        "QLYS",
-        "HALO",
-        "ABNB",
-        "HRB",
-        "VEEV",
-        "GWRE"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
@@ -52,7 +51,71 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "RGEN",
+        "MANH",
+        "EXLS",
+        "RGLD",
+        "DLB",
+        "PSKY",
+        "GWRE",
+        "VEEV",
+        "FIVE",
+        "IQV",
+        "TGT",
+        "CELH",
+        "PEGA",
+        "ILMN",
+        "PR",
+        "FCFS",
+        "CMG",
+        "DIS",
+        "NWS",
+        "ANF",
+        "TYL",
+        "CHWY",
+        "GPN",
+        "ABT",
+        "FLS",
+        "EFX",
+        "ICE",
+        "SCHW",
+        "KNSL",
+        "GEN",
+        "SEIC",
+        "DLTR",
+        "ATI",
+        "MA",
+        "OMC",
+        "MZTI",
+        "AJG",
+        "EXE",
+        "HSY",
+        "MRSH",
+        "VZ",
+        "WTRG",
+        "ARE",
+        "SJM",
+        "SLB",
+        "BJ",
+        "LEN",
+        "THG",
+        "STT",
+        "NSC",
+        "SAM",
+        "SSB",
+        "COST",
+        "DPZ",
+        "HUM",
+        "ESS",
+        "PINS",
+        "GHC",
+        "AME",
+        "SPGI",
+        "CB",
+        "FOUR",
+        "CTVA"
+      ]
     },
     {
       "name": "PP Count",
