@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-24",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,59 +7,18 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "MRNA",
-        "MP",
-        "EL",
-        "ALB",
-        "FCX",
-        "TGT",
-        "COIN",
-        "TSLA",
-        "FCFS",
-        "HOOD",
-        "HCA",
-        "MOS",
-        "CNH",
-        "LULU",
-        "BJ"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "MRNA",
-        "FCX",
-        "G",
-        "COIN",
-        "HOOD",
-        "BSX",
-        "CG",
-        "CNH",
-        "MTD",
-        "ECL",
-        "BJ",
-        "DE",
-        "ROST",
-        "RS",
-        "STLD"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "MRNA",
-        "NEM",
-        "HL",
-        "HALO",
-        "ELF",
-        "IQV",
-        "FCX",
-        "HIMS",
-        "DUOL",
-        "MRK",
-        "HOOD",
-        "ILMN"
+        "TGT",
+        "EXPE",
+        "ANF"
       ]
     },
     {
@@ -67,25 +26,24 @@
       "tickers": [
         "MRNA",
         "PATH",
-        "WDAY",
-        "PLTR",
+        "NEM",
         "P",
         "ZBRA",
-        "MANH",
-        "NEM",
-        "IT",
-        "HAE",
         "RGEN",
-        "GWRE",
+        "WDAY",
+        "HAE",
+        "IT",
         "APPF",
+        "MANH",
         "EXLS",
-        "VEEV",
-        "CACI",
-        "ABNB",
+        "PLTR",
+        "CRL",
         "QLYS",
         "HALO",
-        "ELF",
-        "HRB"
+        "ABNB",
+        "HRB",
+        "VEEV",
+        "GWRE"
       ]
     },
     {
@@ -94,54 +52,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "PLTR",
-        "MP",
-        "MANH",
-        "NEM",
-        "RGEN",
-        "EXLS",
-        "RGLD",
-        "PEGA",
-        "IQV",
-        "ALB",
-        "NTNX",
-        "FCX",
-        "ADSK",
-        "G",
-        "COIN",
-        "TTEK",
-        "FCFS",
-        "A",
-        "DHR",
-        "HOOD",
-        "BSX",
-        "ABT",
-        "ILMN",
-        "RVTY",
-        "GEN",
-        "HCA",
-        "SEIC",
-        "CG",
-        "MOS",
-        "ALSN",
-        "INCY",
-        "DGX",
-        "XYZ",
-        "CNH",
-        "EXE",
-        "MTN",
-        "ECL",
-        "BJ",
-        "KRYS",
-        "DE",
-        "IBKR",
-        "VNOM",
-        "OSK",
-        "COST",
-        "AES",
-        "CSX"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -149,10 +60,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "MRNA",
-        "COIN"
-      ]
+      "tickers": []
     }
   ]
 }
