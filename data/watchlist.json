@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,43 +7,45 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "FIVE",
-        "CELH",
-        "FCFS"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "FIVE",
-        "FCFS",
-        "MZTI",
-        "BJ",
-        "VMRK",
-        "GHC",
-        "CTVA",
-        "AGCO",
-        "STLD",
-        "MNST"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "IT",
+        "MRNA",
         "ELF",
+        "DASH",
         "EXPE",
         "CART",
-        "ANF",
-        "DLTR",
-        "MA",
-        "AJG"
+        "JKHY"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "NEM",
+        "PLTR",
+        "P",
+        "MRVL",
+        "SNDK",
+        "PATH",
+        "HAE",
+        "HALO",
+        "QLYS",
+        "ZBRA",
+        "IT",
+        "FCX",
+        "RGEN",
+        "MANH",
+        "APPF",
+        "ELF",
+        "ABNB"
+      ]
     },
     {
       "name": "VCS",
@@ -51,71 +53,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "RGEN",
-        "MANH",
-        "EXLS",
-        "RGLD",
-        "DLB",
-        "PSKY",
-        "GWRE",
-        "VEEV",
-        "FIVE",
-        "IQV",
-        "TGT",
-        "CELH",
-        "PEGA",
-        "ILMN",
-        "PR",
-        "FCFS",
-        "CMG",
-        "DIS",
-        "NWS",
-        "ANF",
-        "TYL",
-        "CHWY",
-        "GPN",
-        "ABT",
-        "FLS",
-        "EFX",
-        "ICE",
-        "SCHW",
-        "KNSL",
-        "GEN",
-        "SEIC",
-        "DLTR",
-        "ATI",
-        "MA",
-        "OMC",
-        "MZTI",
-        "AJG",
-        "EXE",
-        "HSY",
-        "MRSH",
-        "VZ",
-        "WTRG",
-        "ARE",
-        "SJM",
-        "SLB",
-        "BJ",
-        "LEN",
-        "THG",
-        "STT",
-        "NSC",
-        "SAM",
-        "SSB",
-        "COST",
-        "DPZ",
-        "HUM",
-        "ESS",
-        "PINS",
-        "GHC",
-        "AME",
-        "SPGI",
-        "CB",
-        "FOUR",
-        "CTVA"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
