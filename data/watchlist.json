@@ -7,45 +7,51 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "HOOD",
+        "SMTC",
+        "COIN",
+        "OLED",
+        "IBKR"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "SMTC",
+        "OLED",
+        "DAR",
+        "SNPS",
+        "MZTI",
+        "JAZZ",
+        "LOPE",
+        "UTHR",
+        "ALLY",
+        "WAL",
+        "DTM",
+        "AGCO",
+        "BWXT",
+        "FOUR",
+        "IPGP",
+        "KNF"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MRNA",
-        "ELF",
+        "FCX",
         "DASH",
+        "ATI",
         "EXPE",
-        "CART",
         "JKHY"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "MRNA",
-        "NEM",
-        "PLTR",
-        "P",
-        "MRVL",
-        "SNDK",
-        "PATH",
-        "HAE",
-        "HALO",
-        "QLYS",
-        "ZBRA",
-        "IT",
-        "FCX",
-        "RGEN",
-        "MANH",
-        "APPF",
-        "ELF",
-        "ABNB"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
@@ -53,7 +59,45 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "NEM",
+        "PATH",
+        "PSKY",
+        "DLB",
+        "RGEN",
+        "FIVE",
+        "EXLS",
+        "VEEV",
+        "PR",
+        "ILMN",
+        "ATI",
+        "RMD",
+        "CMCSA",
+        "ARES",
+        "NWS",
+        "PPC",
+        "OLED",
+        "ABT",
+        "IBKR",
+        "G",
+        "SEIC",
+        "GEN",
+        "MA",
+        "GPC",
+        "SAIC",
+        "VZ",
+        "SJM",
+        "OMC",
+        "PEN",
+        "JAZZ",
+        "NOV",
+        "VOYA",
+        "DPZ",
+        "LOPE",
+        "MAT",
+        "ORI",
+        "VRSK"
+      ]
     },
     {
       "name": "PP Count",
