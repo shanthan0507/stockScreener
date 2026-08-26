@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,50 +8,53 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "MRNA",
-        "HOOD",
-        "SMTC",
-        "COIN",
-        "OLED",
-        "IBKR"
+        "ANF",
+        "SMTC"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "MRNA",
-        "SMTC",
-        "OLED",
-        "DAR",
-        "SNPS",
-        "MZTI",
-        "JAZZ",
-        "LOPE",
-        "UTHR",
-        "ALLY",
-        "WAL",
-        "DTM",
-        "AGCO",
-        "BWXT",
-        "FOUR",
-        "IPGP",
-        "KNF"
+        "ANF",
+        "DKS"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "MRNA",
-        "FCX",
-        "DASH",
+        "ANF",
+        "DELL",
         "ATI",
+        "DASH",
         "EXPE",
-        "JKHY"
+        "HUM"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "MP",
+        "P",
+        "LITE",
+        "MRVL",
+        "SMCI",
+        "NEM",
+        "SNDK",
+        "PLTR",
+        "ANF",
+        "SMTC",
+        "PATH",
+        "FCX",
+        "IDCC",
+        "ONTO",
+        "HALO",
+        "QLYS",
+        "ELF",
+        "SITM",
+        "RGEN",
+        "ZBRA"
+      ]
     },
     {
       "name": "VCS",
@@ -60,43 +63,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "NEM",
-        "PATH",
-        "PSKY",
-        "DLB",
-        "RGEN",
-        "FIVE",
-        "EXLS",
-        "VEEV",
-        "PR",
-        "ILMN",
-        "ATI",
-        "RMD",
-        "CMCSA",
-        "ARES",
-        "NWS",
-        "PPC",
-        "OLED",
-        "ABT",
-        "IBKR",
-        "G",
-        "SEIC",
-        "GEN",
-        "MA",
-        "GPC",
-        "SAIC",
-        "VZ",
-        "SJM",
-        "OMC",
-        "PEN",
-        "JAZZ",
-        "NOV",
-        "VOYA",
-        "DPZ",
-        "LOPE",
-        "MAT",
-        "ORI",
-        "VRSK"
+        "ANF",
+        "SMTC"
       ]
     },
     {
@@ -105,7 +73,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "ANF"
+      ]
     }
   ]
 }
