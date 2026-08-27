@@ -8,14 +8,35 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "P",
         "ANF",
-        "SMTC"
+        "SMTC",
+        "TTMI",
+        "WMB",
+        "GAP"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "P",
         "ANF",
+        "SMTC",
+        "LECO",
+        "HPQ",
+        "EHC",
+        "SJM",
+        "GAP",
+        "DCI",
+        "WSM",
+        "META",
+        "OKTA",
+        "GGG",
+        "DTM",
+        "BBY",
+        "BBWI",
+        "IPGP",
+        "KNF",
         "DKS"
       ]
     },
@@ -23,38 +44,18 @@
       "name": "Momentum 97",
       "tickers": [
         "ANF",
+        "ELF",
+        "ANET",
         "DELL",
-        "ATI",
         "DASH",
-        "EXPE",
-        "HUM"
+        "SN",
+        "DT",
+        "SJM"
       ]
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "MRNA",
-        "MP",
-        "P",
-        "LITE",
-        "MRVL",
-        "SMCI",
-        "NEM",
-        "SNDK",
-        "PLTR",
-        "ANF",
-        "SMTC",
-        "PATH",
-        "FCX",
-        "IDCC",
-        "ONTO",
-        "HALO",
-        "QLYS",
-        "ELF",
-        "SITM",
-        "RGEN",
-        "ZBRA"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
@@ -63,8 +64,53 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "P",
         "ANF",
-        "SMTC"
+        "SMTC",
+        "CRL",
+        "DASH",
+        "ILMN",
+        "LECO",
+        "RMD",
+        "TMO",
+        "NTNX",
+        "DHR",
+        "UNM",
+        "DINO",
+        "GEN",
+        "GPC",
+        "MCO",
+        "OKE",
+        "NOV",
+        "EHC",
+        "WMB",
+        "IQV",
+        "WEX",
+        "SCHW",
+        "BSX",
+        "DBX",
+        "GAP",
+        "EXLS",
+        "INTU",
+        "EQH",
+        "DCI",
+        "DOCU",
+        "WSM",
+        "KMI",
+        "RJF",
+        "TRU",
+        "PEN",
+        "G",
+        "DOW",
+        "SWX",
+        "EOG",
+        "KRYS",
+        "GGG",
+        "BBY",
+        "GM",
+        "EG",
+        "DG",
+        "LOPE"
       ]
     },
     {
