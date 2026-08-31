@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-31",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,39 +8,26 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "NOW",
-        "WDAY",
-        "SLB",
-        "DAR"
+        "SLB"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "ANF",
-        "CRM",
-        "WDAY",
-        "GAP",
-        "SOLS",
-        "SGI",
-        "ACGL",
-        "GHC",
-        "HQY",
-        "ACM",
-        "HRL",
-        "DKS"
+        "SAIC",
+        "ACM"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "ANF",
-        "PATH",
-        "CRM",
-        "VEEV",
-        "DT",
-        "DASH",
-        "SJM"
+        "MPC",
+        "CNH",
+        "VLO",
+        "DINO",
+        "DUOL",
+        "DE",
+        "PBF"
       ]
     },
     {
@@ -48,22 +35,21 @@
       "tickers": [
         "MRNA",
         "PLTR",
-        "ANF",
         "PATH",
+        "ANF",
         "CRM",
-        "NEM",
         "VEEV",
         "GWRE",
-        "IT",
-        "APPF",
         "NOW",
-        "QLYS",
-        "WDAY",
-        "HALO",
+        "IT",
         "ELF",
+        "APPF",
+        "QLYS",
+        "HALO",
+        "RGEN",
+        "WDAY",
         "CRL",
-        "ABNB",
-        "RGEN"
+        "DT"
       ]
     },
     {
@@ -73,39 +59,12 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "ANF",
-        "PATH",
-        "CRM",
-        "PSKY",
-        "GWRE",
-        "APPF",
-        "NOW",
-        "WDAY",
-        "ABNB",
-        "TYL",
+        "VEEV",
         "SLB",
-        "RVTY",
-        "BDX",
-        "GEN",
-        "EXLS",
-        "HPQ",
-        "IQV",
-        "DHR",
-        "G",
-        "UNM",
+        "TYL",
+        "TSLA",
         "WFRD",
-        "CME",
-        "COKE",
-        "SCHW",
-        "WTRG",
-        "VOYA",
-        "RJF",
-        "LULU",
-        "DPZ",
-        "KHC",
-        "BRK-B",
-        "AMZN",
-        "ACM"
+        "ULTA"
       ]
     },
     {
@@ -114,11 +73,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "ANF",
-        "CRM",
-        "OKTA"
-      ]
+      "tickers": []
     }
   ]
 }
