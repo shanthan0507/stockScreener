@@ -7,63 +7,103 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "CF",
+        "BG",
+        "CNH",
+        "ORA",
+        "ADM"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "CF",
+        "DUOL",
+        "PBF",
+        "CNH",
+        "DE",
+        "FLR",
+        "MDT",
+        "DG",
+        "TXNM",
         "GME",
+        "SRE",
+        "RYN",
+        "WSO",
+        "BWXT",
+        "AON",
+        "HWM",
         "EIX",
-        "PCG"
+        "PCG",
+        "BURL"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MRNA",
-        "MPC",
-        "PSX",
-        "VLO",
         "DINO",
         "DUOL",
-        "PBF"
+        "PBF",
+        "DG"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
         "MRNA",
-        "VEEV",
         "CRM",
+        "VEEV",
         "HALO",
-        "ELF",
-        "ANF",
         "PATH",
+        "ANF",
         "GWRE",
-        "IT",
-        "MPC",
-        "CRL",
-        "PSX",
-        "NOW",
-        "ABNB",
-        "WDAY",
-        "APPF",
         "APA",
-        "DT",
-        "ZBRA"
+        "PSX",
+        "MPC",
+        "ABNB",
+        "NOW",
+        "CRL",
+        "ELF",
+        "HAE",
+        "DINO",
+        "TWLO",
+        "VLO"
       ]
     },
     {
       "name": "VCS",
       "tickers": [
-        "TECH"
+        "TECH",
+        "LNTH"
       ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "CRM",
         "PEGA",
-        "TXNM"
+        "CF",
+        "CTVA",
+        "CVX",
+        "AR",
+        "DE",
+        "FLR",
+        "MOS",
+        "COR",
+        "USFD",
+        "SPGI",
+        "RRC",
+        "AAPL",
+        "AHR",
+        "EOG",
+        "SBRA",
+        "EXEL",
+        "TXNM",
+        "WFC",
+        "APH"
       ]
     },
     {
