@@ -9,24 +9,50 @@
       "name": "4% Bullish",
       "tickers": [
         "CNH",
-        "BBY"
+        "VAL",
+        "MOS",
+        "SWKS",
+        "DELL",
+        "BBY",
+        "RDDT",
+        "EQH"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "DELL"
+        "CNH",
+        "AGCO",
+        "CF",
+        "CTVA",
+        "DE",
+        "DELL",
+        "BBY",
+        "TXNM",
+        "OGE",
+        "SGI",
+        "SIRI",
+        "HPE",
+        "BF-B",
+        "AIG",
+        "GEF",
+        "OLLI",
+        "APG",
+        "MLM",
+        "AON",
+        "WMS",
+        "CRUS"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MRNA",
+        "APH",
         "DINO",
-        "PBF",
         "CNH",
+        "PBF",
         "DUOL",
-        "HPQ",
         "DG",
         "BBY"
       ]
@@ -35,35 +61,88 @@
       "name": "97 Club",
       "tickers": [
         "MRNA",
+        "APH",
         "CRM",
         "VEEV",
-        "MPC",
         "HALO",
+        "MPC",
         "PATH",
         "APA",
         "DINO",
         "PSX",
+        "CNH",
         "ANF",
+        "ELF",
         "PBF",
         "HAE",
-        "ELF",
-        "CNH",
-        "PR",
         "VLO",
-        "ABNB",
-        "CF",
-        "COP"
+        "PR",
+        "GWRE",
+        "ABNB"
       ]
     },
     {
       "name": "VCS",
       "tickers": [
-        "TECH"
+        "TECH",
+        "LNTH"
       ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "PSKY",
+        "HAE",
+        "AGCO",
+        "VAL",
+        "CF",
+        "PEGA",
+        "ALB",
+        "VRTX",
+        "CTVA",
+        "DE",
+        "KRYS",
+        "BMRN",
+        "CMG",
+        "EOG",
+        "MOS",
+        "BDX",
+        "AVTR",
+        "CEG",
+        "CNX",
+        "TMUS",
+        "BIIB",
+        "INCY",
+        "JNJ",
+        "SWKS",
+        "DELL",
+        "COR",
+        "WTRG",
+        "DRI",
+        "WMB",
+        "AWK",
+        "HLI",
+        "EXEL",
+        "BBY",
+        "TXNM",
+        "F",
+        "KKR",
+        "SLAB",
+        "WFC",
+        "AES",
+        "EQH",
+        "CRBG",
+        "ALV",
+        "ITT",
+        "FIS",
+        "SIRI",
+        "VTRS",
+        "RJF",
+        "LULU",
+        "BF-B",
+        "GEF",
+        "ELAN"
+      ]
     },
     {
       "name": "PP Count",
@@ -71,7 +150,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "APH"
+      ]
     }
   ]
 }
