@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,36 +8,14 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "MRNA",
-        "CF",
-        "BG",
         "CNH",
-        "ORA",
-        "ADM"
+        "BBY"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CF",
-        "DUOL",
-        "PBF",
-        "CNH",
-        "DE",
-        "FLR",
-        "MDT",
-        "DG",
-        "TXNM",
-        "GME",
-        "SRE",
-        "RYN",
-        "WSO",
-        "BWXT",
-        "AON",
-        "HWM",
-        "EIX",
-        "PCG",
-        "BURL"
+        "DELL"
       ]
     },
     {
@@ -45,9 +23,12 @@
       "tickers": [
         "MRNA",
         "DINO",
-        "DUOL",
         "PBF",
-        "DG"
+        "CNH",
+        "DUOL",
+        "HPQ",
+        "DG",
+        "BBY"
       ]
     },
     {
@@ -56,55 +37,33 @@
         "MRNA",
         "CRM",
         "VEEV",
+        "MPC",
         "HALO",
         "PATH",
-        "ANF",
-        "GWRE",
         "APA",
-        "PSX",
-        "MPC",
-        "ABNB",
-        "NOW",
-        "CRL",
-        "ELF",
-        "HAE",
         "DINO",
-        "TWLO",
-        "VLO"
+        "PSX",
+        "ANF",
+        "PBF",
+        "HAE",
+        "ELF",
+        "CNH",
+        "PR",
+        "VLO",
+        "ABNB",
+        "CF",
+        "COP"
       ]
     },
     {
       "name": "VCS",
       "tickers": [
-        "TECH",
-        "LNTH"
+        "TECH"
       ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "CRM",
-        "PEGA",
-        "CF",
-        "CTVA",
-        "CVX",
-        "AR",
-        "DE",
-        "FLR",
-        "MOS",
-        "COR",
-        "USFD",
-        "SPGI",
-        "RRC",
-        "AAPL",
-        "AHR",
-        "EOG",
-        "SBRA",
-        "EXEL",
-        "TXNM",
-        "WFC",
-        "APH"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
