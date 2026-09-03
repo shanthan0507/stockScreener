@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,140 +8,79 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CNH",
-        "VAL",
-        "MOS",
-        "SWKS",
+        "HOOD",
+        "COIN",
+        "TSLA",
         "DELL",
-        "BBY",
-        "RDDT",
-        "EQH"
+        "PFG"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CNH",
-        "AGCO",
-        "CF",
-        "CTVA",
-        "DE",
+        "HOOD",
         "DELL",
-        "BBY",
-        "TXNM",
-        "OGE",
-        "SGI",
-        "SIRI",
-        "HPE",
-        "BF-B",
-        "AIG",
-        "GEF",
-        "OLLI",
-        "APG",
-        "MLM",
-        "AON",
-        "WMS",
-        "CRUS"
+        "ACGL",
+        "NTAP"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "MRNA",
-        "APH",
+        "HOOD",
+        "COIN",
+        "MPC",
         "DINO",
+        "PSX",
         "CNH",
         "PBF",
+        "VLO",
+        "WDAY",
+        "DELL",
         "DUOL",
-        "DG",
-        "BBY"
+        "HPQ"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
         "MRNA",
-        "APH",
         "CRM",
+        "CDE",
+        "HOOD",
+        "COIN",
+        "PATH",
+        "MPC",
         "VEEV",
         "HALO",
-        "MPC",
-        "PATH",
-        "APA",
+        "ANF",
         "DINO",
         "PSX",
+        "HL",
+        "APA",
         "CNH",
-        "ANF",
-        "ELF",
-        "PBF",
-        "HAE",
-        "VLO",
-        "PR",
         "GWRE",
-        "ABNB"
+        "NEM",
+        "TWLO",
+        "ELF",
+        "SNDK",
+        "NOW",
+        "PBF"
       ]
     },
     {
       "name": "VCS",
       "tickers": [
-        "TECH",
-        "LNTH"
+        "TECH"
       ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "PSKY",
-        "HAE",
-        "AGCO",
-        "VAL",
-        "CF",
-        "PEGA",
-        "ALB",
-        "VRTX",
-        "CTVA",
-        "DE",
-        "KRYS",
-        "BMRN",
-        "CMG",
-        "EOG",
-        "MOS",
-        "BDX",
-        "AVTR",
-        "CEG",
-        "CNX",
-        "TMUS",
-        "BIIB",
-        "INCY",
-        "JNJ",
-        "SWKS",
-        "DELL",
-        "COR",
-        "WTRG",
-        "DRI",
-        "WMB",
-        "AWK",
-        "HLI",
-        "EXEL",
-        "BBY",
-        "TXNM",
-        "F",
-        "KKR",
-        "SLAB",
-        "WFC",
-        "AES",
-        "EQH",
-        "CRBG",
-        "ALV",
-        "ITT",
-        "FIS",
-        "SIRI",
-        "VTRS",
-        "RJF",
-        "LULU",
-        "BF-B",
-        "GEF",
-        "ELAN"
+        "HOOD",
+        "TSLA",
+        "ACGL",
+        "NTAP"
       ]
     },
     {
@@ -151,7 +90,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "APH"
+        "CNH"
       ]
     }
   ]
