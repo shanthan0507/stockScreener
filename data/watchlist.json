@@ -7,22 +7,36 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "SNDK",
+        "CNH",
+        "AGCO",
+        "SMCI",
+        "FIVE",
+        "NRG"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "AGCO",
+        "DOCU",
+        "FIVE",
+        "VMRK",
+        "AZO",
+        "TTC",
+        "BURL"
+      ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "HOOD",
-        "DINO",
         "CNH",
-        "CF",
+        "HOOD",
         "DELL",
-        "DE",
+        "DOCU",
         "MOS",
+        "DE",
         "BBY",
         "HPQ",
         "DG"
@@ -34,11 +48,12 @@
         "MRNA",
         "SNDK",
         "CRM",
-        "HOOD",
-        "DINO",
         "ANF",
         "CNH",
+        "HOOD",
         "MPC",
+        "DINO",
+        "AGCO",
         "PSX",
         "VLO",
         "HL",
@@ -48,8 +63,8 @@
         "CF",
         "HAE",
         "MRK",
-        "PR",
-        "ILMN"
+        "ILMN",
+        "PR"
       ]
     },
     {
@@ -61,7 +76,29 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "SNDK",
+        "HOOD",
+        "AGCO",
+        "SMCI",
+        "MU",
+        "FTI",
+        "GILD",
+        "HLI",
+        "WTRG",
+        "AWK",
+        "BMRN",
+        "LAD",
+        "BEN",
+        "FISV",
+        "TRU",
+        "AIZ",
+        "JEF",
+        "SCI",
+        "AVT",
+        "VNT",
+        "WTS"
+      ]
     },
     {
       "name": "PP Count",
