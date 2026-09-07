@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-07",
   "buckets": [
     {
       "name": "21EMA",
@@ -20,6 +20,7 @@
       "name": "Vol Up",
       "tickers": [
         "AGCO",
+        "EL",
         "DOCU",
         "FIVE",
         "VMRK",
@@ -81,6 +82,7 @@
         "HOOD",
         "AGCO",
         "SMCI",
+        "EL",
         "MU",
         "FTI",
         "GILD",
