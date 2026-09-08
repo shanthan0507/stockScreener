@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,39 +8,23 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SNDK",
-        "CNH",
-        "AGCO",
-        "SMCI",
-        "FIVE",
-        "NRG"
+        "LITE",
+        "ROIV"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "AGCO",
-        "EL",
-        "DOCU",
-        "FIVE",
-        "VMRK",
-        "AZO",
-        "TTC",
-        "BURL"
+        "ROIV",
+        "LULU"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "CNH",
-        "HOOD",
-        "DELL",
-        "DOCU",
-        "MOS",
-        "DE",
-        "BBY",
-        "HPQ",
-        "DG"
+        "LITE",
+        "ROIV",
+        "FCX"
       ]
     },
     {
@@ -48,24 +32,25 @@
       "tickers": [
         "MRNA",
         "SNDK",
-        "CRM",
-        "ANF",
         "CNH",
-        "HOOD",
-        "MPC",
+        "SMCI",
         "DINO",
-        "AGCO",
-        "PSX",
+        "HOOD",
+        "ANF",
+        "CRM",
+        "MPC",
+        "SMTC",
+        "LITE",
         "VLO",
-        "HL",
-        "PBF",
-        "VEEV",
-        "DUOL",
-        "CF",
+        "PSX",
         "HAE",
-        "MRK",
-        "ILMN",
-        "PR"
+        "MU",
+        "ROIV",
+        "HL",
+        "DELL",
+        "PBF",
+        "STX",
+        "MRK"
       ]
     },
     {
@@ -78,28 +63,9 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "SNDK",
-        "HOOD",
-        "AGCO",
-        "SMCI",
-        "EL",
-        "MU",
-        "FTI",
-        "GILD",
-        "HLI",
-        "WTRG",
-        "AWK",
-        "BMRN",
-        "LAD",
-        "BEN",
-        "FISV",
-        "TRU",
-        "AIZ",
-        "JEF",
-        "SCI",
-        "AVT",
-        "VNT",
-        "WTS"
+        "LITE",
+        "AMD",
+        "COHR"
       ]
     },
     {
@@ -109,7 +75,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "CNH"
+        "ROIV"
       ]
     }
   ]
