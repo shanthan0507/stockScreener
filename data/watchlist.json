@@ -8,14 +8,43 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "SMTC",
         "LITE",
-        "ROIV"
+        "ROIV",
+        "STX",
+        "BG",
+        "FCX",
+        "AMD",
+        "INTC",
+        "GLW",
+        "VIAV",
+        "TKO",
+        "HPE",
+        "NVT"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "SMTC",
+        "LITE",
         "ROIV",
+        "BG",
+        "QCOM",
+        "VST",
+        "TKO",
+        "OGE",
+        "KMI",
+        "VMRK",
+        "ALB",
+        "IDA",
+        "WRB",
+        "EBAY",
+        "TTC",
+        "XYL",
+        "FICO",
+        "EIX",
+        "PCG",
         "LULU"
       ]
     },
@@ -35,21 +64,20 @@
         "CNH",
         "SMCI",
         "DINO",
-        "HOOD",
         "ANF",
         "CRM",
         "MPC",
+        "HOOD",
         "SMTC",
-        "LITE",
         "VLO",
         "PSX",
+        "LITE",
         "HAE",
-        "MU",
-        "ROIV",
         "HL",
         "DELL",
         "PBF",
-        "STX",
+        "MU",
+        "ROIV",
         "MRK"
       ]
     },
@@ -63,9 +91,44 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "SMCI",
+        "SMTC",
         "LITE",
+        "PSKY",
+        "MOS",
+        "STX",
+        "AVTR",
+        "BG",
+        "SWKS",
         "AMD",
-        "COHR"
+        "VRT",
+        "INTC",
+        "MUR",
+        "T",
+        "WTRG",
+        "VST",
+        "GLW",
+        "SBAC",
+        "BEN",
+        "TKO",
+        "TSCO",
+        "INCY",
+        "CLH",
+        "TER",
+        "KMI",
+        "JEF",
+        "TXNM",
+        "ELV",
+        "VRTX",
+        "TMO",
+        "MDLZ",
+        "NVT",
+        "ALB",
+        "WCC",
+        "DHR",
+        "DOCN",
+        "ORA",
+        "KBR"
       ]
     },
     {
@@ -74,9 +137,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "ROIV"
-      ]
+      "tickers": []
     }
   ]
 }
