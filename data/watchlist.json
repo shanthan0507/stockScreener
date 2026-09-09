@@ -8,23 +8,37 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "DOCN",
         "META",
-        "GME"
+        "HPE",
+        "GME",
+        "HCA"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "GME"
+        "ROIV",
+        "META",
+        "HPE",
+        "GME",
+        "EQH",
+        "WRB",
+        "AIG",
+        "SYY",
+        "ENSG",
+        "FICO",
+        "TXT",
+        "HWM"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "LITE",
-        "ROIV",
         "VLO",
+        "ROIV",
         "FCX",
+        "APA",
         "HPE"
       ]
     },
@@ -37,21 +51,21 @@
         "ANF",
         "DINO",
         "SMTC",
-        "AGCO",
         "CRM",
         "SMCI",
-        "LITE",
         "HOOD",
         "DELL",
-        "ROIV",
-        "MPC",
+        "LITE",
         "VLO",
-        "HL",
-        "CF",
+        "MPC",
+        "ROIV",
         "MU",
-        "PSX",
         "HAE",
+        "CF",
+        "HL",
+        "PSX",
         "OKTA",
+        "EXEL",
         "MRK"
       ]
     },
@@ -64,7 +78,33 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "LITE",
+        "CF",
+        "WMG",
+        "AMD",
+        "DOCN",
+        "CVX",
+        "META",
+        "INTC",
+        "HLI",
+        "GLW",
+        "UHS",
+        "INCY",
+        "AM",
+        "WFC",
+        "HCA",
+        "EQH",
+        "CRBG",
+        "IBM",
+        "TMO",
+        "MET",
+        "JPM",
+        "FFIV",
+        "WAT",
+        "BILL",
+        "MTSI"
+      ]
     },
     {
       "name": "PP Count",
@@ -72,9 +112,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "ROIV"
-      ]
+      "tickers": []
     }
   ]
 }
