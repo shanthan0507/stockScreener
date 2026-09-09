@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,44 +8,14 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SMTC",
-        "LITE",
-        "ROIV",
-        "STX",
-        "BG",
-        "FCX",
-        "AMD",
-        "INTC",
-        "GLW",
-        "VIAV",
-        "TKO",
-        "HPE",
-        "NVT"
+        "META",
+        "GME"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "SMTC",
-        "LITE",
-        "ROIV",
-        "BG",
-        "QCOM",
-        "VST",
-        "TKO",
-        "OGE",
-        "KMI",
-        "VMRK",
-        "ALB",
-        "IDA",
-        "WRB",
-        "EBAY",
-        "TTC",
-        "XYL",
-        "FICO",
-        "EIX",
-        "PCG",
-        "LULU"
+        "GME"
       ]
     },
     {
@@ -53,7 +23,9 @@
       "tickers": [
         "LITE",
         "ROIV",
-        "FCX"
+        "VLO",
+        "FCX",
+        "HPE"
       ]
     },
     {
@@ -62,22 +34,24 @@
         "MRNA",
         "SNDK",
         "CNH",
-        "SMCI",
-        "DINO",
         "ANF",
-        "CRM",
-        "MPC",
-        "HOOD",
+        "DINO",
         "SMTC",
-        "VLO",
-        "PSX",
+        "AGCO",
+        "CRM",
+        "SMCI",
         "LITE",
-        "HAE",
-        "HL",
+        "HOOD",
         "DELL",
-        "PBF",
-        "MU",
         "ROIV",
+        "MPC",
+        "VLO",
+        "HL",
+        "CF",
+        "MU",
+        "PSX",
+        "HAE",
+        "OKTA",
         "MRK"
       ]
     },
@@ -90,46 +64,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "SMCI",
-        "SMTC",
-        "LITE",
-        "PSKY",
-        "MOS",
-        "STX",
-        "AVTR",
-        "BG",
-        "SWKS",
-        "AMD",
-        "VRT",
-        "INTC",
-        "MUR",
-        "T",
-        "WTRG",
-        "VST",
-        "GLW",
-        "SBAC",
-        "BEN",
-        "TKO",
-        "TSCO",
-        "INCY",
-        "CLH",
-        "TER",
-        "KMI",
-        "JEF",
-        "TXNM",
-        "ELV",
-        "VRTX",
-        "TMO",
-        "MDLZ",
-        "NVT",
-        "ALB",
-        "WCC",
-        "DHR",
-        "DOCN",
-        "ORA",
-        "KBR"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -137,7 +72,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "ROIV"
+      ]
     }
   ]
 }
