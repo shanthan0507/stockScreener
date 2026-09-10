@@ -7,23 +7,47 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "SWKS",
+        "ELV",
+        "FOUR"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "AVAV"
+        "SWKS",
+        "GME",
+        "ELV",
+        "VOYA",
+        "WBD",
+        "VMRK",
+        "VAL",
+        "WRB",
+        "ACGL",
+        "FOUR",
+        "UBER",
+        "KEY",
+        "CUBE",
+        "KVUE",
+        "EXR",
+        "BYD",
+        "IRT",
+        "PKG",
+        "AON",
+        "RL",
+        "AVAV",
+        "DY"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "DINO",
         "SWKS",
-        "VLO",
         "MTDR",
-        "APA",
+        "VLO",
         "ROIV",
+        "APA",
         "PBF",
         "HPE"
       ]
@@ -33,9 +57,9 @@
       "tickers": [
         "MRNA",
         "ANF",
-        "CRM",
         "SNDK",
         "CNH",
+        "CRM",
         "DINO",
         "SWKS",
         "HOOD",
@@ -43,10 +67,11 @@
         "OKTA",
         "PSX",
         "EXEL",
-        "MPC",
         "SMTC",
-        "HPQ",
-        "DOCU"
+        "DOCU",
+        "ROIV",
+        "MPC",
+        "HPQ"
       ]
     },
     {
@@ -60,7 +85,26 @@
       "name": "Pocket Pivot",
       "tickers": [
         "SWKS",
-        "HLI"
+        "PEGA",
+        "DVN",
+        "HLI",
+        "AAPL",
+        "ELV",
+        "RRC",
+        "DT",
+        "VOYA",
+        "BIIB",
+        "FCX",
+        "WBD",
+        "PM",
+        "CRBG",
+        "IFF",
+        "TMO",
+        "IDCC",
+        "DOCN",
+        "BAH",
+        "WAT",
+        "AVT"
       ]
     },
     {
