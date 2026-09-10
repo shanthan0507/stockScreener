@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,38 +7,24 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "DOCN",
-        "META",
-        "HPE",
-        "GME",
-        "HCA"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "ROIV",
-        "META",
-        "HPE",
-        "GME",
-        "EQH",
-        "WRB",
-        "AIG",
-        "SYY",
-        "ENSG",
-        "FICO",
-        "TXT",
-        "HWM"
+        "AVAV"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "DINO",
+        "SWKS",
         "VLO",
-        "ROIV",
-        "FCX",
+        "MTDR",
         "APA",
+        "ROIV",
+        "PBF",
         "HPE"
       ]
     },
@@ -46,27 +32,21 @@
       "name": "97 Club",
       "tickers": [
         "MRNA",
+        "ANF",
+        "CRM",
         "SNDK",
         "CNH",
-        "ANF",
         "DINO",
-        "SMTC",
-        "CRM",
-        "SMCI",
+        "SWKS",
         "HOOD",
-        "DELL",
-        "LITE",
         "VLO",
-        "MPC",
-        "ROIV",
-        "MU",
-        "HAE",
-        "CF",
-        "HL",
-        "PSX",
         "OKTA",
+        "PSX",
         "EXEL",
-        "MRK"
+        "MPC",
+        "SMTC",
+        "HPQ",
+        "DOCU"
       ]
     },
     {
@@ -79,31 +59,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "LITE",
-        "CF",
-        "WMG",
-        "AMD",
-        "DOCN",
-        "CVX",
-        "META",
-        "INTC",
-        "HLI",
-        "GLW",
-        "UHS",
-        "INCY",
-        "AM",
-        "WFC",
-        "HCA",
-        "EQH",
-        "CRBG",
-        "IBM",
-        "TMO",
-        "MET",
-        "JPM",
-        "FFIV",
-        "WAT",
-        "BILL",
-        "MTSI"
+        "SWKS",
+        "HLI"
       ]
     },
     {
