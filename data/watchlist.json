@@ -11,13 +11,40 @@
         "SWKS",
         "DELL",
         "HPQ",
-        "HPE"
+        "ARW",
+        "AVT",
+        "HPE",
+        "WING",
+        "BBWI",
+        "NTAP"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "KIM",
+        "SWKS",
+        "DELL",
+        "HPQ",
+        "GME",
+        "AVT",
+        "HPE",
+        "KR",
+        "OHI",
+        "VMRK",
+        "AIG",
+        "KHC",
+        "BALL",
+        "JCI",
+        "MTN",
+        "ADBE",
+        "M",
+        "EXR",
+        "TKR",
+        "RBC",
+        "CPRI",
+        "KBH",
+        "UAL",
+        "OC",
         "RH"
       ]
     },
@@ -25,12 +52,11 @@
       "name": "Momentum 97",
       "tickers": [
         "SWKS",
-        "VLO",
         "DELL",
-        "ROIV",
         "HPQ",
-        "PBF",
-        "HPE"
+        "ROIV",
+        "HPE",
+        "NTAP"
       ]
     },
     {
@@ -43,15 +69,16 @@
         "SMTC",
         "CRM",
         "DINO",
-        "VLO",
-        "HOOD",
-        "MPC",
-        "PSX",
         "DELL",
-        "HAE",
-        "ROIV",
         "HPQ",
-        "PR"
+        "CHRD",
+        "VLO",
+        "HAE",
+        "HOOD",
+        "PR",
+        "ROIV",
+        "PSX",
+        "APA"
       ]
     },
     {
@@ -64,7 +91,27 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "SWKS"
+        "SWKS",
+        "HPQ",
+        "IQV",
+        "ILMN",
+        "AMD",
+        "ARE",
+        "REXR",
+        "AVT",
+        "BIIB",
+        "KR",
+        "SMCI",
+        "COKE",
+        "THG",
+        "CRBG",
+        "SYY",
+        "CLF",
+        "SCI",
+        "BAH",
+        "JCI",
+        "COHR",
+        "OLED"
       ]
     },
     {
@@ -73,9 +120,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "SWKS"
-      ]
+      "tickers": []
     }
   ]
 }
