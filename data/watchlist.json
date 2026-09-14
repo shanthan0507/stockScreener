@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-14",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,55 +8,36 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SWKS",
-        "DELL",
-        "HPQ",
-        "ARW",
-        "AVT",
-        "HPE",
-        "WING",
-        "BBWI",
-        "NTAP"
+        "COIN",
+        "OKTA",
+        "CRWD",
+        "PANW"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "SWKS",
-        "DELL",
-        "HPQ",
-        "GME",
-        "AVT",
-        "HPE",
-        "KR",
-        "OHI",
-        "VMRK",
-        "AIG",
-        "KHC",
-        "BALL",
-        "JCI",
-        "MTN",
-        "ADBE",
-        "M",
-        "EXR",
-        "TKR",
-        "RBC",
-        "CPRI",
-        "KBH",
-        "UAL",
-        "OC",
-        "RH"
+        "OKTA",
+        "CRWD",
+        "KBH"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "SWKS",
-        "DELL",
-        "HPQ",
-        "ROIV",
-        "HPE",
-        "NTAP"
+        "OKTA",
+        "PEGA",
+        "DUOL",
+        "NOW",
+        "ACN",
+        "CRWD",
+        "GDDY",
+        "CTSH",
+        "IT",
+        "PANW",
+        "INTU",
+        "PATH",
+        "GWRE"
       ]
     },
     {
@@ -65,20 +46,20 @@
         "MRNA",
         "ANF",
         "CNH",
-        "SWKS",
-        "SMTC",
         "CRM",
-        "DINO",
-        "DELL",
-        "HPQ",
-        "CHRD",
-        "VLO",
-        "HAE",
+        "OKTA",
         "HOOD",
-        "PR",
+        "HAE",
+        "SWKS",
+        "HPQ",
+        "DUOL",
+        "NOW",
+        "DINO",
         "ROIV",
-        "PSX",
-        "APA"
+        "APA",
+        "IQV",
+        "CHRD",
+        "VLO"
       ]
     },
     {
@@ -91,27 +72,10 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "SWKS",
-        "HPQ",
-        "IQV",
-        "ILMN",
-        "AMD",
-        "ARE",
-        "REXR",
-        "AVT",
-        "BIIB",
-        "KR",
-        "SMCI",
-        "COKE",
-        "THG",
+        "OKTA",
+        "CRWD",
         "CRBG",
-        "SYY",
-        "CLF",
-        "SCI",
-        "BAH",
-        "JCI",
-        "COHR",
-        "OLED"
+        "AMD"
       ]
     },
     {
