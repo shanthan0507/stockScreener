@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,82 +8,37 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "COIN",
-        "OKTA",
-        "DUOL",
-        "GDDY",
-        "BBY",
-        "IT",
-        "NYT",
-        "CRWD",
-        "DBX",
-        "KR",
-        "MMS",
-        "MANH",
-        "FTNT",
-        "COKE",
-        "WEX",
-        "ACI",
-        "BJ",
-        "AJG",
-        "OLLI",
-        "ADBE",
-        "CPRT",
-        "PCTY",
-        "FDS",
-        "PANW"
+        "SWKS",
+        "PBF",
+        "VAL"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "COIN",
-        "OKTA",
-        "MPC",
-        "CRWD",
-        "OVV",
-        "WTRG",
-        "RNR",
-        "UNM",
-        "FOUR",
-        "ACGL",
-        "KHC",
-        "AZO",
-        "GHC",
-        "PANW",
-        "M",
-        "CHWY",
-        "KEY",
-        "MTN",
-        "EXR",
-        "SWX",
-        "KVUE",
-        "KMB",
-        "KBH",
-        "AON",
-        "LHX",
-        "AVAV",
-        "COO"
+        "PBF"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "OKTA",
-        "PEGA",
         "NOW",
         "DOCU",
+        "RVTY",
+        "DUOL",
+        "ILMN",
         "ACN",
-        "GDDY",
+        "DT",
+        "DBX",
         "CTSH",
-        "IT",
         "CRWD",
-        "AJG",
-        "ADBE",
-        "INTU",
+        "GDDY",
+        "IT",
+        "FTNT",
+        "TWLO",
+        "RMD",
         "PANW",
-        "SN",
-        "PATH",
         "GWRE"
       ]
     },
@@ -91,22 +46,23 @@
       "name": "97 Club",
       "tickers": [
         "MRNA",
-        "CRM",
         "CNH",
-        "ANF",
+        "CRM",
         "OKTA",
-        "HOOD",
-        "HAE",
-        "NOW",
-        "DINO",
-        "HPQ",
         "SWKS",
-        "DUOL",
-        "ROIV",
+        "ANF",
+        "NOW",
         "DOCU",
-        "IQV",
-        "VLO",
-        "MPC"
+        "RVTY",
+        "DINO",
+        "DUOL",
+        "HPQ",
+        "ILMN",
+        "HAE",
+        "APPF",
+        "MPC",
+        "AVTR",
+        "DT"
       ]
     },
     {
@@ -118,49 +74,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "COIN",
-        "OKTA",
-        "MOS",
-        "NOW",
-        "AVTR",
-        "GEN",
-        "CTSH",
-        "IT",
-        "DT",
-        "CRWD",
-        "ARE",
-        "RGLD",
-        "KR",
-        "MANH",
-        "FTNT",
-        "COKE",
-        "REXR",
-        "ELF",
-        "OVV",
-        "THG",
-        "WTRG",
-        "RNR",
-        "BAH",
-        "FFIV",
-        "BJ",
-        "ADP",
-        "UNM",
-        "WST",
-        "EQH",
-        "GOOGL",
-        "CRBG",
-        "TTEK",
-        "MET",
-        "PCTY",
-        "BILL",
-        "REGN",
-        "VNT",
-        "AFG",
-        "DRI",
-        "CVLT",
-        "ARMK"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -168,7 +82,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "QLYS"
+      ]
     }
   ]
 }
