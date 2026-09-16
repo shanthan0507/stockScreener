@@ -8,15 +8,45 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "RVTY",
-        "BRKR"
+        "SMTC",
+        "BRKR",
+        "LITE",
+        "OPCH",
+        "CPRI",
+        "EW"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "ULS",
-        "AXON"
+        "RVTY",
+        "SMTC",
+        "ILMN",
+        "DELL",
+        "PSKY",
+        "BRKR",
+        "REXR",
+        "OPCH",
+        "JKHY",
+        "CPRI",
+        "TXNM",
+        "MTD",
+        "OTIS",
+        "POR",
+        "CNM",
+        "SN",
+        "CHDN",
+        "DTE",
+        "HON",
+        "RBC",
+        "USFD",
+        "CIEN",
+        "ORA",
+        "CW",
+        "AXON",
+        "COO",
+        "CASY",
+        "BURL"
       ]
     },
     {
@@ -25,18 +55,15 @@
         "OKTA",
         "RVTY",
         "ILMN",
+        "DINO",
         "DOCU",
-        "AVTR",
-        "NOW",
         "CRWD",
         "DT",
         "DBX",
         "TMO",
         "FTNT",
         "IT",
-        "SHC",
         "PANW",
-        "DXCM",
         "SN"
       ]
     },
@@ -47,10 +74,11 @@
         "ANF",
         "CNH",
         "OKTA",
-        "SWKS",
         "RVTY",
         "CRM",
+        "SWKS",
         "SMTC",
+        "META",
         "ILMN",
         "DELL",
         "DINO",
@@ -58,9 +86,8 @@
         "AVTR",
         "NOW",
         "VLO",
-        "MPC",
-        "IQV",
-        "CRWD"
+        "CRWD",
+        "MPC"
       ]
     },
     {
@@ -72,7 +99,46 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "RVTY",
+        "SMTC",
+        "ILMN",
+        "AVTR",
+        "ARE",
+        "PEGA",
+        "DT",
+        "DBX",
+        "TMO",
+        "PSKY",
+        "EBAY",
+        "MANH",
+        "BRKR",
+        "EQH",
+        "LITE",
+        "CRBG",
+        "UHS",
+        "OPCH",
+        "SHC",
+        "NTNX",
+        "JKHY",
+        "BRK-B",
+        "KDP",
+        "DIS",
+        "CLF",
+        "TXNM",
+        "EHC",
+        "UGI",
+        "CLH",
+        "WBD",
+        "MTD",
+        "EW",
+        "DOW",
+        "AVY",
+        "ENSG",
+        "BMRN",
+        "SN",
+        "LDOS"
+      ]
     },
     {
       "name": "PP Count",
