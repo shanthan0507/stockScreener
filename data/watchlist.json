@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "buckets": [
     {
       "name": "21EMA",
@@ -9,44 +9,14 @@
       "name": "4% Bullish",
       "tickers": [
         "SMTC",
-        "BRKR",
-        "LITE",
-        "OPCH",
-        "CPRI",
-        "EW"
+        "SMCI",
+        "VICR"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "RVTY",
-        "SMTC",
-        "ILMN",
-        "DELL",
-        "PSKY",
-        "BRKR",
-        "REXR",
-        "OPCH",
-        "JKHY",
-        "CPRI",
-        "TXNM",
-        "MTD",
-        "OTIS",
-        "POR",
-        "CNM",
-        "SN",
-        "CHDN",
-        "DTE",
-        "HON",
-        "RBC",
-        "USFD",
-        "CIEN",
-        "ORA",
-        "CW",
-        "AXON",
-        "COO",
-        "CASY",
-        "BURL"
+        "GNRC"
       ]
     },
     {
@@ -54,40 +24,43 @@
       "tickers": [
         "OKTA",
         "RVTY",
-        "ILMN",
-        "DINO",
-        "DOCU",
         "CRWD",
-        "DT",
-        "DBX",
-        "TMO",
+        "DINO",
+        "ILMN",
+        "AVTR",
+        "DOCU",
         "FTNT",
-        "IT",
+        "DT",
+        "TMO",
         "PANW",
-        "SN"
+        "MRNA"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "MRNA",
-        "ANF",
-        "CNH",
-        "OKTA",
-        "RVTY",
-        "CRM",
-        "SWKS",
         "SMTC",
-        "META",
-        "ILMN",
+        "OKTA",
         "DELL",
-        "DINO",
-        "DOCU",
-        "AVTR",
-        "NOW",
-        "VLO",
+        "CNH",
+        "ANF",
+        "SWKS",
+        "RVTY",
+        "META",
         "CRWD",
-        "MPC"
+        "DINO",
+        "INTC",
+        "ILMN",
+        "VLO",
+        "CRM",
+        "AMD",
+        "MPC",
+        "CLF",
+        "HPE",
+        "HPQ",
+        "AVTR",
+        "FFIV",
+        "DOCU"
       ]
     },
     {
@@ -100,44 +73,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "RVTY",
-        "SMTC",
-        "ILMN",
-        "AVTR",
-        "ARE",
-        "PEGA",
-        "DT",
-        "DBX",
-        "TMO",
-        "PSKY",
-        "EBAY",
-        "MANH",
-        "BRKR",
-        "EQH",
-        "LITE",
-        "CRBG",
-        "UHS",
-        "OPCH",
-        "SHC",
-        "NTNX",
-        "JKHY",
-        "BRK-B",
-        "KDP",
-        "DIS",
-        "CLF",
-        "TXNM",
-        "EHC",
-        "UGI",
-        "CLH",
-        "WBD",
-        "MTD",
-        "EW",
-        "DOW",
-        "AVY",
-        "ENSG",
-        "BMRN",
-        "SN",
-        "LDOS"
+        "SMCI",
+        "VICR"
       ]
     },
     {
@@ -147,7 +84,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "QLYS"
+        "BRKR"
       ]
     }
   ]
