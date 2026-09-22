@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,101 +8,61 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "OKTA",
-        "INTC",
-        "META",
-        "AMD",
-        "CRWD",
-        "DOCN",
-        "QCOM",
-        "MRNA",
+        "VICR",
+        "GME",
         "TWLO",
-        "FFIV",
-        "SNX",
-        "SANM",
-        "SMCI",
-        "GDDY",
-        "WBD",
-        "AKAM",
         "RMBS",
-        "OLLI",
-        "P",
-        "DUOL",
-        "UAL",
-        "LSCC",
-        "MPWR"
+        "CPRI",
+        "AZO"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "INTC",
-        "META",
-        "AMD",
-        "DT",
-        "SNX",
-        "VRSN",
         "WBD",
-        "COIN",
-        "RMBS",
-        "P",
-        "SITM",
-        "NWE",
-        "DAL",
-        "AEP",
-        "TPL",
-        "TJX",
-        "SSD",
-        "NNN",
-        "LEN",
-        "NKE",
-        "THO",
-        "BAX",
-        "PII",
-        "ESAB",
-        "BURL"
+        "AZO",
+        "PSKY"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "META",
+        "OKTA",
         "AMD",
+        "META",
         "MRNA",
-        "TWLO",
-        "SMCI",
-        "GDDY",
-        "P"
+        "TWLO"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "SMTC",
         "OKTA",
-        "BE",
+        "SMTC",
         "INTC",
-        "META",
-        "SWKS",
-        "DELL",
+        "VICR",
+        "BE",
         "AMD",
+        "GME",
+        "SWKS",
+        "META",
+        "MRNA",
         "CRWD",
         "DOCN",
-        "ANF",
-        "QCOM",
-        "MRNA",
+        "DELL",
         "TWLO",
+        "SNDK",
+        "QCOM",
+        "ANF",
+        "HOOD",
+        "MU",
         "FFIV",
         "HPE",
-        "RVTY",
-        "DT",
-        "FTNT",
-        "HOOD",
         "CNH",
-        "CRM",
-        "VLO",
+        "RVTY",
+        "SMCI",
         "DINO",
-        "HPQ"
+        "DT"
       ]
     },
     {
@@ -114,23 +74,8 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "INTC",
-        "META",
-        "AMD",
-        "MRNA",
-        "SNX",
-        "SANM",
-        "VRSN",
-        "MRVL",
-        "WBD",
-        "RMBS",
-        "EXPD",
-        "A",
-        "AMZN",
-        "AMT",
-        "TRGP",
-        "ELF",
-        "DRI"
+        "VICR",
+        "AES"
       ]
     },
     {
