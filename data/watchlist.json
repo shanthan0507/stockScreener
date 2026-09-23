@@ -8,19 +8,44 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "OKTA",
         "VICR",
-        "GME",
+        "CRWD",
         "TWLO",
-        "SNX"
+        "SANM",
+        "AVT",
+        "CPRI",
+        "AAON",
+        "MTD",
+        "BHF",
+        "CDNS",
+        "CXT"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "OKTA",
+        "VICR",
+        "GME",
+        "META",
+        "TWLO",
         "SNX",
-        "PSKY",
+        "AAON",
+        "BHF",
+        "IR",
+        "DRI",
+        "BA",
         "AZO",
-        "KBH"
+        "ESS",
+        "LEN",
+        "TMUS",
+        "THO",
+        "GIS",
+        "ROL",
+        "VVV",
+        "ESAB",
+        "CASY"
       ]
     },
     {
@@ -29,9 +54,10 @@
         "OKTA",
         "CRWD",
         "META",
-        "AMD",
+        "TWLO",
         "MRNA",
-        "TWLO"
+        "PANW",
+        "PLTR"
       ]
     },
     {
@@ -39,30 +65,30 @@
       "tickers": [
         "OKTA",
         "VICR",
-        "SMTC",
         "INTC",
+        "SMTC",
         "CRWD",
-        "GME",
         "SWKS",
+        "GME",
         "META",
-        "BE",
-        "AMD",
-        "MRNA",
         "TWLO",
-        "DELL",
+        "AMD",
         "DOCN",
+        "BE",
         "QCOM",
         "SNDK",
-        "SNX",
-        "HOOD",
+        "DELL",
         "FFIV",
-        "HPE",
+        "SANM",
         "DT",
+        "SNX",
         "AVT",
-        "SMCI",
         "ANF",
-        "MU",
-        "SANM"
+        "FTNT",
+        "HPE",
+        "CNH",
+        "STX",
+        "RVTY"
       ]
     },
     {
@@ -74,7 +100,19 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "SNX"
+        "VICR",
+        "GME",
+        "TWLO",
+        "SANM",
+        "SNX",
+        "AVT",
+        "KEYS",
+        "PLTR",
+        "WMT",
+        "MSM",
+        "PM",
+        "WAB",
+        "EMR"
       ]
     },
     {
@@ -84,8 +122,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "VICR",
-        "MRNA"
+        "VICR"
       ]
     }
   ]
