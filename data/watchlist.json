@@ -8,15 +8,43 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "META",
+        "ILMN",
+        "RVTY",
         "P",
-        "GDDY"
+        "A",
+        "GDDY",
+        "CRL",
+        "RL"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "GME",
+        "META",
+        "TWLO",
         "P",
-        "GDDY"
+        "WBD",
+        "DVN",
+        "BHF",
+        "GDDY",
+        "CRL",
+        "FR",
+        "CTAS",
+        "TCBI",
+        "NFG",
+        "AZO",
+        "VNOM",
+        "SYY",
+        "PB",
+        "CAH",
+        "NYT",
+        "ALL",
+        "KBH",
+        "RCL",
+        "KNF",
+        "ABNB"
       ]
     },
     {
@@ -24,48 +52,49 @@
       "tickers": [
         "OKTA",
         "CRWD",
-        "TWLO",
         "META",
+        "TWLO",
         "AMD",
         "MRNA",
-        "P",
         "ILMN",
+        "P",
         "DDOG",
         "OLLI",
         "A",
-        "PLTR"
+        "PLTR",
+        "RGEN"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
         "OKTA",
-        "VICR",
         "INTC",
+        "VICR",
         "CRWD",
         "GME",
         "SMTC",
-        "SWKS",
-        "TWLO",
         "META",
+        "TWLO",
+        "SWKS",
         "AMD",
+        "MRNA",
         "DOCN",
         "ANF",
-        "MRNA",
-        "P",
         "BE",
-        "QCOM",
         "ILMN",
-        "FFIV",
-        "DT",
         "RVTY",
+        "QCOM",
+        "P",
+        "DT",
+        "SNDK",
+        "FFIV",
         "FTNT",
         "SANM",
         "CRM",
-        "DINO",
-        "SNDK",
-        "HPE",
-        "AVT"
+        "AVT",
+        "DELL",
+        "HPE"
       ]
     },
     {
@@ -77,8 +106,23 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "SNX",
-        "GDDY"
+        "GME",
+        "META",
+        "AMD",
+        "AVT",
+        "PLTR",
+        "CRBG",
+        "HALO",
+        "RGEN",
+        "DVN",
+        "AME",
+        "AMG",
+        "GDDY",
+        "BIO",
+        "TTC",
+        "LLY",
+        "PK",
+        "EXLS"
       ]
     },
     {
@@ -89,7 +133,8 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "VICR",
-        "TWLO"
+        "TWLO",
+        "MRNA"
       ]
     }
   ]
