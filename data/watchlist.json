@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-28",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,93 +8,73 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "BE",
-        "DELL",
-        "AAON",
-        "SMCI",
-        "DDOG",
-        "VIAV",
-        "MCHP",
-        "ON",
-        "HUM",
-        "ALGM"
+        "TWLO",
+        "GAP",
+        "BURL"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "AAON",
-        "VIAV",
-        "AKAM",
-        "HUM",
-        "MOG-A",
-        "SNX",
-        "COST",
+        "VFC",
         "MDT",
-        "AZO",
-        "OGE",
-        "NWE",
-        "BKH",
-        "CVS",
-        "TOL",
-        "POR",
-        "AEE",
-        "AYI",
-        "IVZ",
-        "CPT",
-        "ACM",
-        "MLM",
-        "EVR",
-        "O",
-        "PYPL",
-        "VMC",
-        "NLY",
-        "SF",
-        "SLGN",
-        "PLNT"
+        "MTN",
+        "PSKY",
+        "HQY",
+        "NNN",
+        "MAT",
+        "ROL",
+        "CMG",
+        "CASY",
+        "SFM"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "MRNA",
-        "AMD",
-        "META",
         "P",
-        "ILMN",
-        "OLLI",
+        "OKTA",
         "TWLO",
-        "SMCI",
-        "A"
+        "CRWD",
+        "VTRS",
+        "RGEN",
+        "PANW",
+        "GAP",
+        "ELF",
+        "SN",
+        "NWSA",
+        "FIVE"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "MRNA",
         "VICR",
-        "INTC",
-        "SWKS",
-        "BE",
-        "AMD",
-        "META",
-        "SMTC",
+        "MRNA",
         "P",
-        "QCOM",
-        "SNDK",
-        "DELL",
+        "GME",
+        "SMTC",
+        "SWKS",
+        "AMD",
+        "INTC",
         "ILMN",
-        "RVTY",
-        "HPE",
-        "MU",
+        "BE",
+        "META",
         "DOCN",
-        "CNH",
-        "TWLO",
-        "AVT",
         "OKTA",
-        "SMCI",
-        "VLO",
-        "ARW"
+        "TWLO",
+        "HPE",
+        "DELL",
+        "CRWD",
+        "SITM",
+        "RVTY",
+        "MRVL",
+        "SNDK",
+        "AVT",
+        "QCOM",
+        "A",
+        "CNH",
+        "SANM"
       ]
     },
     {
@@ -106,14 +86,13 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "AAON",
-        "SMCI",
         "ISRG",
-        "DDOG",
+        "RGEN",
         "MCHP",
-        "MET",
-        "HUM",
-        "CDNS"
+        "VFC",
+        "MAR",
+        "PK",
+        "MDT"
       ]
     },
     {
@@ -122,12 +101,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "MRNA",
-        "VICR",
-        "P",
-        "RMBS"
-      ]
+      "tickers": []
     }
   ]
 }
