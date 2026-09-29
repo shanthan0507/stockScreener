@@ -7,93 +7,29 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "TWLO",
-        "GAP",
-        "BURL"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "VFC",
-        "MDT",
-        "MTN",
-        "PSKY",
-        "HQY",
-        "NNN",
-        "MAT",
-        "ROL",
-        "CMG",
-        "CASY",
-        "SFM"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "P",
-        "OKTA",
-        "TWLO",
-        "CRWD",
-        "VTRS",
-        "RGEN",
-        "PANW",
-        "GAP",
-        "ELF",
-        "SN",
-        "NWSA",
-        "FIVE"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
       "tickers": [
-        "VICR",
-        "MRNA",
-        "P",
-        "GME",
-        "SMTC",
-        "SWKS",
-        "AMD",
-        "INTC",
-        "ILMN",
-        "BE",
-        "META",
-        "DOCN",
-        "OKTA",
-        "TWLO",
-        "HPE",
-        "DELL",
-        "CRWD",
-        "SITM",
-        "RVTY",
-        "MRVL",
-        "SNDK",
-        "AVT",
-        "QCOM",
-        "A",
-        "CNH",
-        "SANM"
+        "HUBB"
       ]
     },
     {
       "name": "VCS",
-      "tickers": [
-        "LNTH"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "ISRG",
-        "RGEN",
-        "MCHP",
-        "VFC",
-        "MAR",
-        "PK",
-        "MDT"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -101,7 +37,12 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "P",
+        "RMBS",
+        "VICR"
+      ]
     }
   ]
 }
