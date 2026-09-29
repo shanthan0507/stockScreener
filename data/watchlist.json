@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,25 +7,65 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "BE",
+        "CCL",
+        "RCL"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "CCL",
+        "MTN",
+        "AIG",
+        "CBOE",
+        "GEN"
+      ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "P",
+        "TWLO",
+        "OKTA",
+        "CRWD",
+        "NTAP",
+        "LITE",
+        "GAP"
+      ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "HUBB"
+        "VICR",
+        "MRNA",
+        "BE",
+        "P",
+        "SMTC",
+        "INTC",
+        "AMD",
+        "SWKS",
+        "META",
+        "ILMN",
+        "MRVL",
+        "DOCN",
+        "TWLO",
+        "DELL",
+        "RVTY",
+        "HPE",
+        "OKTA",
+        "TER",
+        "SITM",
+        "A",
+        "AVT"
       ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "LNTH"
+      ]
     },
     {
       "name": "Pocket Pivot",
@@ -37,12 +77,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "MRNA",
-        "P",
-        "RMBS",
-        "VICR"
-      ]
+      "tickers": []
     }
   ]
 }
