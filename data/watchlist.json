@@ -9,7 +9,11 @@
       "name": "4% Bullish",
       "tickers": [
         "BE",
+        "AMAT",
+        "LITE",
         "CCL",
+        "EIX",
+        "WING",
         "RCL"
       ]
     },
@@ -19,7 +23,31 @@
         "CCL",
         "MTN",
         "AIG",
+        "EIX",
+        "RCL",
+        "IDA",
+        "PNW",
+        "AEE",
+        "CDP",
+        "SO",
+        "LNT",
+        "EXC",
+        "ETR",
+        "CMS",
+        "AYI",
+        "POR",
+        "NCLH",
+        "IRT",
+        "DTE",
+        "BWXT",
+        "BA",
+        "FNF",
+        "CRH",
         "CBOE",
+        "CHDN",
+        "VC",
+        "SMG",
+        "COO",
         "GEN"
       ]
     },
@@ -29,10 +57,12 @@
         "P",
         "TWLO",
         "OKTA",
+        "OLLI",
         "CRWD",
         "NTAP",
         "LITE",
-        "GAP"
+        "GAP",
+        "NTNX"
       ]
     },
     {
@@ -43,22 +73,21 @@
         "BE",
         "P",
         "SMTC",
-        "INTC",
-        "AMD",
         "SWKS",
+        "INTC",
         "META",
+        "AMD",
         "ILMN",
         "MRVL",
-        "DOCN",
         "TWLO",
-        "DELL",
+        "DOCN",
         "RVTY",
-        "HPE",
         "OKTA",
-        "TER",
+        "DELL",
+        "HPE",
         "SITM",
-        "A",
-        "AVT"
+        "AVT",
+        "ONTO"
       ]
     },
     {
@@ -69,7 +98,15 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "AVT",
+        "AMAT",
+        "EXEL",
+        "LITE",
+        "HUM",
+        "AMGN",
+        "CDNS"
+      ]
     },
     {
       "name": "PP Count",
