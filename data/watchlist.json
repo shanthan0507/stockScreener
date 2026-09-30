@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,86 +8,64 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "BE",
-        "AMAT",
-        "LITE",
-        "CCL",
-        "EIX",
-        "WING",
-        "RCL"
+        "UTHR",
+        "SNPS"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CCL",
-        "MTN",
-        "AIG",
-        "EIX",
-        "RCL",
-        "IDA",
-        "PNW",
-        "AEE",
-        "CDP",
-        "SO",
-        "LNT",
-        "EXC",
-        "ETR",
-        "CMS",
-        "AYI",
-        "POR",
-        "NCLH",
-        "IRT",
-        "DTE",
-        "BWXT",
-        "BA",
-        "FNF",
-        "CRH",
-        "CBOE",
-        "CHDN",
-        "VC",
-        "SMG",
-        "COO",
+        "RVTY",
+        "TLN",
+        "UTHR",
         "GEN"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "P",
         "TWLO",
         "OKTA",
-        "OLLI",
         "CRWD",
         "NTAP",
-        "LITE",
+        "FTNT",
+        "PANW",
+        "DOCS",
+        "PBF",
+        "NTNX",
         "GAP",
-        "NTNX"
+        "DBX",
+        "ACN"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
         "VICR",
-        "MRNA",
-        "BE",
         "P",
         "SMTC",
-        "SWKS",
         "INTC",
-        "META",
-        "AMD",
         "ILMN",
-        "MRVL",
+        "AMD",
+        "GME",
+        "BE",
         "TWLO",
-        "DOCN",
-        "RVTY",
-        "OKTA",
         "DELL",
         "HPE",
+        "META",
+        "SWKS",
+        "OKTA",
+        "DOCN",
+        "MRVL",
+        "MRNA",
+        "CRWD",
+        "RVTY",
+        "DDOG",
+        "ONTO",
+        "TER",
+        "ENTG",
         "SITM",
-        "AVT",
-        "ONTO"
+        "BRKR"
       ]
     },
     {
@@ -99,13 +77,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "AVT",
-        "AMAT",
-        "EXEL",
-        "LITE",
-        "HUM",
-        "AMGN",
-        "CDNS"
+        "UTHR"
       ]
     },
     {
