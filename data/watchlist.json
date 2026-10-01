@@ -7,78 +7,27 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "UTHR",
-        "SNPS"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "RVTY",
-        "TLN",
-        "UTHR",
-        "GEN"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "TWLO",
-        "OKTA",
-        "CRWD",
-        "NTAP",
-        "FTNT",
-        "PANW",
-        "DOCS",
-        "PBF",
-        "NTNX",
-        "GAP",
-        "DBX",
-        "ACN"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "VICR",
-        "P",
-        "SMTC",
-        "INTC",
-        "ILMN",
-        "AMD",
-        "GME",
-        "BE",
-        "TWLO",
-        "DELL",
-        "HPE",
-        "META",
-        "SWKS",
-        "OKTA",
-        "DOCN",
-        "MRVL",
-        "MRNA",
-        "CRWD",
-        "RVTY",
-        "DDOG",
-        "ONTO",
-        "TER",
-        "ENTG",
-        "SITM",
-        "BRKR"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
-      "tickers": [
-        "LNTH"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "UTHR"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
