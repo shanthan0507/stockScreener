@@ -8,70 +8,57 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SMTC",
-        "VIAV",
-        "NTAP",
-        "LSCC",
+        "HPE",
+        "COHR",
+        "AVT",
         "ARW",
         "ALGM",
-        "TSLA"
+        "ECHO",
+        "BTSG"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "SYNA",
-        "ON",
+        "GME",
+        "AVT",
+        "ARW",
         "ALGM",
+        "EXPD",
+        "IDA",
+        "LNT",
+        "AYI",
         "CTRE",
+        "BA",
         "EFX"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "P",
-        "VIAV",
-        "TER",
-        "HPE",
         "LITE",
+        "HPE",
         "ENTG",
-        "OKTA",
-        "NTAP",
-        "SNPS",
-        "PBF",
         "ACN"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "VICR",
-        "SMTC",
-        "P",
-        "VIAV",
         "AMD",
-        "RMBS",
-        "TER",
-        "DOCN",
         "INTC",
-        "MRVL",
-        "ONTO",
         "DDOG",
-        "HPE",
+        "GME",
         "LITE",
-        "ENTG",
+        "DOCN",
+        "HPE",
         "COHR",
-        "MRNA",
-        "OKTA",
+        "ENTG",
         "CRWD",
-        "SYNA",
-        "SITM",
-        "MTSI",
         "AMAT",
+        "ILMN",
         "BE",
-        "TWLO",
-        "NTAP"
+        "KLAC"
       ]
     },
     {
@@ -83,8 +70,14 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "KEYS",
+        "AVT",
         "ARW",
-        "ALGM"
+        "ALGM",
+        "JCI",
+        "CAT",
+        "EXPD",
+        "ABBV"
       ]
     },
     {
@@ -93,7 +86,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "UTHR"
+      ]
     }
   ]
 }
