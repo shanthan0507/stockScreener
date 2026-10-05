@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-05",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,76 +8,148 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "HPE",
-        "COHR",
-        "AVT",
-        "ARW",
-        "ALGM",
+        "ILMN",
+        "RGEN",
+        "MAT",
         "ECHO",
-        "BTSG"
+        "CRL",
+        "STX",
+        "BSY",
+        "ADSK",
+        "HUM",
+        "GWRE",
+        "CLF"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "GME",
-        "AVT",
-        "ARW",
-        "ALGM",
+        "PTC",
+        "TWLO",
+        "MAT",
+        "WBD",
+        "ECHO",
+        "ABBV",
+        "BSY",
         "EXPD",
-        "IDA",
-        "LNT",
-        "AYI",
-        "CTRE",
-        "BA",
-        "EFX"
+        "GWRE",
+        "VRSN",
+        "AFG",
+        "CLF",
+        "VST",
+        "INGR",
+        "ESAB",
+        "MDT",
+        "PEG",
+        "OLN",
+        "HOG",
+        "AXTA",
+        "PSKY",
+        "SPXC",
+        "CVS",
+        "TSCO",
+        "BBWI",
+        "NKE",
+        "BYD",
+        "TXRH",
+        "EFX",
+        "FICO",
+        "CTVA"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "LITE",
-        "HPE",
-        "ENTG",
-        "ACN"
+        "MRNA",
+        "PTC",
+        "ILMN",
+        "PBF",
+        "RGEN",
+        "MAT",
+        "CORT",
+        "GWRE",
+        "CLF",
+        "ANF",
+        "GPN"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "AMD",
-        "INTC",
-        "DDOG",
-        "GME",
-        "LITE",
-        "DOCN",
-        "HPE",
-        "COHR",
-        "ENTG",
-        "CRWD",
-        "AMAT",
+        "VICR",
+        "P",
+        "MRNA",
+        "PTC",
         "ILMN",
-        "BE",
-        "KLAC"
+        "VIAV",
+        "AMD",
+        "HPE",
+        "GME",
+        "SMTC",
+        "DDOG",
+        "TWLO",
+        "OKTA",
+        "CRWD",
+        "TER",
+        "SNPS",
+        "LITE",
+        "MTSI",
+        "PANW",
+        "DOCN",
+        "ONTO",
+        "MRVL",
+        "INTC",
+        "MPWR",
+        "SYNA",
+        "RVTY"
       ]
     },
     {
       "name": "VCS",
       "tickers": [
+        "WBD",
         "LNTH"
       ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "KEYS",
-        "AVT",
-        "ARW",
-        "ALGM",
-        "JCI",
+        "MRNA",
+        "TWLO",
+        "QLYS",
+        "ON",
+        "KLAC",
+        "MAT",
+        "PWR",
+        "ECHO",
+        "NTNX",
+        "WAT",
+        "MUR",
+        "MSFT",
+        "MEDP",
+        "STX",
         "CAT",
+        "ABBV",
+        "BSY",
+        "WAB",
         "EXPD",
-        "ABBV"
+        "BTSG",
+        "EQH",
+        "RS",
+        "CLH",
+        "APG",
+        "NOVT",
+        "LIN",
+        "MCK",
+        "HUM",
+        "CACI",
+        "VRSN",
+        "EHC",
+        "IQV",
+        "MET",
+        "TRGP",
+        "ADM",
+        "ANF"
       ]
     },
     {
@@ -87,7 +159,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "UTHR"
+        "PTC"
       ]
     }
   ]
