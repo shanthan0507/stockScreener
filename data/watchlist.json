@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,27 +7,94 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "OPCH",
+        "MRVL",
+        "CIEN",
+        "FN",
+        "TLN",
+        "VST",
+        "NXT",
+        "NCLH",
+        "CEG"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "PTC",
+        "OPCH",
+        "MRVL",
+        "CIEN",
+        "TLN",
+        "WBD",
+        "VST",
+        "CEG",
+        "PEG",
+        "PSKY",
+        "CTVA"
+      ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "PTC",
+        "OPCH",
+        "MRVL",
+        "GWRE",
+        "GAP",
+        "TRMB",
+        "CEG",
+        "CLF"
+      ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "VICR",
+        "P",
+        "PTC",
+        "MRNA",
+        "CRWD",
+        "DDOG",
+        "OPCH",
+        "GME",
+        "ILMN",
+        "OKTA",
+        "AMD",
+        "SNPS",
+        "MTSI",
+        "MRVL",
+        "HPE",
+        "SYNA",
+        "TWLO",
+        "PANW",
+        "SMTC",
+        "NTAP",
+        "META",
+        "DT"
+      ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "WBD",
+        "LNTH"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "OPCH",
+        "MRVL",
+        "CIEN",
+        "FN",
+        "MAT",
+        "FIX",
+        "VST",
+        "NXT",
+        "CEG"
+      ]
     },
     {
       "name": "PP Count",
@@ -35,7 +102,10 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "PTC",
+        "OPCH"
+      ]
     }
   ]
 }
