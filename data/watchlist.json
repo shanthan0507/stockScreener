@@ -7,150 +7,27 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "ILMN",
-        "RGEN",
-        "MAT",
-        "ECHO",
-        "CRL",
-        "STX",
-        "BSY",
-        "ADSK",
-        "HUM",
-        "GWRE",
-        "CLF"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "PTC",
-        "TWLO",
-        "MAT",
-        "WBD",
-        "ECHO",
-        "ABBV",
-        "BSY",
-        "EXPD",
-        "GWRE",
-        "VRSN",
-        "AFG",
-        "CLF",
-        "VST",
-        "INGR",
-        "ESAB",
-        "MDT",
-        "PEG",
-        "OLN",
-        "HOG",
-        "AXTA",
-        "PSKY",
-        "SPXC",
-        "CVS",
-        "TSCO",
-        "BBWI",
-        "NKE",
-        "BYD",
-        "TXRH",
-        "EFX",
-        "FICO",
-        "CTVA"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "MRNA",
-        "PTC",
-        "ILMN",
-        "PBF",
-        "RGEN",
-        "MAT",
-        "CORT",
-        "GWRE",
-        "CLF",
-        "ANF",
-        "GPN"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "VICR",
-        "P",
-        "MRNA",
-        "PTC",
-        "ILMN",
-        "VIAV",
-        "AMD",
-        "HPE",
-        "GME",
-        "SMTC",
-        "DDOG",
-        "TWLO",
-        "OKTA",
-        "CRWD",
-        "TER",
-        "SNPS",
-        "LITE",
-        "MTSI",
-        "PANW",
-        "DOCN",
-        "ONTO",
-        "MRVL",
-        "INTC",
-        "MPWR",
-        "SYNA",
-        "RVTY"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
-      "tickers": [
-        "WBD",
-        "LNTH"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "MRNA",
-        "TWLO",
-        "QLYS",
-        "ON",
-        "KLAC",
-        "MAT",
-        "PWR",
-        "ECHO",
-        "NTNX",
-        "WAT",
-        "MUR",
-        "MSFT",
-        "MEDP",
-        "STX",
-        "CAT",
-        "ABBV",
-        "BSY",
-        "WAB",
-        "EXPD",
-        "BTSG",
-        "EQH",
-        "RS",
-        "CLH",
-        "APG",
-        "NOVT",
-        "LIN",
-        "MCK",
-        "HUM",
-        "CACI",
-        "VRSN",
-        "EHC",
-        "IQV",
-        "MET",
-        "TRGP",
-        "ADM",
-        "ANF"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -158,9 +35,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "PTC"
-      ]
+      "tickers": []
     }
   ]
 }
