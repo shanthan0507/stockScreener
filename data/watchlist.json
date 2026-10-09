@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,32 +8,83 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "SKYD"
+        "MRNA",
+        "CIEN",
+        "GME",
+        "CLF",
+        "CCI",
+        "AMT"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "SKYD"
+        "SYNA",
+        "HUM",
+        "CCI",
+        "AMT",
+        "SBAC"
       ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "P",
+        "MRNA",
+        "PTC",
+        "OPCH",
+        "PLTR",
+        "MAT",
+        "GWRE",
+        "ADSK",
+        "CLF",
+        "CEG",
+        "BAH"
+      ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "SKYD"
+        "P",
+        "MRNA",
+        "PTC",
+        "OKTA",
+        "VICR",
+        "QLYS",
+        "ILMN",
+        "OPCH",
+        "CRWD",
+        "DDOG",
+        "TWLO",
+        "SNPS",
+        "PANW",
+        "GME",
+        "FTNT",
+        "RVTY",
+        "DT",
+        "PLTR",
+        "FORM",
+        "LITE",
+        "MTD",
+        "CVLT",
+        "MAT"
       ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "LNTH"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "MRNA",
+        "CCI",
+        "AMT",
+        "ELV",
+        "SBAC"
+      ]
     },
     {
       "name": "PP Count",
@@ -42,8 +93,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "OPCH",
-        "PTC"
+        "PTC",
+        "OPCH"
       ]
     }
   ]
