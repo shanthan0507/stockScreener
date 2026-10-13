@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,45 +8,33 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "VFC",
-        "MANH"
+        "TTMI"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "TLN",
         "VFC",
-        "CCI",
-        "BIIB",
-        "RGA",
-        "NOVT",
-        "MANH",
         "RNR",
-        "BF-B",
-        "ECHO",
-        "MDT",
         "ACI",
-        "DPZ",
-        "LIVN",
-        "AVNT",
-        "GD",
-        "ADC",
-        "SBUX",
-        "OZK",
-        "TEX",
-        "TMUS",
-        "FICO"
+        "VNOM"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "DT",
-        "SN",
-        "ACN",
-        "BDX",
-        "MDT"
+        "PBF",
+        "MPC",
+        "VLO",
+        "DINO",
+        "META",
+        "ANF",
+        "PSX",
+        "PR",
+        "MDT",
+        "COP",
+        "CDW",
+        "CNH"
       ]
     },
     {
@@ -56,50 +44,42 @@
         "MRNA",
         "PTC",
         "VICR",
-        "ILMN",
+        "TLN",
         "SNPS",
         "OPCH",
         "MTSI",
-        "NTAP",
-        "HPE",
         "GME",
-        "SYNA",
-        "DDOG",
+        "NTAP",
+        "FORM",
+        "MAT",
         "ENTG",
-        "DT",
-        "TWLO",
-        "OKTA",
-        "MTD",
+        "HPE",
+        "DDOG",
+        "SYNA",
+        "PBF",
+        "ILMN",
         "MRVL",
-        "RVTY"
+        "PLTR",
+        "OLLI",
+        "MTD"
       ]
     },
     {
       "name": "VCS",
-      "tickers": [
-        "LNTH"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "DT",
-        "VFC",
-        "TJX",
-        "SN",
-        "CCI",
-        "ABBV",
-        "KDP",
-        "RGA",
-        "ANF",
-        "MANH",
-        "RNR",
-        "GWW",
-        "EHC",
-        "AES",
-        "YUM",
-        "ICE",
-        "ACI"
+        "META",
+        "VEEV",
+        "IFF",
+        "BF-B",
+        "PR",
+        "ACI",
+        "CDW",
+        "OXY",
+        "VNOM"
       ]
     },
     {
