@@ -8,16 +8,32 @@
     {
       "name": "4% Bullish",
       "tickers": [
+        "PBF",
         "TTMI"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
+        "MTSI",
         "VFC",
+        "WCC",
+        "DHR",
+        "IFF",
         "RNR",
+        "TTMI",
+        "ELV",
+        "MOH",
+        "MDT",
         "ACI",
-        "VNOM"
+        "MRSH",
+        "OTIS",
+        "OGS",
+        "VNOM",
+        "ATR",
+        "O",
+        "TEX",
+        "KBH"
       ]
     },
     {
@@ -30,9 +46,10 @@
         "META",
         "ANF",
         "PSX",
-        "PR",
+        "APA",
         "MDT",
         "COP",
+        "PR",
         "CDW",
         "CNH"
       ]
@@ -71,15 +88,41 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
+        "MTSI",
+        "GME",
+        "MTD",
+        "RMBS",
+        "ADI",
+        "DINO",
         "META",
+        "JCI",
         "VEEV",
+        "ANF",
+        "NXT",
+        "FFIV",
+        "TXN",
+        "WCC",
+        "AVT",
+        "TEL",
+        "IEX",
+        "DHR",
+        "MANH",
+        "CART",
+        "TTC",
+        "V",
         "IFF",
+        "GWW",
         "BF-B",
+        "XOM",
+        "PGR",
+        "CVX",
+        "COP",
         "PR",
         "ACI",
         "CDW",
         "OXY",
-        "VNOM"
+        "VNOM",
+        "FANG"
       ]
     },
     {
