@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,78 +7,56 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "PBF",
-        "TTMI"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "MTSI",
-        "VFC",
-        "WCC",
-        "DHR",
-        "IFF",
-        "RNR",
-        "TTMI",
-        "ELV",
-        "MOH",
-        "MDT",
-        "ACI",
-        "MRSH",
-        "OTIS",
-        "OGS",
-        "VNOM",
-        "ATR",
-        "O",
-        "TEX",
-        "KBH"
+        "FAST"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
+        "OLLI",
         "PBF",
         "MPC",
         "VLO",
         "DINO",
-        "META",
-        "ANF",
         "PSX",
-        "APA",
-        "MDT",
+        "BF-B",
+        "HALO",
+        "XOM",
+        "ANF",
         "COP",
-        "PR",
-        "CDW",
-        "CNH"
+        "OVV",
+        "MDT",
+        "CTSH",
+        "CDW"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "P",
         "MRNA",
         "PTC",
+        "P",
         "VICR",
-        "TLN",
+        "SYNA",
         "SNPS",
         "OPCH",
-        "MTSI",
         "GME",
-        "NTAP",
-        "FORM",
         "MAT",
-        "ENTG",
-        "HPE",
-        "DDOG",
-        "SYNA",
-        "PBF",
-        "ILMN",
-        "MRVL",
-        "PLTR",
         "OLLI",
-        "MTD"
+        "DDOG",
+        "ILMN",
+        "MTD",
+        "PBF",
+        "NTAP",
+        "MPC",
+        "DT",
+        "PLTR",
+        "DOCS"
       ]
     },
     {
@@ -88,41 +66,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "MTSI",
-        "GME",
-        "MTD",
-        "RMBS",
-        "ADI",
-        "DINO",
-        "META",
-        "JCI",
-        "VEEV",
-        "ANF",
-        "NXT",
-        "FFIV",
-        "TXN",
-        "WCC",
-        "AVT",
-        "TEL",
-        "IEX",
-        "DHR",
-        "MANH",
-        "CART",
-        "TTC",
-        "V",
-        "IFF",
-        "GWW",
-        "BF-B",
-        "XOM",
-        "PGR",
-        "CVX",
-        "COP",
-        "PR",
-        "ACI",
-        "CDW",
-        "OXY",
-        "VNOM",
-        "FANG"
+        "FAST"
       ]
     },
     {
