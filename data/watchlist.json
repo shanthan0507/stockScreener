@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,60 +8,33 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "OLLI",
-        "BBWI",
-        "HALO",
-        "DOCU",
-        "UNH"
+        "BLK",
+        "KMB"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "VFC",
-        "COST",
-        "BIIB",
-        "HALO",
-        "FAST",
-        "GWW",
-        "UNH",
-        "RGA",
-        "OGE",
-        "ACI",
-        "ELV",
-        "BLK",
-        "IDXX",
-        "MUR",
-        "MDT",
-        "KMB",
-        "KEX",
-        "VRTX",
-        "WSO",
-        "CNO",
-        "LHX",
-        "ORI",
-        "WFC",
-        "FFIN",
-        "SCHW",
-        "ARWR"
+        "WM",
+        "PEGA",
+        "PAG",
+        "HOMB",
+        "FHN",
+        "SKYD"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "OLLI",
-        "PBF",
-        "MPC",
-        "VLO",
-        "PSX",
-        "BF-B",
+        "ACN",
+        "EL",
         "HALO",
-        "COP",
-        "DOCU",
-        "IFF",
-        "MDT",
+        "IT",
+        "HRB",
+        "G",
         "CTSH",
-        "CDW"
+        "MDT"
       ]
     },
     {
@@ -69,23 +42,21 @@
       "tickers": [
         "MRNA",
         "PTC",
-        "P",
-        "VICR",
+        "MAT",
         "SYNA",
         "OPCH",
+        "P",
         "OLLI",
-        "SNPS",
-        "MAT",
-        "GME",
-        "ILMN",
-        "PBF",
-        "MPC",
-        "MTD",
-        "DDOG",
-        "NTAP",
         "ELF",
+        "SNPS",
+        "GME",
+        "GWRE",
+        "ACN",
+        "VEEV",
         "DOCS",
-        "PLTR"
+        "MTD",
+        "SN",
+        "AMGN"
       ]
     },
     {
@@ -95,43 +66,10 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "VFC",
-        "OLLI",
-        "MTD",
-        "ULTA",
-        "CXT",
-        "WSM",
-        "BF-B",
-        "COST",
-        "XOM",
-        "PCTY",
-        "BIIB",
-        "HALO",
-        "ANF",
-        "CAH",
-        "IFF",
-        "PG",
-        "FAST",
-        "GWW",
-        "GGG",
-        "RGA",
-        "CVX",
-        "MUSA",
-        "CME",
-        "CTAS",
-        "ACI",
-        "KR",
-        "SOLS",
-        "UHS",
-        "APD",
-        "THC",
-        "DUK",
-        "TYL",
-        "NOW",
-        "CLH",
-        "MEDP",
-        "TRV",
-        "VRSK"
+        "VEEV",
+        "WM",
+        "PAG",
+        "EQH"
       ]
     },
     {
