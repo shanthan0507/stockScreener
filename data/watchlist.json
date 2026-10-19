@@ -8,7 +8,7 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CLF",
+        "BROS",
         "SLGN"
       ]
     },
@@ -16,16 +16,28 @@
       "name": "Vol Up",
       "tickers": [
         "CLF",
+        "SLGN",
+        "RLI",
+        "WTS",
+        "AMZN",
         "PEGA",
-        "VICR"
+        "LNTH",
+        "PKG",
+        "SYF",
+        "FITB",
+        "LSCC",
+        "ETN",
+        "TTMI",
+        "SITM"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MRNA",
-        "CLF",
         "ANF",
+        "CLF",
+        "BSY",
         "PLTR",
         "TWLO"
       ]
@@ -41,14 +53,13 @@
         "CXT",
         "SYNA",
         "VEEV",
-        "CLF",
-        "OLLI",
-        "MPC",
         "ANF",
+        "MPC",
+        "OLLI",
         "DOCS",
-        "ELF",
+        "CLF",
         "OVV",
-        "PCTY"
+        "ELF"
       ]
     },
     {
@@ -61,8 +72,34 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "CLF",
-        "SLGN"
+        "CXT",
+        "WH",
+        "IT",
+        "EXLS",
+        "HLT",
+        "CAH",
+        "CHRD",
+        "COKE",
+        "CVX",
+        "EL",
+        "WM",
+        "LPX",
+        "TREX",
+        "RS",
+        "SLGN",
+        "EXPO",
+        "PYPL",
+        "AJG",
+        "CELH",
+        "BRK-B",
+        "SJM",
+        "CCK",
+        "HXL",
+        "SOLS",
+        "RLI",
+        "LMT",
+        "AMZN",
+        "FOXA"
       ]
     },
     {
