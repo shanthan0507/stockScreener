@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,37 +8,45 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "BROS",
-        "SLGN"
+        "HAS",
+        "TREX",
+        "EFX",
+        "MSCI",
+        "NOC"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CLF",
-        "SLGN",
-        "RLI",
-        "WTS",
-        "AMZN",
+        "HAS",
+        "WH",
+        "EFX",
+        "NOC",
         "PEGA",
-        "LNTH",
-        "PKG",
-        "SYF",
-        "FITB",
-        "LSCC",
-        "ETN",
-        "TTMI",
-        "SITM"
+        "MMM",
+        "TSCO",
+        "POR",
+        "ESAB",
+        "ALK"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
         "MRNA",
-        "ANF",
-        "CLF",
+        "DOCS",
+        "HAS",
+        "GWRE",
+        "IT",
+        "DOCU",
         "BSY",
-        "PLTR",
+        "KD",
+        "HUBS",
+        "CLF",
+        "WDAY",
+        "BILL",
+        "TSLA",
+        "MRVL",
         "TWLO"
       ]
     },
@@ -47,59 +55,46 @@
       "tickers": [
         "PTC",
         "MRNA",
+        "ACN",
         "OPCH",
         "MAT",
-        "ACN",
-        "CXT",
-        "SYNA",
-        "VEEV",
-        "ANF",
-        "MPC",
-        "OLLI",
         "DOCS",
-        "CLF",
+        "HAS",
+        "GWRE",
+        "IT",
+        "MPC",
+        "VEEV",
+        "DOCU",
+        "SYNA",
+        "BSY",
         "OVV",
-        "ELF"
+        "CXT",
+        "ANF",
+        "DINO"
       ]
     },
     {
       "name": "VCS",
       "tickers": [
         "PTC",
+        "OPCH",
         "SYNA"
       ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "CXT",
-        "WH",
+        "HAS",
         "IT",
-        "EXLS",
         "HLT",
-        "CAH",
-        "CHRD",
-        "COKE",
-        "CVX",
-        "EL",
-        "WM",
-        "LPX",
+        "WMG",
+        "WH",
         "TREX",
-        "RS",
-        "SLGN",
-        "EXPO",
-        "PYPL",
-        "AJG",
-        "CELH",
-        "BRK-B",
-        "SJM",
-        "CCK",
-        "HXL",
+        "EFX",
         "SOLS",
-        "RLI",
-        "LMT",
-        "AMZN",
-        "FOXA"
+        "NOC",
+        "TDY",
+        "MMM"
       ]
     },
     {
