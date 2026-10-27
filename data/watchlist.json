@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,27 +7,83 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "PNR",
+        "NUE",
+        "UPS",
+        "CDNS"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "RRC",
+        "PNR",
+        "RCL",
+        "PII",
+        "UPS",
+        "CNC",
+        "WHR",
+        "AMKR"
+      ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "RRC",
+        "TSLA",
+        "SNPS",
+        "P",
+        "ENTG",
+        "DELL",
+        "LITE",
+        "SMTC"
+      ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "RRC",
+        "PTC",
+        "CART",
+        "OPCH",
+        "BBWI",
+        "HAS",
+        "ACN",
+        "QLYS",
+        "BSY",
+        "CLF",
+        "ANF",
+        "ROP",
+        "DOCS",
+        "CDW",
+        "CXT",
+        "DOCU",
+        "LMT"
+      ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "PTC",
+        "OPCH",
+        "SYNA"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "RRC",
+        "PNR",
+        "CINF",
+        "UPS",
+        "CNC",
+        "CDNS",
+        "HLT",
+        "LECO",
+        "PYPL",
+        "PFG"
+      ]
     },
     {
       "name": "PP Count",
@@ -36,7 +92,8 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "RH"
+        "RRC",
+        "VICR"
       ]
     }
   ]
