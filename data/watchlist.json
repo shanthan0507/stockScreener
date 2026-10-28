@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,112 +8,97 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "NUE",
-        "ADI",
-        "CDNS"
+        "WING",
+        "LH",
+        "GEHC",
+        "EAT",
+        "EVR",
+        "TXRH",
+        "JLL",
+        "CHE",
+        "ENSG",
+        "ORCL"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "CVLT",
-        "EQT",
-        "NUE",
-        "CNP",
-        "CINF",
+        "WING",
+        "MANH",
+        "LH",
+        "GEHC",
         "FTV",
-        "CNC",
-        "AON",
-        "NXPI",
-        "CDNS",
-        "BKR",
-        "LECO",
-        "JCI",
-        "BRX",
-        "KEX",
-        "LII",
-        "IEX",
-        "DLR",
-        "GM",
         "EAT",
-        "KKR",
-        "GE",
-        "CR",
-        "DASH",
-        "LFUS",
-        "FCFS",
-        "AMKR",
-        "FLEX"
+        "PPG",
+        "TXRH",
+        "JLL",
+        "ENSG",
+        "ORCL",
+        "IEX",
+        "CLH",
+        "TEX",
+        "VRT",
+        "FLEX",
+        "STX"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "ADI",
+        "RRC",
+        "ORCL",
+        "P",
         "ENTG",
-        "DELL",
-        "AMD",
-        "LITE"
+        "LITE",
+        "SMTC",
+        "SNDK"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
+        "RRC",
+        "OPCH",
+        "PTC",
         "CART",
         "BBWI",
         "HAS",
         "ACN",
-        "BSY",
+        "VAL",
+        "CDW",
+        "CRL",
+        "ROP",
+        "APA",
         "CLF",
-        "DOCS",
-        "CXT",
-        "ANF",
-        "DOCU"
+        "OVV",
+        "LMT",
+        "DOCU",
+        "CXT"
       ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "OPCH",
+        "PTC",
+        "SYNA"
+      ]
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "AR",
-        "CNX",
-        "DOW",
-        "HOG",
-        "NWE",
-        "LYB",
-        "EQT",
-        "NUE",
-        "KBR",
-        "CNP",
-        "HAE",
-        "CINF",
-        "FTV",
-        "CNC",
-        "IFF",
-        "LULU",
-        "AFL",
+        "WING",
+        "PNR",
+        "PSN",
+        "VFC",
         "LH",
+        "GEHC",
+        "EAT",
+        "AVTR",
+        "CHE",
+        "ECHO",
         "NXPI",
-        "FDX",
-        "HRL",
-        "HLT",
-        "NCLH",
-        "FITB",
-        "CDNS",
-        "BKR",
-        "COLM",
-        "LECO",
-        "BRX",
-        "ITW",
-        "KEX",
-        "LII",
-        "LUV",
-        "IEX",
-        "IQV",
-        "DAL"
+        "VRT"
       ]
     },
     {
@@ -122,7 +107,14 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "RRC",
+        "EAT",
+        "VRT",
+        "LITE",
+        "FLEX",
+        "VICR"
+      ]
     }
   ]
 }
