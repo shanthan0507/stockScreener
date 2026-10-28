@@ -8,81 +8,112 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "PNR",
         "NUE",
-        "UPS",
+        "ADI",
         "CDNS"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "RRC",
-        "PNR",
-        "RCL",
-        "PII",
-        "UPS",
+        "CVLT",
+        "EQT",
+        "NUE",
+        "CNP",
+        "CINF",
+        "FTV",
         "CNC",
-        "WHR",
-        "AMKR"
+        "AON",
+        "NXPI",
+        "CDNS",
+        "BKR",
+        "LECO",
+        "JCI",
+        "BRX",
+        "KEX",
+        "LII",
+        "IEX",
+        "DLR",
+        "GM",
+        "EAT",
+        "KKR",
+        "GE",
+        "CR",
+        "DASH",
+        "LFUS",
+        "FCFS",
+        "AMKR",
+        "FLEX"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "RRC",
-        "TSLA",
-        "SNPS",
-        "P",
+        "ADI",
         "ENTG",
         "DELL",
-        "LITE",
-        "SMTC"
+        "AMD",
+        "LITE"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "RRC",
-        "PTC",
         "CART",
-        "OPCH",
         "BBWI",
         "HAS",
         "ACN",
-        "QLYS",
         "BSY",
         "CLF",
-        "ANF",
-        "ROP",
         "DOCS",
-        "CDW",
         "CXT",
-        "DOCU",
-        "LMT"
+        "ANF",
+        "DOCU"
       ]
     },
     {
       "name": "VCS",
-      "tickers": [
-        "PTC",
-        "OPCH",
-        "SYNA"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "RRC",
-        "PNR",
+        "AR",
+        "CNX",
+        "DOW",
+        "HOG",
+        "NWE",
+        "LYB",
+        "EQT",
+        "NUE",
+        "KBR",
+        "CNP",
+        "HAE",
         "CINF",
-        "UPS",
+        "FTV",
         "CNC",
-        "CDNS",
+        "IFF",
+        "LULU",
+        "AFL",
+        "LH",
+        "NXPI",
+        "FDX",
+        "HRL",
         "HLT",
+        "NCLH",
+        "FITB",
+        "CDNS",
+        "BKR",
+        "COLM",
         "LECO",
-        "PYPL",
-        "PFG"
+        "BRX",
+        "ITW",
+        "KEX",
+        "LII",
+        "LUV",
+        "IEX",
+        "IQV",
+        "DAL"
       ]
     },
     {
@@ -91,10 +122,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "RRC",
-        "VICR"
-      ]
+      "tickers": []
     }
   ]
 }
