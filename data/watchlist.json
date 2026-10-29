@@ -7,99 +7,27 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "WING",
-        "LH",
-        "GEHC",
-        "EAT",
-        "EVR",
-        "TXRH",
-        "JLL",
-        "CHE",
-        "ENSG",
-        "ORCL"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "WING",
-        "MANH",
-        "LH",
-        "GEHC",
-        "FTV",
-        "EAT",
-        "PPG",
-        "TXRH",
-        "JLL",
-        "ENSG",
-        "ORCL",
-        "IEX",
-        "CLH",
-        "TEX",
-        "VRT",
-        "FLEX",
-        "STX"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "RRC",
-        "ORCL",
-        "P",
-        "ENTG",
-        "LITE",
-        "SMTC",
-        "SNDK"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "RRC",
-        "OPCH",
-        "PTC",
-        "CART",
-        "BBWI",
-        "HAS",
-        "ACN",
-        "VAL",
-        "CDW",
-        "CRL",
-        "ROP",
-        "APA",
-        "CLF",
-        "OVV",
-        "LMT",
-        "DOCU",
-        "CXT"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
-      "tickers": [
-        "OPCH",
-        "PTC",
-        "SYNA"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "WING",
-        "PNR",
-        "PSN",
-        "VFC",
-        "LH",
-        "GEHC",
-        "EAT",
-        "AVTR",
-        "CHE",
-        "ECHO",
-        "NXPI",
-        "VRT"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -109,10 +37,6 @@
       "name": "Weekly 20%+ Gainers",
       "tickers": [
         "RRC",
-        "EAT",
-        "VRT",
-        "LITE",
-        "FLEX",
         "VICR"
       ]
     }
