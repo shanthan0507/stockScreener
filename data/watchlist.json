@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,27 +7,117 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "CROX",
+        "NCLH",
+        "FCN",
+        "CHDN",
+        "LLY",
+        "LHX",
+        "EBAY",
+        "MA",
+        "VMC",
+        "HII",
+        "BC",
+        "H",
+        "TXT",
+        "MLM",
+        "ECHO",
+        "DVA",
+        "SIRI",
+        "CRH",
+        "CVNA",
+        "ICE",
+        "FLS"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "OPCH",
+        "CROX",
+        "NCLH",
+        "FCN",
+        "VMC",
+        "HII",
+        "WST",
+        "TXT",
+        "WEC",
+        "DVA",
+        "EHC",
+        "CVNA",
+        "EG",
+        "ALGN",
+        "DASH",
+        "SAIA",
+        "WCC",
+        "CMG",
+        "MGM",
+        "CNH",
+        "LSTR"
+      ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "RRC",
+        "ENTG",
+        "SNPS",
+        "LITE"
+      ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "RRC",
+        "OPCH",
+        "BBWI",
+        "CCI",
+        "HAS",
+        "PTC",
+        "CRL",
+        "CART",
+        "LMT",
+        "VAL",
+        "CROX",
+        "GEN",
+        "CXT",
+        "ROP",
+        "CLF",
+        "HALO",
+        "CDW",
+        "ALLE",
+        "QLYS"
+      ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "OPCH",
+        "PTC",
+        "SYNA"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "CROX",
+        "NCLH",
+        "FCN",
+        "CHDN",
+        "HOG",
+        "LLY",
+        "VMC",
+        "HII",
+        "BC",
+        "WMG",
+        "TXT",
+        "WEC",
+        "CRH",
+        "MSI",
+        "CVNA",
+        "ALGN"
+      ]
     },
     {
       "name": "PP Count",
@@ -36,8 +126,13 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "RRC",
-        "VICR"
+        "WING",
+        "CROX",
+        "NCLH",
+        "EAT",
+        "VRT",
+        "LITE",
+        "FLEX"
       ]
     }
   ]
