@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,27 +7,89 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "ROP",
+        "BAH",
+        "REGN",
+        "TYL",
+        "GPN",
+        "EXEL",
+        "VLTO",
+        "FDXF",
+        "AN"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "REGN",
+        "GPN",
+        "KDP",
+        "FDXF",
+        "VRTX",
+        "BTSG",
+        "MTZ",
+        "SFM"
+      ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "RRC",
+        "WING",
+        "BAH",
+        "LLY"
+      ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "RRC",
+        "OPCH",
+        "BBWI",
+        "WING",
+        "PTC",
+        "FCN",
+        "VAL",
+        "HAS",
+        "ROP",
+        "BAH",
+        "ACN",
+        "GEN",
+        "CART",
+        "CROX",
+        "LMT",
+        "BSY",
+        "HOG",
+        "LLY",
+        "FDS",
+        "REGN"
+      ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "OPCH",
+        "PTC"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "BSY",
+        "REGN",
+        "GPN",
+        "ERIE",
+        "FIS",
+        "BC",
+        "FISV",
+        "FDXF",
+        "MDLZ",
+        "VRTX",
+        "AN",
+        "CVNA",
+        "SYK"
+      ]
     },
     {
       "name": "PP Count",
@@ -36,12 +98,9 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "EAT",
-        "FLEX",
-        "LITE",
-        "RRC",
-        "VICR",
-        "VRT"
+        "WING",
+        "CROX",
+        "CVNA"
       ]
     }
   ]
