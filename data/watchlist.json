@@ -7,117 +7,27 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "CROX",
-        "NCLH",
-        "FCN",
-        "CHDN",
-        "LLY",
-        "LHX",
-        "EBAY",
-        "MA",
-        "VMC",
-        "HII",
-        "BC",
-        "H",
-        "TXT",
-        "MLM",
-        "ECHO",
-        "DVA",
-        "SIRI",
-        "CRH",
-        "CVNA",
-        "ICE",
-        "FLS"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "OPCH",
-        "CROX",
-        "NCLH",
-        "FCN",
-        "VMC",
-        "HII",
-        "WST",
-        "TXT",
-        "WEC",
-        "DVA",
-        "EHC",
-        "CVNA",
-        "EG",
-        "ALGN",
-        "DASH",
-        "SAIA",
-        "WCC",
-        "CMG",
-        "MGM",
-        "CNH",
-        "LSTR"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "RRC",
-        "ENTG",
-        "SNPS",
-        "LITE"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "RRC",
-        "OPCH",
-        "BBWI",
-        "CCI",
-        "HAS",
-        "PTC",
-        "CRL",
-        "CART",
-        "LMT",
-        "VAL",
-        "CROX",
-        "GEN",
-        "CXT",
-        "ROP",
-        "CLF",
-        "HALO",
-        "CDW",
-        "ALLE",
-        "QLYS"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
-      "tickers": [
-        "OPCH",
-        "PTC",
-        "SYNA"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "CROX",
-        "NCLH",
-        "FCN",
-        "CHDN",
-        "HOG",
-        "LLY",
-        "VMC",
-        "HII",
-        "BC",
-        "WMG",
-        "TXT",
-        "WEC",
-        "CRH",
-        "MSI",
-        "CVNA",
-        "ALGN"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -126,13 +36,12 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "WING",
-        "CROX",
-        "NCLH",
         "EAT",
-        "VRT",
+        "FLEX",
         "LITE",
-        "FLEX"
+        "RRC",
+        "VICR",
+        "VRT"
       ]
     }
   ]
