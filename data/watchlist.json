@@ -7,88 +7,28 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "ROP",
-        "BAH",
-        "REGN",
-        "TYL",
-        "GPN",
-        "EXEL",
-        "VLTO",
-        "FDXF",
-        "AN"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "REGN",
-        "GPN",
-        "KDP",
-        "FDXF",
-        "VRTX",
-        "BTSG",
-        "MTZ",
-        "SFM"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "RRC",
-        "WING",
-        "BAH",
-        "LLY"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "RRC",
-        "OPCH",
-        "BBWI",
-        "WING",
-        "PTC",
-        "FCN",
-        "VAL",
-        "HAS",
-        "ROP",
-        "BAH",
-        "ACN",
-        "GEN",
-        "CART",
-        "CROX",
-        "LMT",
-        "BSY",
-        "HOG",
-        "LLY",
-        "FDS",
-        "REGN"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
-      "tickers": [
-        "OPCH",
-        "PTC"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "BSY",
-        "REGN",
-        "GPN",
-        "ERIE",
-        "FIS",
-        "BC",
-        "FISV",
-        "FDXF",
-        "MDLZ",
-        "VRTX",
-        "AN",
-        "CVNA",
-        "SYK"
+        "CNO"
       ]
     },
     {
@@ -98,9 +38,13 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "WING",
         "CROX",
-        "CVNA"
+        "EAT",
+        "FLEX",
+        "LITE",
+        "NCLH",
+        "VRT",
+        "WING"
       ]
     }
   ]
