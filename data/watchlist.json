@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,27 +7,89 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "APP",
+        "VNT",
+        "ELAN",
+        "WYNN"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "APP",
+        "VNT",
+        "ABNB",
+        "ELAN",
+        "ASH",
+        "SOLV",
+        "PWR",
+        "GEV",
+        "EME",
+        "AMD",
+        "SITM",
+        "FN",
+        "COHR",
+        "VIAV",
+        "FIX",
+        "DOCN",
+        "STRL"
+      ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "APP",
+        "FISV",
+        "KD",
+        "VNT",
+        "PLNT",
+        "MRNA",
+        "ELAN",
+        "DUOL"
+      ]
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "FCN",
+        "APP",
+        "FISV",
+        "KD",
+        "VFC",
+        "GKOS",
+        "WING",
+        "CROX",
+        "ROP",
+        "SWK",
+        "IDXX",
+        "RYAN",
+        "VNT",
+        "HAS",
+        "GEN",
+        "BSY",
+        "TYL",
+        "GEHC",
+        "ACN"
+      ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "PAG"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "FISV",
+        "MIDD",
+        "MRNA",
+        "ELAN",
+        "FOUR",
+        "DOCS",
+        "HUM"
+      ]
     },
     {
       "name": "PP Count",
@@ -36,12 +98,13 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "DUOL",
+        "APP",
         "FISV",
         "GPK",
         "IDXX",
-        "KD",
-        "NXT"
+        "MOS",
+        "NXT",
+        "DUOL"
       ]
     }
   ]
