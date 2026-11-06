@@ -7,72 +7,19 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "APP",
-        "VRSK",
-        "RYN",
-        "MSI",
-        "COKE"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "ROP",
-        "BSY",
-        "APP",
-        "VNT",
-        "OTIS",
-        "STE",
-        "VRSK",
-        "EW",
-        "KNSL",
-        "MSI",
-        "BDX",
-        "NXST",
-        "CPAY",
-        "FSLR",
-        "SO",
-        "EVRG",
-        "TTWO",
-        "CHRD",
-        "CVS"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "VFC",
-        "KD",
-        "FISV",
-        "SIRI",
-        "DUOL"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "VFC",
-        "WING",
-        "FCN",
-        "KD",
-        "FISV",
-        "GKOS",
-        "PLNT",
-        "ROP",
-        "GEN",
-        "CCI",
-        "CROX",
-        "IDXX",
-        "GEHC",
-        "TYL",
-        "HAS",
-        "SWK",
-        "BSY",
-        "ACN",
-        "RYAN",
-        "TREX"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
@@ -80,24 +27,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "FISV",
-        "PLNT",
-        "APP",
-        "MIDD",
-        "STE",
-        "AWK",
-        "BR",
-        "RYN",
-        "MSI",
-        "CHTR",
-        "MOS",
-        "VMRK",
-        "LAMR",
-        "CAVA",
-        "FOUR",
-        "SWKS"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -106,12 +36,12 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
+        "DUOL",
         "FISV",
         "GPK",
         "IDXX",
-        "APP",
-        "NXT",
-        "MOS"
+        "KD",
+        "NXT"
       ]
     }
   ]
