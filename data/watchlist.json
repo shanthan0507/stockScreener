@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,103 +7,27 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "CHTR",
-        "BTSG",
-        "TTWO"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "CLX",
-        "ALGN",
-        "AIZ",
-        "PCTY",
-        "TTWO",
-        "OGS",
-        "TDG",
-        "KRG",
-        "AMG",
-        "ES",
-        "LYV",
-        "PPL",
-        "CVS",
-        "SCI",
-        "CHRD",
-        "OXY",
-        "NWS",
-        "AAON",
-        "AMD",
-        "CGNX",
-        "AKAM",
-        "ONTO",
-        "SANM",
-        "LOPE"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "ECHO"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "APP",
-        "FCN",
-        "GKOS",
-        "KD",
-        "CROX",
-        "FISV",
-        "WING",
-        "IDXX",
-        "VNT",
-        "MIDD",
-        "PLNT",
-        "VFC",
-        "BSY",
-        "ROP",
-        "SWK",
-        "FBIN",
-        "TNL",
-        "HAS",
-        "COLM"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
-      "tickers": [
-        "PAG"
-      ]
+      "tickers": []
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "CLX",
-        "HAS",
-        "CHTR",
-        "ROIV",
-        "ALGN",
-        "MOS",
-        "AIZ",
-        "FIVE",
-        "BR",
-        "PCTY",
-        "ICE",
-        "TTWO",
-        "FDS",
-        "WH",
-        "OGS",
-        "IDA",
-        "FOXA",
-        "VMRK",
-        "KRG",
-        "AMG",
-        "CNX",
-        "MAT"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
