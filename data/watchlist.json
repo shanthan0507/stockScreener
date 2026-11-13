@@ -7,48 +7,19 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "ANET"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "TTEK",
-        "XEL",
-        "AVGO",
-        "AMD",
-        "SLAB",
-        "OXY",
-        "SANM",
-        "ENS"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "AMD"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
-      "tickers": [
-        "GKOS",
-        "FCN",
-        "FISV",
-        "VNT",
-        "KD",
-        "IDXX",
-        "CROX",
-        "ROP",
-        "MIDD",
-        "RRC",
-        "HAS",
-        "ALLE",
-        "BSY",
-        "SWK",
-        "WING"
-      ]
+      "tickers": []
     },
     {
       "name": "VCS",
@@ -56,9 +27,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "CTRE"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -67,16 +36,18 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "MPWR",
-        "ANET",
-        "AVGO",
-        "AMD",
         "AAON",
-        "COHR",
-        "ONTO",
-        "SANM",
+        "AMD",
+        "BE",
         "CIEN",
+        "COHR",
         "DOCN",
+        "ENTG",
+        "LITE",
+        "MPWR",
+        "ONTO",
+        "SMTC",
+        "STRL",
         "TER"
       ]
     }
