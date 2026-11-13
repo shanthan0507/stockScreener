@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "buckets": [
     {
       "name": "21EMA",
@@ -11,7 +11,12 @@
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "KDP",
+        "SO",
+        "YETI",
+        "HWC"
+      ]
     },
     {
       "name": "Momentum 97",
@@ -19,7 +24,25 @@
     },
     {
       "name": "97 Club",
-      "tickers": []
+      "tickers": [
+        "APP",
+        "GKOS",
+        "FCN",
+        "FISV",
+        "CROX",
+        "VNT",
+        "KD",
+        "IDXX",
+        "GEN",
+        "BSY",
+        "ROP",
+        "MIDD",
+        "EW",
+        "VFC",
+        "SWK",
+        "ALLE",
+        "COLM"
+      ]
     },
     {
       "name": "VCS",
@@ -27,7 +50,11 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "KDP",
+        "SO",
+        "GME"
+      ]
     },
     {
       "name": "PP Count",
@@ -36,19 +63,7 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "AAON",
-        "AMD",
-        "BE",
-        "CIEN",
-        "COHR",
-        "DOCN",
-        "ENTG",
-        "LITE",
-        "MPWR",
-        "ONTO",
-        "SMTC",
-        "STRL",
-        "TER"
+        "AAON"
       ]
     }
   ]
