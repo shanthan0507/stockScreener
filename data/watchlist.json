@@ -12,10 +12,10 @@
     {
       "name": "Vol Up",
       "tickers": [
-        "KDP",
-        "SO",
-        "YETI",
-        "HWC"
+        "COLB",
+        "ASH",
+        "AM",
+        "ADM"
       ]
     },
     {
@@ -26,20 +26,7 @@
       "name": "97 Club",
       "tickers": [
         "APP",
-        "GKOS",
-        "FCN",
-        "FISV",
-        "CROX",
-        "VNT",
-        "KD",
-        "IDXX",
-        "GEN",
         "BSY",
-        "ROP",
-        "MIDD",
-        "EW",
-        "VFC",
-        "SWK",
         "ALLE",
         "COLM"
       ]
@@ -51,9 +38,7 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "KDP",
-        "SO",
-        "GME"
+        "CHTR"
       ]
     },
     {
@@ -63,7 +48,12 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
-        "AAON"
+        "AAON",
+        "DOCN",
+        "MPWR",
+        "ONTO",
+        "SANM",
+        "TER"
       ]
     }
   ]
