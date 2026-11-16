@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,28 +7,74 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "BILL",
+        "GXO",
+        "TSN",
+        "TSCO",
+        "MOH",
+        "CNC"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "COLB",
-        "ASH",
-        "AM",
-        "ADM"
+        "BILL",
+        "ACM",
+        "GXO",
+        "DUOL",
+        "TSN",
+        "ED",
+        "MOH",
+        "CHD",
+        "CL",
+        "AFL",
+        "SO",
+        "UNP",
+        "ELV",
+        "ARMK",
+        "STWD"
       ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "BILL",
+        "ACM",
+        "HOG",
+        "GXO",
+        "LUV",
+        "HCA",
+        "VRSK",
+        "HUM",
+        "CNC",
+        "OLLI",
+        "ELV"
+      ]
     },
     {
       "name": "97 Club",
       "tickers": [
         "APP",
-        "BSY",
+        "GKOS",
+        "FCN",
+        "CROX",
+        "FISV",
+        "VNT",
+        "CLX",
+        "GEN",
+        "MIDD",
+        "ROP",
+        "BILL",
+        "COLM",
+        "IDXX",
+        "KD",
+        "HOG",
+        "SWK",
+        "CBOE",
+        "HAS",
         "ALLE",
-        "COLM"
+        "EW"
       ]
     },
     {
@@ -38,7 +84,24 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "CHTR"
+        "BILL",
+        "ACM",
+        "TSN",
+        "TSCO",
+        "HRL",
+        "BR",
+        "MOH",
+        "CHD",
+        "CHH",
+        "BJ",
+        "CL",
+        "GIS",
+        "DRI",
+        "GHC",
+        "PCG",
+        "OLLI",
+        "ELV",
+        "ARMK"
       ]
     },
     {
@@ -47,14 +110,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "AAON",
-        "DOCN",
-        "MPWR",
-        "ONTO",
-        "SANM",
-        "TER"
-      ]
+      "tickers": []
     }
   ]
 }
