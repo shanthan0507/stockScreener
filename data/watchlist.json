@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,49 +8,31 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "BILL",
-        "GXO",
-        "TSN",
-        "TSCO",
-        "MOH",
-        "CNC"
+        "ACM",
+        "BILL"
       ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "BILL",
         "ACM",
-        "GXO",
-        "DUOL",
-        "TSN",
-        "ED",
-        "MOH",
-        "CHD",
-        "CL",
-        "AFL",
-        "SO",
-        "UNP",
-        "ELV",
-        "SLAB",
+        "BILL",
+        "AES",
         "ARMK",
-        "STWD"
+        "CHRW",
+        "MSA",
+        "GEV"
       ]
     },
     {
       "name": "Momentum 97",
       "tickers": [
-        "BILL",
         "ACM",
+        "BILL",
         "HOG",
-        "GXO",
         "LUV",
-        "HCA",
-        "VRSK",
-        "HUM",
-        "CNC",
-        "OLLI",
-        "ELV"
+        "NYT",
+        "CNC"
       ]
     },
     {
@@ -58,24 +40,19 @@
       "tickers": [
         "APP",
         "GKOS",
+        "ACM",
         "FCN",
+        "BILL",
         "CROX",
         "FISV",
         "VNT",
-        "CLX",
-        "GEN",
-        "MIDD",
-        "ROP",
-        "BILL",
-        "COLM",
         "IDXX",
-        "KD",
+        "COLM",
         "HOG",
-        "SWK",
-        "CBOE",
-        "HAS",
-        "ALLE",
-        "EW"
+        "MIDD",
+        "EXPO",
+        "EW",
+        "ALLE"
       ]
     },
     {
@@ -85,27 +62,20 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "BILL",
         "ACM",
-        "EW",
-        "TSN",
-        "JKHY",
+        "BILL",
         "TSCO",
-        "HRL",
-        "BR",
-        "MOH",
-        "CHD",
-        "CHH",
-        "BJ",
-        "CL",
-        "GIS",
-        "DRI",
-        "GHC",
-        "PCG",
-        "OLLI",
-        "ELV",
-        "TECH",
-        "ARMK"
+        "BDX",
+        "DPZ",
+        "RSG",
+        "D",
+        "NJR",
+        "TGT",
+        "SYK",
+        "AZO",
+        "CTRE",
+        "AES",
+        "MET"
       ]
     },
     {
