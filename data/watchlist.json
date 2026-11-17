@@ -32,6 +32,7 @@
         "SO",
         "UNP",
         "ELV",
+        "SLAB",
         "ARMK",
         "STWD"
       ]
@@ -86,7 +87,9 @@
       "tickers": [
         "BILL",
         "ACM",
+        "EW",
         "TSN",
+        "JKHY",
         "TSCO",
         "HRL",
         "BR",
@@ -101,6 +104,7 @@
         "PCG",
         "OLLI",
         "ELV",
+        "TECH",
         "ARMK"
       ]
     },
