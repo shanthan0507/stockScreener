@@ -17,11 +17,13 @@
       "tickers": [
         "ACM",
         "BILL",
+        "SYK",
         "AES",
         "ARMK",
         "CHRW",
         "MSA",
-        "GEV"
+        "GEV",
+        "CMI"
       ]
     },
     {
@@ -65,6 +67,7 @@
         "ACM",
         "BILL",
         "TSCO",
+        "CART",
         "BDX",
         "DPZ",
         "RSG",
@@ -74,6 +77,7 @@
         "SYK",
         "AZO",
         "CTRE",
+        "TXNM",
         "AES",
         "MET"
       ]
