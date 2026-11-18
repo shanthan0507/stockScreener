@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,8 +8,14 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "ACM",
-        "BILL"
+        "PVH",
+        "SN",
+        "CELH",
+        "BMRN",
+        "TGT",
+        "DIS",
+        "M",
+        "TTWO"
       ]
     },
     {
@@ -17,13 +23,28 @@
       "tickers": [
         "ACM",
         "BILL",
-        "SYK",
+        "HGV",
+        "LIVN",
+        "LOW",
+        "TGT",
+        "DIS",
+        "D",
+        "ED",
+        "WELL",
+        "TTWO",
+        "WMG",
+        "CNX",
+        "HZN",
+        "BIO",
+        "WSM",
         "AES",
-        "ARMK",
-        "CHRW",
+        "PNW",
+        "SGI",
+        "WWD",
+        "PANW",
         "MSA",
-        "GEV",
-        "CMI"
+        "TJX",
+        "DTM"
       ]
     },
     {
@@ -31,30 +52,35 @@
       "tickers": [
         "ACM",
         "BILL",
-        "HOG",
+        "TSCO",
         "LUV",
-        "NYT",
-        "CNC"
+        "TSN",
+        "CRWD",
+        "OKTA"
       ]
     },
     {
       "name": "97 Club",
       "tickers": [
         "APP",
-        "GKOS",
         "ACM",
         "FCN",
-        "BILL",
         "CROX",
-        "FISV",
+        "BILL",
+        "GKOS",
+        "WING",
+        "CLX",
         "VNT",
-        "IDXX",
         "COLM",
-        "HOG",
+        "GEN",
+        "IDXX",
+        "NXST",
+        "FISV",
         "MIDD",
+        "VFC",
+        "HOG",
         "EXPO",
-        "EW",
-        "ALLE"
+        "GEHC"
       ]
     },
     {
@@ -66,20 +92,38 @@
       "tickers": [
         "ACM",
         "BILL",
+        "HGV",
+        "PLNT",
+        "LIVN",
         "TSCO",
-        "CART",
-        "BDX",
-        "DPZ",
-        "RSG",
+        "PVH",
+        "JAZZ",
+        "SN",
+        "LULU",
+        "PSN",
+        "BRX",
+        "DRI",
+        "BMRN",
+        "BYD",
+        "TGT",
+        "CHH",
+        "DGX",
+        "BJ",
         "D",
         "NJR",
-        "TGT",
-        "SYK",
-        "AZO",
-        "CTRE",
-        "TXNM",
-        "AES",
-        "MET"
+        "VVV",
+        "CHE",
+        "BBY",
+        "MTN",
+        "M",
+        "FE",
+        "TTWO",
+        "KRG",
+        "WMG",
+        "WSM",
+        "GME",
+        "L",
+        "TJX"
       ]
     },
     {
@@ -88,7 +132,9 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "BILL"
+      ]
     }
   ]
 }
