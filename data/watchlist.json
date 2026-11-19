@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,31 +7,91 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "VVV",
+        "WWD",
+        "OKTA",
+        "PANW"
+      ]
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "HZN"
+        "PNR",
+        "VVV",
+        "WWD",
+        "GME",
+        "PANW",
+        "AES",
+        "SLAB",
+        "RGA",
+        "EXPD",
+        "BBWI",
+        "P",
+        "NEU",
+        "IESC"
       ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "ACM",
+        "BILL",
+        "VVV",
+        "TSN",
+        "TSCO",
+        "GME",
+        "OKTA",
+        "CRWD"
+      ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "HZN"
+        "APP",
+        "GKOS",
+        "ACM",
+        "CROX",
+        "FCN",
+        "CMG",
+        "BILL",
+        "VNT",
+        "WING",
+        "IDXX",
+        "GEN",
+        "NXST",
+        "COLM",
+        "MIDD",
+        "SIRI",
+        "TNL",
+        "ELAN",
+        "EXPO",
+        "EW"
       ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "OPCH",
+        "PTC",
+        "PAG"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "PNR",
+        "VVV",
+        "WWD",
+        "BMRN",
+        "TGT",
+        "CHE",
+        "GME",
+        "BJ",
+        "WMG",
+        "OKTA",
+        "HSY"
+      ]
     },
     {
       "name": "PP Count",
