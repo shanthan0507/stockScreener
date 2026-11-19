@@ -7,80 +7,22 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": [
-        "PVH",
-        "SN",
-        "CELH",
-        "BMRN",
-        "TGT",
-        "DIS",
-        "M",
-        "TTWO"
-      ]
+      "tickers": []
     },
     {
       "name": "Vol Up",
       "tickers": [
-        "ACM",
-        "BILL",
-        "HGV",
-        "LIVN",
-        "LOW",
-        "TGT",
-        "DIS",
-        "D",
-        "ED",
-        "WELL",
-        "TTWO",
-        "WMG",
-        "CNX",
-        "HZN",
-        "BIO",
-        "WSM",
-        "AES",
-        "PNW",
-        "SGI",
-        "WWD",
-        "PANW",
-        "MSA",
-        "TJX",
-        "DTM"
+        "HZN"
       ]
     },
     {
       "name": "Momentum 97",
-      "tickers": [
-        "ACM",
-        "BILL",
-        "TSCO",
-        "LUV",
-        "TSN",
-        "CRWD",
-        "OKTA"
-      ]
+      "tickers": []
     },
     {
       "name": "97 Club",
       "tickers": [
-        "APP",
-        "ACM",
-        "FCN",
-        "CROX",
-        "BILL",
-        "GKOS",
-        "WING",
-        "CLX",
-        "VNT",
-        "COLM",
-        "GEN",
-        "IDXX",
-        "NXST",
-        "FISV",
-        "MIDD",
-        "VFC",
-        "HOG",
-        "EXPO",
-        "GEHC"
+        "HZN"
       ]
     },
     {
@@ -89,42 +31,7 @@
     },
     {
       "name": "Pocket Pivot",
-      "tickers": [
-        "ACM",
-        "BILL",
-        "HGV",
-        "PLNT",
-        "LIVN",
-        "TSCO",
-        "PVH",
-        "JAZZ",
-        "SN",
-        "LULU",
-        "PSN",
-        "BRX",
-        "DRI",
-        "BMRN",
-        "BYD",
-        "TGT",
-        "CHH",
-        "DGX",
-        "BJ",
-        "D",
-        "NJR",
-        "VVV",
-        "CHE",
-        "BBY",
-        "MTN",
-        "M",
-        "FE",
-        "TTWO",
-        "KRG",
-        "WMG",
-        "WSM",
-        "GME",
-        "L",
-        "TJX"
-      ]
+      "tickers": []
     },
     {
       "name": "PP Count",
@@ -132,9 +39,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "BILL"
-      ]
+      "tickers": []
     }
   ]
 }
