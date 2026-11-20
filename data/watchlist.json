@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,29 +7,108 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "GPN"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "VLTO",
+        "GPN",
+        "COST",
+        "WMT",
+        "APG",
+        "HD",
+        "NJR",
+        "HSY",
+        "GIS",
+        "ED",
+        "GHC",
+        "TTWO",
+        "JNJ",
+        "VRSN",
+        "AES",
+        "MMS",
+        "POST",
+        "CTAS",
+        "MOG-A",
+        "INVH",
+        "GAP",
+        "UGI",
+        "IFF",
+        "UNH",
+        "SFM"
+      ]
     },
     {
       "name": "Momentum 97",
-      "tickers": []
+      "tickers": [
+        "ACM",
+        "BILL",
+        "TSCO",
+        "TSN",
+        "VVV",
+        "GME",
+        "WMG",
+        "OKTA"
+      ]
     },
     {
       "name": "97 Club",
       "tickers": [
-        "HZN"
+        "GKOS",
+        "FCN",
+        "ACM",
+        "CROX",
+        "CMG",
+        "WING",
+        "VNT",
+        "CLX",
+        "COLM",
+        "BILL",
+        "IDXX",
+        "TNL",
+        "GEN",
+        "MIDD",
+        "EXPO",
+        "TSCO"
       ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "OPCH",
+        "PTC",
+        "PAG"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "FCN",
+        "EXPO",
+        "TMUS",
+        "HRL",
+        "COST",
+        "KNSL",
+        "SIGI",
+        "CPRT",
+        "ADC",
+        "WMT",
+        "APG",
+        "CL",
+        "AVNT",
+        "VZ",
+        "GIS",
+        "SJM",
+        "TTWO",
+        "PHM",
+        "JNJ",
+        "MMS",
+        "HIG",
+        "ADSK"
+      ]
     },
     {
       "name": "PP Count",
@@ -37,9 +116,7 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": [
-        "BILL"
-      ]
+      "tickers": []
     }
   ]
 }
