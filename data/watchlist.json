@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "buckets": [
     {
       "name": "21EMA",
@@ -7,11 +7,95 @@
     },
     {
       "name": "4% Bullish",
-      "tickers": []
+      "tickers": [
+        "GPK",
+        "CVNA",
+        "FLS",
+        "MPWR",
+        "CR",
+        "APG",
+        "ITT",
+        "VC",
+        "GXO",
+        "DD",
+        "FERG",
+        "ZBH",
+        "TLN",
+        "PWR",
+        "UAL",
+        "J",
+        "SOLS",
+        "ALGN",
+        "ARES",
+        "ALK",
+        "HLNE",
+        "EEFT",
+        "NRG",
+        "FLR",
+        "AAL",
+        "VRTX",
+        "DOC",
+        "MLM",
+        "FND",
+        "APH",
+        "WAB",
+        "F",
+        "PH",
+        "HON",
+        "DECK"
+      ]
     },
     {
       "name": "Vol Up",
-      "tickers": []
+      "tickers": [
+        "COLM",
+        "BILL",
+        "CAR",
+        "WWD",
+        "CR",
+        "DLTR",
+        "DD",
+        "BDX",
+        "PWR",
+        "LYV",
+        "APH",
+        "Q",
+        "BIO",
+        "XYZ",
+        "TXN",
+        "GAP",
+        "HAS",
+        "ARE",
+        "DASH",
+        "DY",
+        "AVGO",
+        "SITM",
+        "ADI",
+        "DKS",
+        "NXT",
+        "GS",
+        "WCC",
+        "PANW",
+        "AMAT",
+        "KEYS",
+        "STWD",
+        "AMD",
+        "ANF",
+        "WSM",
+        "ARW",
+        "HWC",
+        "CMI",
+        "HPE",
+        "MCHP",
+        "IESC",
+        "MU",
+        "NVDA",
+        "FCX",
+        "SMTC",
+        "TER",
+        "SMCI",
+        "DELL"
+      ]
     },
     {
       "name": "Momentum 97",
@@ -20,16 +104,84 @@
     {
       "name": "97 Club",
       "tickers": [
-        "GHC"
+        "GKOS",
+        "ACM",
+        "CROX",
+        "FCN",
+        "VNT",
+        "COLM",
+        "GEN",
+        "BILL",
+        "TNL",
+        "NXST",
+        "IDXX",
+        "WING",
+        "MIDD",
+        "VFC"
       ]
     },
     {
       "name": "VCS",
-      "tickers": []
+      "tickers": [
+        "OPCH"
+      ]
     },
     {
       "name": "Pocket Pivot",
-      "tickers": []
+      "tickers": [
+        "COLM",
+        "GPK",
+        "CAR",
+        "FLS",
+        "EXPO",
+        "CR",
+        "APG",
+        "BC",
+        "DLTR",
+        "HR",
+        "AIZ",
+        "DD",
+        "BDX",
+        "OMC",
+        "RLI",
+        "DRI",
+        "CPRT",
+        "BRX",
+        "WMT",
+        "RYN",
+        "KNSL",
+        "J",
+        "MDT",
+        "OSK",
+        "SMG",
+        "CHD",
+        "CL",
+        "DG",
+        "NI",
+        "SJM",
+        "GIS",
+        "DOC",
+        "KO",
+        "WTW",
+        "SLGN",
+        "EXLS",
+        "CMS",
+        "BIIB",
+        "V",
+        "JNJ",
+        "UFPI",
+        "WELL",
+        "AMH",
+        "WM",
+        "NNN",
+        "PEN",
+        "COO",
+        "TSLA",
+        "PK",
+        "CRL",
+        "OLED",
+        "CSGP"
+      ]
     },
     {
       "name": "PP Count",
@@ -37,7 +189,11 @@
     },
     {
       "name": "Weekly 20%+ Gainers",
-      "tickers": []
+      "tickers": [
+        "SITM",
+        "NVDA",
+        "DELL"
+      ]
     }
   ]
 }
