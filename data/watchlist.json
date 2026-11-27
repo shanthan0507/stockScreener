@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "buckets": [
     {
       "name": "21EMA",
@@ -8,49 +8,13 @@
     {
       "name": "4% Bullish",
       "tickers": [
-        "CHTR",
-        "CAR",
-        "CSGP",
         "ANF",
-        "FND",
-        "CNH",
-        "OC",
-        "AGCO",
-        "COKE"
+        "ABNB"
       ]
     },
     {
       "name": "Vol Up",
-      "tickers": [
-        "BILL",
-        "BMRN",
-        "DIS",
-        "RLI",
-        "TEX",
-        "DG",
-        "ANF",
-        "WTW",
-        "MKC",
-        "CNH",
-        "AMH",
-        "AEE",
-        "AXTA",
-        "REG",
-        "HLNE",
-        "ATO",
-        "MAA",
-        "DE",
-        "HPQ",
-        "PINS",
-        "ST",
-        "WDAY",
-        "NXT",
-        "AXON",
-        "TPL",
-        "ADI",
-        "VAL",
-        "DELL"
-      ]
+      "tickers": []
     },
     {
       "name": "Momentum 97",
@@ -65,22 +29,23 @@
     {
       "name": "97 Club",
       "tickers": [
-        "GKOS",
+        "APP",
+        "CHTR",
+        "GPK",
         "ACM",
-        "FCN",
-        "CROX",
-        "COLM",
         "VNT",
-        "TSCO",
-        "NXST",
+        "COLM",
         "BILL",
+        "NXST",
         "CLX",
         "IDXX",
-        "VFC",
         "BCO",
-        "BMRN",
+        "VFC",
+        "REGN",
+        "KD",
+        "TSCO",
         "VVV",
-        "TNL"
+        "EXPO"
       ]
     },
     {
@@ -90,78 +55,9 @@
     {
       "name": "Pocket Pivot",
       "tickers": [
-        "CHTR",
-        "CAR",
-        "GPK",
-        "TSCO",
-        "IDXX",
-        "CSGP",
-        "BCO",
-        "BRO",
-        "EXPO",
-        "CPRT",
-        "NBIX",
-        "CRH",
-        "AJG",
-        "SLGN",
-        "JLL",
-        "CBRE",
-        "TEX",
-        "EXLS",
-        "LVS",
-        "DG",
-        "PLNT",
-        "IR",
-        "BC",
-        "ANF",
-        "WTW",
-        "BRX",
-        "COR",
-        "FND",
-        "MKC",
-        "CDW",
-        "EXP",
-        "AZO",
-        "O",
-        "H",
-        "BAX",
-        "AMH",
-        "WY",
-        "APO",
-        "CUZ",
-        "AEE",
-        "EFX",
-        "CNM",
-        "KRG",
-        "POR",
-        "OGE",
-        "OC",
-        "MANH",
-        "COO",
-        "SJM",
-        "MZTI",
-        "AXTA",
-        "LEN",
-        "COKE",
-        "FAF",
-        "NI",
-        "TXT",
-        "DBX",
-        "ADSK",
-        "HAE",
-        "SON",
-        "AMCR",
-        "ESNT",
-        "MAA",
-        "CPT",
-        "WTFC",
-        "PKG",
-        "ISRG",
-        "HPQ",
-        "PK",
-        "LMT",
-        "RRC",
-        "AR"
+        "WTRG",
+        "ABNB",
+        "VRTX"
       ]
     },
     {
@@ -171,8 +67,13 @@
     {
       "name": "Weekly 20%+ Gainers",
       "tickers": [
+        "FOUR",
+        "DKS",
         "ANF",
-        "PINS"
+        "TEX",
+        "PINS",
+        "AXON",
+        "ARWR"
       ]
     }
   ]
